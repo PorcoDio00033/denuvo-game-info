@@ -331,7 +331,9 @@ def parse_table(table):
                 elif col_name in ['released', 'cracked', 'release']:
                     cell_text = cell.get_text().strip()
                     row_data[col_name] = parse_date(cell_text)
-                elif col_name in ['by', 'bypassed_by']:
+                elif col_name == 'by':
+                    row_data['cracked_by'] = parse_cracker_list(cell)
+                elif col_name == 'bypassed_by':
                     row_data[col_name] = parse_cracker_list(cell)
                 elif col_name == 'playable_on_emulator':
                     cell_text = cell.get_text().strip()
