@@ -1,4 +1,4 @@
-import requests
+from curl_cffi import requests
 import json
 import csv
 import html
@@ -21,12 +21,9 @@ OUTPUT_CSV = "denuvo_games.csv"
 
 def fetch_reddit_data():
     """Fetches the Reddit thread JSON and extracts the selftext_html."""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3'
-    }
     try:
         logger.info(f"Fetching data from {REDDIT_URL}")
-        response = requests.get(REDDIT_URL, headers=headers)
+        response = requests.get(REDDIT_URL, impersonate="safari18_4_ios")
         response.raise_for_status()
         data = response.json()
         
