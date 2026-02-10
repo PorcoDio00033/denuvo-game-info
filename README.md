@@ -1,6 +1,6 @@
 # Denuvo Games Info
 
-Python-based tool that automatically tracks and provides up-to-date information about Denuvo-protected games in machine-readable formats. It fetches data from [EssenseOfMagic thread](https://www.reddit.com/r/CrackWatch/comments/p9ak4n/crack_watch_games) on [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), parses it, and exports it into JSON and CSV.
+Python-based tool that automatically tracks and provides up-to-date information about Denuvo-protected games in machine-readable formats. It fetches data from [EssenseOfMagic thread](https://www.reddit.com/r/CrackWatch/comments/p9ak4n/crack_watch_games) on [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), parses it, and exports it into [JSON](https://raw.githubusercontent.com/PorcoDio00033/denuvo-game-info/refs/heads/main/denuvo_games.json) and [CSV](https://raw.githubusercontent.com/PorcoDio00033/denuvo-game-info/refs/heads/main/denuvo_games.csv).
 
 Huge thanks to [u/EssenseOfMagic](https://www.reddit.com/user/EssenseOfMagic/) for keeping a nice and updated list.
 
