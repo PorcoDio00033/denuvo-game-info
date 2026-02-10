@@ -92,7 +92,7 @@ def fetch_reddit_data():
             response = requests.get(
                 REDDIT_URL,
                 impersonate="safari18_4_ios",
-                proxy={"http": proxy, "https": proxy},
+                proxies={"http": proxy, "https": proxy},
                 timeout=30
             )
             response.raise_for_status()
