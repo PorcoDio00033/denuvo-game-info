@@ -1149,7 +1149,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-01-14T00:00:00Z",
       "cracked": "2025-12-06T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/2215260",
@@ -1164,7 +1164,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2021-02-23T00:00:00Z",
       "cracked": "2021-02-19T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "whiteee"
       ],
       "store_link": "https://store.steampowered.com/app/1382330",
@@ -1179,7 +1179,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-03-19T00:00:00Z",
       "cracked": "2021-04-01T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "sst311212"
       ],
       "store_link": "https://vndb.org/v28260"
@@ -1193,7 +1193,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-03-30T00:00:00Z",
       "cracked": "2022-06-16T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/700600",
@@ -1208,7 +1208,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-05-25T00:00:00Z",
       "cracked": "2025-11-24T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1413480/",
@@ -1223,7 +1223,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-07-16T00:00:00Z",
       "cracked": "2025-12-15T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1134570/",
@@ -1238,7 +1238,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-09-07T00:00:00Z",
       "cracked": "2025-12-27T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/2055290",
@@ -1253,7 +1253,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2021-09-14T00:00:00Z",
       "cracked": "2022-04-08T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/1252330/",
@@ -1268,7 +1268,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-10-02T00:00:00Z",
       "cracked": "2025-12-31T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1506830",
@@ -1284,7 +1284,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2021-10-07T00:00:00Z",
       "cracked": "2022-06-02T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/2369390/",
@@ -1299,7 +1299,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2021-10-26T00:00:00Z",
       "cracked": "2022-06-30T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/1088850",
@@ -1314,7 +1314,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2021-11-09T00:00:00Z",
       "cracked": "2022-03-08T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "machine4578"
       ],
       "store_link": "https://store.steampowered.com/app/1244460",
@@ -1329,7 +1329,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2022-07-01T00:00:00Z",
       "cracked": "2022-07-08T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "sam2k8",
         "Razor1911"
       ],
@@ -1345,7 +1345,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2022-09-14T00:00:00Z",
       "cracked": "2023-08-14T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/2058180",
@@ -1360,7 +1360,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2022-10-01T00:00:00Z",
       "cracked": "2023-08-22T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "MKDEV"
       ],
       "store_link": "https://store.steampowered.com/app/1811260",
@@ -1375,7 +1375,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2022-10-21T00:00:00Z",
       "cracked": "2025-12-14T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "MKDEV"
       ],
       "store_link": "https://store.steampowered.com/app/1687950",
@@ -1390,7 +1390,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2022-11-08T00:00:00Z",
       "cracked": "2023-02-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "MKDEV"
       ],
       "store_link": "https://store.steampowered.com/app/1904540",
@@ -1405,7 +1405,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2022-11-08T00:00:00Z",
       "cracked": "2026-01-28T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1237320",
@@ -1420,7 +1420,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2023-01-27T00:00:00Z",
       "cracked": "2026-01-11T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1693980",
@@ -1435,7 +1435,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2023-02-10T00:00:00Z",
       "cracked": "2023-02-23T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/990080",
@@ -1450,7 +1450,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2023-02-16T00:00:00Z",
       "cracked": "2023-03-27T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Anadius",
         "RUNE"
       ],
@@ -1466,7 +1466,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2023-02-21T00:00:00Z",
       "cracked": "2023-02-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "MrLemon"
       ],
       "store_link": "https://store.steampowered.com/app/668580",
@@ -1481,7 +1481,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2023-06-01T00:00:00Z",
       "cracked": "2023-06-01T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CHRONOS"
       ],
       "store_link": "https://store.steampowered.com/app/1868180",
@@ -1496,7 +1496,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2023-06-01T00:00:00Z",
       "cracked": "2023-06-01T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CHRONOS"
       ],
       "store_link": "https://store.steampowered.com/app/1868170",
@@ -1511,7 +1511,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2023-06-01T00:00:00Z",
       "cracked": "2023-06-01T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CHRONOS"
       ],
       "store_link": "https://store.steampowered.com/app/1810820",
@@ -1527,7 +1527,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2023-10-05T00:00:00Z",
       "cracked": "2024-11-15T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Anonymous user"
       ],
       "store_link": "https://store.steampowered.com/app/3035570",
@@ -1542,7 +1542,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2024-03-22T00:00:00Z",
       "cracked": "2024-11-16T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "rain0x06"
       ],
       "store_link": "https://store.steampowered.com/app/2054970",
@@ -1557,7 +1557,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2025-01-28T00:00:00Z",
       "cracked": "2025-12-16T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "RUNE"
       ],
       "store_link": "https://store.steampowered.com/app/2604480",
@@ -1574,7 +1574,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2014-09-23T00:00:00Z",
       "cracked": "2015-02-01T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "3DM (Fixed by CPY)"
       ],
       "store_link": "Unavailable"
@@ -1588,7 +1588,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2014-11-18T00:00:00Z",
       "cracked": "2014-12-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "3DM (Fixed by CPY)",
         "merumeru"
       ],
@@ -1604,7 +1604,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2015-03-17T00:00:00Z",
       "cracked": "2015-08-13T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://store.steampowered.com/app/1238880",
@@ -1619,7 +1619,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2015-09-01T00:00:00Z",
       "cracked": "2015-09-10T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "3DM (Fixed by CPY)",
         "CODEX"
       ],
@@ -1635,7 +1635,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2015-09-22T00:00:00Z",
       "cracked": "2024-04-11T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "DELUSIONAL"
       ],
       "store_link": "Unavailable"
@@ -1649,7 +1649,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2015-11-17T00:00:00Z",
       "cracked": "2024-05-14T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "DELUSIONAL"
       ],
       "store_link": "https://store.steampowered.com/app/1237980",
@@ -1664,7 +1664,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-02-09T00:00:00Z",
       "cracked": "2017-07-04T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "https://store.steampowered.com/app/1225560",
@@ -1680,7 +1680,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-03-01T00:00:00Z",
       "cracked": "2017-01-08T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "CODEX"
       ],
@@ -1696,7 +1696,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2016-05-24T00:00:00Z",
       "cracked": "2017-06-17T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "https://steampowered.com/app/364360",
@@ -1711,7 +1711,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-06-07T00:00:00Z",
       "cracked": "2016-10-02T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://store.steampowered.com/app/1233570",
@@ -1726,7 +1726,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-08-19T00:00:00Z",
       "cracked": "2017-06-26T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "https://steampowered.com/app/391040",
@@ -1741,7 +1741,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2016-08-25T00:00:00Z",
       "cracked": "2017-10-21T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEPUNKS"
       ],
       "store_link": "https://steampowered.com/app/427100",
@@ -1756,7 +1756,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-08-28T00:00:00Z",
       "cracked": "2016-11-08T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "Voksi"
       ],
@@ -1772,7 +1772,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-08-30T00:00:00Z",
       "cracked": "2017-01-22T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "DeltaT"
       ],
@@ -1789,7 +1789,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2016-08-30T00:00:00Z",
       "cracked": "2016-12-25T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "CODEX"
       ],
@@ -1805,7 +1805,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-09-27T00:00:00Z",
       "cracked": "2017-07-12T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "Unavailable"
@@ -1819,7 +1819,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-09-30T00:00:00Z",
       "cracked": "2016-10-27T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "Unavailable"
@@ -1833,7 +1833,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-10-14T00:00:00Z",
       "cracked": "2017-06-15T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "https://steampowered.com/app/458770",
@@ -1848,7 +1848,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2016-10-21T00:00:00Z",
       "cracked": "2017-02-05T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://store.steampowered.com/app/1238840",
@@ -1863,7 +1863,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-11-04T00:00:00Z",
       "cracked": "2017-06-27T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS",
         "Voksi"
       ],
@@ -1878,7 +1878,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-11-15T00:00:00Z",
       "cracked": "2024-04-03T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "DELUSIONAL"
       ],
       "store_link": "https://steampowered.com/app/526980",
@@ -1893,7 +1893,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2016-11-17T00:00:00Z",
       "cracked": "2017-06-10T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS",
         "Voksi",
         "DeltaT",
@@ -1912,7 +1912,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2016-11-29T00:00:00Z",
       "cracked": "2017-01-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "CODEX"
       ],
@@ -1928,7 +1928,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2017-01-27T00:00:00Z",
       "cracked": "2017-02-17T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://steampowered.com/app/429660",
@@ -1943,7 +1943,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2017-02-14T00:00:00Z",
       "cracked": "2017-06-22T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "https://steampowered.com/app/312660",
@@ -1959,7 +1959,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-03-07T00:00:00Z",
       "cracked": "2017-07-24T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS (Fixed by CPY)",
         "DeltaT",
         "EMPRESS"
@@ -1976,7 +1976,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-03-14T00:00:00Z",
       "cracked": "2017-06-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Baldman",
         "Voksi",
         "CODEX"
@@ -1993,7 +1993,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-04-25T00:00:00Z",
       "cracked": "2017-06-25T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Baldman",
         "CODEX"
       ],
@@ -2009,7 +2009,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2017-04-27T00:00:00Z",
       "cracked": "2017-06-13T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Baldman",
         "Voksi"
       ],
@@ -2025,7 +2025,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-05-11T00:00:00Z",
       "cracked": "2018-05-06T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Voksi",
         "DeltaT"
       ],
@@ -2041,7 +2041,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-06-09T00:00:00Z",
       "cracked": "2017-08-17T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "Voksi"
       ],
@@ -2057,7 +2057,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-08-22T00:00:00Z",
       "cracked": "2017-08-22T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "ALI213 (Fixed by Steam006)"
       ],
       "store_link": "https://steampowered.com/app/466130",
@@ -2072,7 +2072,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-08-25T00:00:00Z",
       "cracked": "2017-09-13T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "sam2k8",
         "Voksi"
@@ -2090,7 +2090,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2017-09-08T00:00:00Z",
       "cracked": "2017-10-06T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "https://steampowered.com/app/562810",
@@ -2105,7 +2105,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-09-13T00:00:00Z",
       "cracked": "2017-09-22T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "Voksi",
         "DeltaT"
@@ -2121,7 +2121,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-09-15T00:00:00Z",
       "cracked": "2017-09-24T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "Voksi",
         "CODEX"
@@ -2138,7 +2138,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2017-09-28T00:00:00Z",
       "cracked": "2017-09-28T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS",
         "Voksi",
         "CODEX",
@@ -2159,7 +2159,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2017-09-29T00:00:00Z",
       "cracked": "2017-09-29T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "STEAMPUNKS"
       ],
       "store_link": "Unavailable"
@@ -2174,7 +2174,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-10-17T00:00:00Z",
       "cracked": "2017-10-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEPUNKS",
         "CODEX"
       ],
@@ -2191,7 +2191,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-10-27T00:00:00Z",
       "cracked": "2018-02-03T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "CODEX"
       ],
@@ -2207,7 +2207,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-11-07T00:00:00Z",
       "cracked": "2018-01-21T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://steampowered.com/app/637100",
@@ -2222,7 +2222,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2017-11-10T00:00:00Z",
       "cracked": "2018-03-09T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://store.steampowered.com/app/1262580",
@@ -2237,7 +2237,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-11-10T00:00:00Z",
       "cracked": "2018-06-21T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Voksi"
       ],
       "store_link": "Unavailable"
@@ -2251,7 +2251,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-11-17T00:00:00Z",
       "cracked": "2019-06-28T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX",
         "EMPRESS"
       ],
@@ -2267,7 +2267,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2017-11-28T00:00:00Z",
       "cracked": "2018-01-27T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "DeltaT"
       ],
@@ -2283,7 +2283,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-02-16T00:00:00Z",
       "cracked": "2023-08-13T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "SKIDROW"
       ],
       "store_link": "https://store.steampowered.com/app/1225580",
@@ -2298,7 +2298,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-02-23T00:00:00Z",
       "cracked": "2018-04-11T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "FCKDRM",
         "CODEX"
@@ -2315,7 +2315,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-02-27T00:00:00Z",
       "cracked": "2018-06-28T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Voksi",
         "CODEX"
       ],
@@ -2332,7 +2332,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-03-27T00:00:00Z",
       "cracked": "2018-04-15T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "CODEX"
       ],
@@ -2348,7 +2348,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-06-09T00:00:00Z",
       "cracked": "2018-09-11T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://store.steampowered.com/app/1225570",
@@ -2363,7 +2363,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-06-12T00:00:00Z",
       "cracked": "2018-09-25T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX",
         "EMPRESS"
       ],
@@ -2379,7 +2379,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-07-10T00:00:00Z",
       "cracked": "2018-07-11T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Voksi",
         "DeltaT",
         "voices38"
@@ -2396,7 +2396,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-08-10T00:00:00Z",
       "cracked": "2018-10-04T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "Unavailable"
@@ -2410,7 +2410,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-08-21T00:00:00Z",
       "cracked": "2024-07-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "RUNE"
       ],
       "store_link": "https://store.steampowered.com/app/1238080",
@@ -2425,7 +2425,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-08-24T00:00:00Z",
       "cracked": "2018-09-15T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX",
         "sam2k8"
       ],
@@ -2441,7 +2441,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-08-28T00:00:00Z",
       "cracked": "2019-01-11T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "PLAZA"
       ],
@@ -2457,7 +2457,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-08-30T00:00:00Z",
       "cracked": "2018-11-25T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "Unavailable"
@@ -2471,7 +2471,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-08-31T00:00:00Z",
       "cracked": "2018-08-31T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "3DM",
         "CODEX"
       ],
@@ -2487,7 +2487,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-09-04T00:00:00Z",
       "cracked": "2018-09-17T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://steampowered.com/app/742120",
@@ -2502,7 +2502,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-09-04T00:00:00Z",
       "cracked": "2019-06-26T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://steampowered.com/app/650510",
@@ -2517,7 +2517,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-09-24T00:00:00Z",
       "cracked": "2019-06-26T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://steampowered.com/app/738530",
@@ -2532,7 +2532,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-09-25T00:00:00Z",
       "cracked": "2019-01-25T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://steampowered.com/app/790820",
@@ -2547,7 +2547,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-09-27T00:00:00Z",
       "cracked": "2019-01-16T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "EMPRESS"
       ],
@@ -2563,7 +2563,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-09-28T00:00:00Z",
       "cracked": "2018-11-30T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "Unavailable"
@@ -2578,7 +2578,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2018-10-05T00:00:00Z",
       "cracked": "2018-11-10T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY",
         "EMPRESS"
       ],
@@ -2594,7 +2594,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-11-01T00:00:00Z",
       "cracked": "2020-06-07T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://steampowered.com/app/790540",
@@ -2609,7 +2609,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-11-02T00:00:00Z",
       "cracked": "2018-11-06T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "FCKDRM"
       ],
       "store_link": "https://steampowered.com/app/872790",
@@ -2624,7 +2624,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-11-20T00:00:00Z",
       "cracked": "2018-12-12T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://store.steampowered.com/app/1238810",
@@ -2639,7 +2639,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-12-06T00:00:00Z",
       "cracked": "2025-09-23T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "SKIDROW"
       ],
       "store_link": "https://steampowered.com/app/953580",
@@ -2655,7 +2655,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-02-15T00:00:00Z",
       "cracked": "2019-02-22T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://steampowered.com/app/939960",
@@ -2671,7 +2671,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-02-26T00:00:00Z",
       "cracked": "2025-10-13T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "RUNE"
       ],
       "store_link": "https://steampowered.com/app/641080",
@@ -2686,7 +2686,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-03-05T00:00:00Z",
       "cracked": "2021-05-21T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/714370",
@@ -2702,7 +2702,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-04-16T00:00:00Z",
       "cracked": "2021-01-05T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS",
         "voices38"
       ],
@@ -2719,7 +2719,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-04-30T00:00:00Z",
       "cracked": "2025-10-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/950050",
@@ -2734,7 +2734,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-05-21T00:00:00Z",
       "cracked": "2020-06-05T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://store.steampowered.com/app/785260",
@@ -2749,7 +2749,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-07-05T00:00:00Z",
       "cracked": "2019-09-14T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "https://store.steampowered.com/app/1225590",
@@ -2764,7 +2764,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2019-08-02T00:00:00Z",
       "cracked": "2019-08-28T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CODEX"
       ],
       "store_link": "Unavailable"
@@ -2778,7 +2778,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-09-10T00:00:00Z",
       "cracked": "2025-10-28T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/996470",
@@ -2793,7 +2793,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-09-27T00:00:00Z",
       "cracked": "2025-11-07T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "Unavailable"
@@ -2807,7 +2807,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2019-11-05T00:00:00Z",
       "cracked": "2020-09-23T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/703080",
@@ -2822,7 +2822,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2019-11-08T00:00:00Z",
       "cracked": "2019-12-27T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "Leaked CODEX crack",
         "voices38"
       ],
@@ -2838,7 +2838,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2019-11-19T00:00:00Z",
       "cracked": "2020-06-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "MKDEV"
       ],
       "store_link": "https://store.steampowered.com/app/1100600",
@@ -2853,7 +2853,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2020-02-04T00:00:00Z",
       "cracked": "2020-12-11T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/694280",
@@ -2868,7 +2868,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-05-22T00:00:00Z",
       "cracked": "2022-10-14T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/629820/",
@@ -2883,7 +2883,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-06-13T00:00:00Z",
       "cracked": "2020-07-02T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "whiteee",
         "MKDEV"
       ],
@@ -2899,7 +2899,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2020-08-13T00:00:00Z",
       "cracked": "2020-10-14T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://store.steampowered.com/app/1099410",
@@ -2914,7 +2914,7 @@
       "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2020-09-15T00:00:00Z",
       "cracked": "2020-10-14T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ],
       "store_link": "https://store.steampowered.com/app/1259970",
@@ -2929,7 +2929,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-10-02T00:00:00Z",
       "cracked": "2025-11-15T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1222730",
@@ -2944,7 +2944,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-10-09T00:00:00Z",
       "cracked": "2025-11-27T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1313860",
@@ -2960,7 +2960,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-10-29T00:00:00Z",
       "cracked": "2022-01-05T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/2239550",
@@ -2975,7 +2975,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-11-06T00:00:00Z",
       "cracked": "2025-11-18T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/1328660",
@@ -2991,7 +2991,7 @@
       "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2020-11-10T00:00:00Z",
       "cracked": "2021-03-24T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS"
       ],
       "store_link": "https://store.steampowered.com/app/2208920l",
@@ -3006,7 +3006,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-11-24T00:00:00Z",
       "cracked": "2021-08-05T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "MKDEV"
       ],
       "store_link": "https://store.steampowered.com/app/1263850",
@@ -3022,7 +3022,7 @@
       "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2020-12-03T00:00:00Z",
       "cracked": "2021-02-21T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "EMPRESS",
         "CrateBlocker"
       ],
@@ -3038,7 +3038,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2018-06-26T00:00:00Z",
       "cracked": "2019-01-16T00:00:00Z",
-      "by": [
+      "cracked_by": [
         "CPY"
       ]
     },
@@ -3049,7 +3049,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-09-30T00:00:00Z",
       "cracked": "",
-      "by": []
+      "cracked_by": []
     },
     {
       "name": "Rise of Eros",
@@ -3058,7 +3058,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-07-17T00:00:00Z",
       "cracked": "",
-      "by": []
+      "cracked_by": []
     }
   ],
   "uncracked_denuvo_games_that_are_online_only": [
