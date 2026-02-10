@@ -5,6 +5,7 @@ import html
 import os
 import logging
 import re
+import random
 from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString
 
@@ -19,25 +20,100 @@ REDDIT_URL = "https://api.reddit.com/r/CrackWatch/comments/p9ak4n/crack_watch_ga
 OUTPUT_FILE = "denuvo_games.json"
 OUTPUT_CSV = "denuvo_games.csv"
 
-def fetch_reddit_data():
-    """Fetches the Reddit thread JSON and extracts the selftext_html."""
-    try:
-        logger.info(f"Fetching data from {REDDIT_URL}")
-        response = requests.get(REDDIT_URL, impersonate="safari18_4_ios")
-        response.raise_for_status()
-        data = response.json()
+def get_proxy_pool():
+    """Retrieves a list of proxies from environment variables and Webshare API."""
+    proxies = []
+    
+    # 1. Static List from PROXIES_LIST env var
+    static_list = os.environ.get("PROXIES_LIST")
+    if static_list:
+        proxies.extend([p.strip() for p in static_list.split(",") if p.strip()])
         
-        # Structure: [ { "data": { "children": [ { "data": { "selftext_html": "..." } } ] } } ]
-        post_data = data[0]['data']['children'][0]['data']
-        selftext_html = post_data.get('selftext_html')
-        
-        if not selftext_html:
-            raise ValueError("selftext_html not found in Reddit response")
+    # 2. Webshare API
+    webshare_key = os.environ.get("WEBSHARE_API_KEY")
+    if webshare_key:
+        try:
+            logger.info("Fetching Webshare proxies...")
+            resp = requests.get(
+                "https://proxy.webshare.io/api/v2/proxy/list/?mode=direct&page=1&page_size=9999",
+                headers={"Authorization": f"Token {webshare_key}"},
+                impersonate="chrome",
+                timeout=30
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            count = 0
+            for p in data.get("results", []):
+                if p.get("valid"):
+                    # Format: http://username:password@ip:port
+                    proxy_str = f"http://{p['username']}:{p['password']}@{p['proxy_address']}:{p['port']}"
+                    proxies.append(proxy_str)
+                    count += 1
+            logger.info(f"Fetched {count} proxies from Webshare.")
+        except Exception as e:
+            logger.error(f"Failed to fetch Webshare proxies: {e}")
             
-        return selftext_html
-    except Exception as e:
-        logger.error(f"Error fetching Reddit data: {e}")
-        raise
+    # Deduplicate
+    return list(set(proxies))
+
+def fetch_reddit_data():
+    """Fetches the Reddit thread JSON and extracts the selftext_html using proxies."""
+    proxy_pool = get_proxy_pool()
+    max_retries = 10
+    
+    # If no proxies configured, try direct connection once
+    if not proxy_pool:
+        logger.warning("No proxies configured. Attempting direct connection.")
+        try:
+            response = requests.get(REDDIT_URL, impersonate="safari18_4_ios")
+            response.raise_for_status()
+            data = response.json()
+            post_data = data[0]['data']['children'][0]['data']
+            selftext_html = post_data.get('selftext_html')
+            if not selftext_html:
+                raise ValueError("selftext_html not found in Reddit response")
+            return selftext_html
+        except Exception as e:
+            logger.error(f"Error fetching Reddit data (direct): {e}")
+            raise
+
+    # Try with proxies
+    logger.info(f"Starting fetch with {len(proxy_pool)} proxies available. Max retries: {max_retries}")
+    
+    for attempt in range(max_retries):
+        if not proxy_pool:
+            raise Exception("No more proxies available to try.")
+            
+        # Select random proxy and remove it from pool to avoid reuse on failure
+        proxy = random.choice(proxy_pool)
+        proxy_pool.remove(proxy)
+        
+        try:
+            response = requests.get(
+                REDDIT_URL,
+                impersonate="safari18_4_ios",
+                proxy={"http": proxy, "https": proxy},
+                timeout=30
+            )
+            response.raise_for_status()
+            data = response.json()
+            
+            # Structure: [ { "data": { "children": [ { "data": { "selftext_html": "..." } } ] } } ]
+            post_data = data[0]['data']['children'][0]['data']
+            selftext_html = post_data.get('selftext_html')
+            
+            if not selftext_html:
+                raise ValueError("selftext_html not found in Reddit response")
+                
+            logger.info("Successfully fetched data from Reddit.")
+            return selftext_html
+            
+        except Exception as e:
+            # Log generic error, avoid logging proxy credentials
+            logger.warning(f"Attempt {attempt + 1}/{max_retries} failed. Retrying with different proxy...")
+            continue
+            
+    raise Exception(f"Failed to fetch Reddit data after {max_retries} attempts.")
 
 def normalize_name(name):
     """Normalizes the game name by allowing only alphanumeric characters, and converting to lowercase."""

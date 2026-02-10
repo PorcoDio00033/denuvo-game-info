@@ -18,6 +18,15 @@ Huge thanks to [u/EssenseOfMagic](https://www.reddit.com/user/EssenseOfMagic/) f
 *   Python 3.12 or higher
 *   `pip` (Python package installer)
 
+## Configuration
+
+To avoid Reddit API rate limits (403 errors), you can configure proxies using GitHub Secrets.
+
+### Repository Secrets
+
+*   **`PROXIES_LIST`**: A comma-separated list of proxies in the format `protocol://user:pass@host:port`.
+*   **`WEBSHARE_API_KEY`**: Your Webshare.io API key. If provided, the script will fetch the latest proxies from Webshare automatically.
+
 ## Installation
 
 1.  **Clone the repository:**

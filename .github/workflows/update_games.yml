@@ -25,6 +25,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run parser script
+        env:
+          PROXIES_LIST: ${{ secrets.PROXIES_LIST }}
+          WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
         run: python parser.py
 
       - name: Get current date
