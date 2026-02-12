@@ -412,17 +412,6 @@
       "emulator_name": null
     },
     {
-      "name": "Total War: Pharaoh",
-      "normalized_name": "totalwarpharaoh",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-10-11T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1937780",
-      "store_id": "1937780",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Sonic Superstars",
       "normalized_name": "sonicsuperstars",
       "denuvo_assumption": false,
