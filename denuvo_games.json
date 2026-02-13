@@ -158,17 +158,6 @@
       "emulator_name": null
     },
     {
-      "name": "Sonic Origins",
-      "normalized_name": "sonicorigins",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-06-23T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1794960",
-      "store_id": "1794960",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
       "name": "Rabbids: Party of Legends",
       "normalized_name": "rabbidspartyoflegends",
       "denuvo_assumption": false,
@@ -650,17 +639,6 @@
       "emulator_name": null
     },
     {
-      "name": "Sonic X Shadow Generations",
-      "normalized_name": "sonicxshadowgenerations",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-10-25T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2513280",
-      "store_id": "2513280",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
       "name": "Speedball",
       "normalized_name": "speedball",
       "denuvo_assumption": false,
@@ -1007,6 +985,18 @@
       "store_id": "1761390"
     },
     {
+      "name": "Sonic Origins",
+      "normalized_name": "sonicorigins",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-06-23T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by KIRIGIRI"
+      ],
+      "store_link": "https://store.steampowered.com/app/1794960",
+      "store_id": "1794960"
+    },
+    {
       "name": "Soul Hackers 2",
       "normalized_name": "soulhackers2",
       "denuvo_assumption": false,
@@ -1077,6 +1067,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/",
       "store_id": "2679460"
+    },
+    {
+      "name": "Sonic X Shadow Generations",
+      "normalized_name": "sonicxshadowgenerations",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-10-25T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by KIRIGIRI"
+      ],
+      "store_link": "https://store.steampowered.com/app/2513280",
+      "store_id": "2513280"
     },
     {
       "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
