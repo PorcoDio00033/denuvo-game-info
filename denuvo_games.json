@@ -871,17 +871,6 @@
       "emulator_name": null
     },
     {
-      "name": "Borderlands 4",
-      "normalized_name": "borderlands4",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-09-11T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1285190",
-      "store_id": "1285190",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "EA Sports FC 26",
       "normalized_name": "easportsfc26",
       "denuvo_assumption": false,
@@ -969,6 +958,17 @@
       "store_id": "2499860",
       "playable_on_emulator": false,
       "emulator_name": null
+    },
+    {
+      "name": "Yakuza Kiwami 3 & Dark Ties",
+      "normalized_name": "yakuzakiwami3darkties",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-02-11T00:00:00Z",
+      "store_link": "https://store.steampowered.com/agecheck/app/3937550/",
+      "store_id": "3937550",
+      "playable_on_emulator": false,
+      "emulator_name": null
     }
   ],
   "bypassed_denuvo_games": [
@@ -1027,7 +1027,8 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-02-02T00:00:00Z",
       "bypassed_by": [
-        "Demo Bypass by RikuKH3"
+        "Demo Bypass by RikuKH3",
+        "Hypervisor workaround by sagerao"
       ],
       "store_link": "https://store.steampowered.com/app/2161700",
       "store_id": "2161700"
@@ -1091,6 +1092,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2288350/",
       "store_id": "2288350"
+    },
+    {
+      "name": "Borderlands 4",
+      "normalized_name": "borderlands4",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-09-11T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by KIRIGIRI"
+      ],
+      "store_link": "https://store.steampowered.com/app/1285190",
+      "store_id": "1285190"
     },
     {
       "name": "Sonic Racing - CrossWorlds",
@@ -3118,13 +3131,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Yakuza Kiwami 3 & Dark Ties",
-      "normalized_name": "yakuzakiwami3darkties",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-02-11T00:00:00Z"
-    },
     {
       "name": "Resident Evil Requiem",
       "normalized_name": "residentevilrequiem",
