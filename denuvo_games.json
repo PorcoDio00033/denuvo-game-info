@@ -794,17 +794,6 @@
       "emulator_name": null
     },
     {
-      "name": "Stellar Blade",
-      "normalized_name": "stellarblade",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-06-11T00:00:00Z",
-      "store_link": "https://store.steampowered.com/agecheck/app/3489700/",
-      "store_id": "3489700",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
       "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles2",
       "denuvo_assumption": false,
@@ -1009,6 +998,18 @@
       "store_id": "1777620"
     },
     {
+      "name": "Persona 5 Royal",
+      "normalized_name": "persona5royal",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-10-21T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by MKDEV"
+      ],
+      "store_link": "https://store.steampowered.com/app/1687950",
+      "store_id": "1687950"
+    },
+    {
       "name": "Like A Dragon Infinite Wealth",
       "normalized_name": "likeadragoninfinitewealth",
       "denuvo_assumption": false,
@@ -1080,6 +1081,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2513280",
       "store_id": "2513280"
+    },
+    {
+      "name": "Stellar Blade",
+      "normalized_name": "stellarblade",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-06-11T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by Andreh"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/3489700/",
+      "store_id": "3489700"
     },
     {
       "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
@@ -1369,21 +1382,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/1811260",
       "store_id": "1811260"
-    },
-    {
-      "name": "Persona 5 Royal",
-      "normalized_name": "persona5royal",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2022-10-21T00:00:00Z",
-      "cracked": "2025-12-14T00:00:00Z",
-      "cracked_by": [
-        "MKDEV"
-      ],
-      "store_link": "https://store.steampowered.com/app/1687950",
-      "store_id": "1687950"
     },
     {
       "name": "Football Manager 2023",
