@@ -805,17 +805,6 @@
       "emulator_name": "Sudachi"
     },
     {
-      "name": "Mafia: The Old Country",
-      "normalized_name": "mafiatheoldcountry",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-08-08T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1941540",
-      "store_id": "1941540",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Madden NFL 2026",
       "normalized_name": "maddennfl2026",
       "denuvo_assumption": false,
@@ -962,6 +951,18 @@
   ],
   "bypassed_denuvo_games": [
     {
+      "name": "Persona 4 Golden (64 bit)",
+      "normalized_name": "persona4golden64bit",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2020-06-13T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by MKDEV"
+      ],
+      "store_link": "https://store.steampowered.com/app/1113000",
+      "store_id": "1113000"
+    },
+    {
       "name": "Hatsune Miku: Project DIVA Mega Mix+",
       "normalized_name": "hatsunemikuprojectdivamegamix",
       "denuvo_assumption": false,
@@ -996,18 +997,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/1777620",
       "store_id": "1777620"
-    },
-    {
-      "name": "Persona 5 Royal",
-      "normalized_name": "persona5royal",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-10-21T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by MKDEV"
-      ],
-      "store_link": "https://store.steampowered.com/app/1687950",
-      "store_id": "1687950"
     },
     {
       "name": "Like A Dragon Infinite Wealth",
@@ -1105,6 +1094,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2288350/",
       "store_id": "2288350"
+    },
+    {
+      "name": "Mafia: The Old Country",
+      "normalized_name": "mafiatheoldcountry",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-08-08T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by 0xZeOn"
+      ],
+      "store_link": "https://store.steampowered.com/app/1941540",
+      "store_id": "1941540"
     },
     {
       "name": "Borderlands 4",
@@ -1382,6 +1383,21 @@
       ],
       "store_link": "https://store.steampowered.com/app/1811260",
       "store_id": "1811260"
+    },
+    {
+      "name": "Persona 5 Royal",
+      "normalized_name": "persona5royal",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2022-10-21T00:00:00Z",
+      "cracked": "2025-12-14T00:00:00Z",
+      "cracked_by": [
+        "MKDEV"
+      ],
+      "store_link": "https://store.steampowered.com/app/1687950",
+      "store_id": "1687950"
     },
     {
       "name": "Football Manager 2023",
@@ -2877,8 +2893,8 @@
       "store_id": "629820"
     },
     {
-      "name": "Persona 4 Golden",
-      "normalized_name": "persona4golden",
+      "name": "Persona 4 Golden (32 bit)",
+      "normalized_name": "persona4golden32bit",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2886,8 +2902,7 @@
       "released": "2020-06-13T00:00:00Z",
       "cracked": "2020-07-02T00:00:00Z",
       "cracked_by": [
-        "whiteee",
-        "MKDEV"
+        "whiteee"
       ],
       "store_link": "https://store.steampowered.com/app/1113000",
       "store_id": "1113000"
