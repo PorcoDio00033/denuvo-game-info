@@ -738,18 +738,6 @@
       "emulator_name": null
     },
     {
-      "name": "Assassins Creed Shadows",
-      "normalized_name": "assassinscreedshadows",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2025-03-20T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3159330",
-      "store_id": "3159330",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Atomfall",
       "normalized_name": "atomfall",
       "denuvo_assumption": false,
@@ -768,17 +756,6 @@
       "released": "2025-03-27T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/2680010",
       "store_id": "2680010",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Doom: The Dark Ages",
-      "normalized_name": "doomthedarkages",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-05-15T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3017860",
-      "store_id": "3017860",
       "playable_on_emulator": false,
       "emulator_name": null
     },
@@ -871,17 +848,6 @@
       "emulator_name": "Ryujinx"
     },
     {
-      "name": "Jurassic World Evolution 3",
-      "normalized_name": "jurassicworldevolution3",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-10-21T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2958130",
-      "store_id": "2958130",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Dragon Quest 1 & 2 HD-2D Remake",
       "normalized_name": "dragonquest12hd2dremake",
       "denuvo_assumption": false,
@@ -923,28 +889,6 @@
       "released": "2026-01-30T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/2362060",
       "store_id": "2362060",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Dragon Quest VII Reimagined",
-      "normalized_name": "dragonquestviireimagined",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-02-05T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2499860",
-      "store_id": "2499860",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Yakuza Kiwami 3 & Dark Ties",
-      "normalized_name": "yakuzakiwami3darkties",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-02-11T00:00:00Z",
-      "store_link": "https://store.steampowered.com/agecheck/app/3937550/",
-      "store_id": "3937550",
       "playable_on_emulator": false,
       "emulator_name": null
     }
@@ -1072,6 +1016,31 @@
       "store_id": "2513280"
     },
     {
+      "name": "Assassins Creed Shadows",
+      "normalized_name": "assassinscreedshadows",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "released": "2025-03-20T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by Andreh"
+      ],
+      "store_link": "https://store.steampowered.com/app/3159330",
+      "store_id": "3159330"
+    },
+    {
+      "name": "Doom: The Dark Ages",
+      "normalized_name": "doomthedarkages",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-05-15T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by 0xZeOn"
+      ],
+      "store_link": "https://store.steampowered.com/app/3017860",
+      "store_id": "3017860"
+    },
+    {
       "name": "Stellar Blade",
       "normalized_name": "stellarblade",
       "denuvo_assumption": false,
@@ -1144,6 +1113,18 @@
       "store_id": "1984270"
     },
     {
+      "name": "Jurassic World Evolution 3",
+      "normalized_name": "jurassicworldevolution3",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-10-21T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by Andreh"
+      ],
+      "store_link": "https://store.steampowered.com/app/2958130",
+      "store_id": "2958130"
+    },
+    {
       "name": "Octopath Traveler 0",
       "normalized_name": "octopathtraveler0",
       "denuvo_assumption": false,
@@ -1154,6 +1135,30 @@
       ],
       "store_link": "https://store.steampowered.com/app/3014320",
       "store_id": "3014320"
+    },
+    {
+      "name": "Dragon Quest VII Reimagined",
+      "normalized_name": "dragonquestviireimagined",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-02-05T00:00:00Z",
+      "bypassed_by": [
+        "Demo Bypass by democrackerz"
+      ],
+      "store_link": "https://store.steampowered.com/app/2499860",
+      "store_id": "2499860"
+    },
+    {
+      "name": "Yakuza Kiwami 3 & Dark Ties",
+      "normalized_name": "yakuzakiwami3darkties",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-02-11T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by Andreh"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/3937550/",
+      "store_id": "3937550"
     }
   ],
   "cracked_denuvo_games_(2021-present)": [
@@ -1580,6 +1585,21 @@
       ],
       "store_link": "https://store.steampowered.com/app/2604480",
       "store_id": "2604480"
+    },
+    {
+      "name": "PARANORMASIGHT - The Mermaids Curse",
+      "normalized_name": "paranormasightthemermaidscurse",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2026-02-19T00:00:00Z",
+      "cracked": "2026-02-20T00:00:00Z",
+      "cracked_by": [
+        "RUNE"
+      ],
+      "store_link": "https://store.steampowered.com/app/2701440",
+      "store_id": "2701440"
     }
   ],
   "older_cracked_denuvo_games_(2014-2020)": [
@@ -3080,13 +3100,6 @@
   ],
   "uncracked_denuvo_games_that_are_online_only": [
     {
-      "name": "Plants VS Zombies: Garden Warfare 2",
-      "normalized_name": "plantsvszombiesgardenwarfare2",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2016-02-23T00:00:00Z"
-    },
-    {
       "name": "Need For Speed",
       "normalized_name": "needforspeed",
       "denuvo_assumption": false,
@@ -3178,6 +3191,13 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-04-24T00:00:00Z"
+    },
+    {
+      "name": "The Adventures of Elliot - The Millenium Tales",
+      "normalized_name": "theadventuresofelliotthemilleniumtales",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-06-18T00:00:00Z"
     },
     {
       "name": "Phantom Blade Zero",
