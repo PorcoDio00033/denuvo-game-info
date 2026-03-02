@@ -964,7 +964,8 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-06-21T00:00:00Z",
       "bypassed_by": [
-        "Demo Bypass by RikuKH3"
+        "Demo Bypass by RikuKH3",
+        "Hypervisor workaround by sagerao"
       ],
       "store_link": "https://store.steampowered.com/app/1875830",
       "store_id": "1875830"
@@ -1560,12 +1561,13 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "missing_dlc",
-      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2023-10-05T00:00:00Z",
       "cracked": "2024-11-15T00:00:00Z",
       "cracked_by": [
-        "Anonymous user"
+        "Anonymous user",
+        "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/3035570",
       "store_id": "3035570"
