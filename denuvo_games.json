@@ -878,7 +878,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2020-06-13T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by MKDEV"
+        "AMD & Intel Hypervisor workaround by MKDEV"
       ],
       "store_link": "https://store.steampowered.com/app/1113000",
       "store_id": "1113000"
@@ -890,7 +890,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-05-26T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "AMD Hypervisor workaround by Andreh"
       ],
       "store_link": "https://store.steampowered.com/app/1761390",
       "store_id": "1761390"
@@ -902,7 +902,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-06-23T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "AMD & Intel Hypervisor workaround by KIRIGIRI"
       ],
       "store_link": "https://store.steampowered.com/app/1794960",
       "store_id": "1794960"
@@ -914,7 +914,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-08-25T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "AMD & Intel Hypervisor workaround by KIRIGIRI"
       ],
       "store_link": "https://store.steampowered.com/app/1777620",
       "store_id": "1777620"
@@ -927,7 +927,7 @@
       "drm_protection": "Uplay/Ubisoft Connect",
       "released": "2023-12-07T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "AMD & Intel Hypervisor workaround by Andreh"
       ],
       "store_link": "https://store.steampowered.com/app/2840770",
       "store_id": "2840770"
@@ -939,7 +939,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-01-26T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "AMD Hypervisor workaround by Andreh"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/2072450/",
       "store_id": "2072450"
@@ -952,7 +952,7 @@
       "released": "2024-02-02T00:00:00Z",
       "bypassed_by": [
         "Demo Bypass by RikuKH3",
-        "Hypervisor workaround by sagerao"
+        "AMD & Intel Hypervisor workaround by sagerao"
       ],
       "store_link": "https://store.steampowered.com/app/2161700",
       "store_id": "2161700"
@@ -965,7 +965,7 @@
       "released": "2024-06-21T00:00:00Z",
       "bypassed_by": [
         "Demo Bypass by RikuKH3",
-        "Hypervisor workaround by sagerao"
+        "AMD & Intel Hypervisor workaround by sagerao"
       ],
       "store_link": "https://store.steampowered.com/app/1875830",
       "store_id": "1875830"
@@ -977,7 +977,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-08-20T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by 0xZeOn"
+        "AMD & Intel Hypervisor workaround by 0xZeOn"
       ],
       "store_link": "https://store.steampowered.com/app/2358720",
       "store_id": "2358720"
@@ -1001,7 +1001,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-10-25T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "AMD & Intel Hypervisor workaround by KIRIGIRI"
       ],
       "store_link": "https://store.steampowered.com/app/2513280",
       "store_id": "2513280"
@@ -1013,7 +1013,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-02-28T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "AMD & Intel Hypervisor workaround by KIRIGIRI"
       ],
       "store_link": "https://store.steampowered.com/app/2246340",
       "store_id": "2246340"
@@ -1026,7 +1026,7 @@
       "drm_protection": "Uplay/Ubisoft Connect",
       "released": "2025-03-20T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "AMD & Intel Hypervisor workaround by Andreh"
       ],
       "store_link": "https://store.steampowered.com/app/3159330",
       "store_id": "3159330"
@@ -1038,7 +1038,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-05-15T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by 0xZeOn"
+        "AMD & Intel Hypervisor workaround by 0xZeOn"
       ],
       "store_link": "https://store.steampowered.com/app/3017860",
       "store_id": "3017860"
@@ -1050,7 +1050,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-06-11T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "AMD & Intel Hypervisor workaround by Andreh"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/3489700/",
       "store_id": "3489700"
@@ -1074,7 +1074,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-08-08T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by 0xZeOn"
+        "AMD & Intel Hypervisor workaround by 0xZeOn"
       ],
       "store_link": "https://store.steampowered.com/app/1941540",
       "store_id": "1941540"
@@ -1086,7 +1086,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-11T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "AMD & Intel Hypervisor workaround by KIRIGIRI"
       ],
       "store_link": "https://store.steampowered.com/app/1285190",
       "store_id": "1285190"
@@ -1098,7 +1098,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-25T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "AMD & Intel Hypervisor workaround by KIRIGIRI"
       ],
       "store_link": "https://store.steampowered.com/app/2486820",
       "store_id": "2486820"
@@ -1122,7 +1122,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-10-21T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "AMD & Intel? Hypervisor workaround by Andreh"
       ],
       "store_link": "https://store.steampowered.com/app/2958130",
       "store_id": "2958130"
@@ -1158,7 +1158,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-02-11T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "AMD & Intel? Hypervisor workaround by Andreh"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/3937550/",
       "store_id": "3937550"
@@ -1170,7 +1170,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-02-27T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Kirigiri"
+        "AMD & Intel Hypervisor workaround by Kirigiri"
       ],
       "store_link": "https://store.steampowered.com/app/3764200/",
       "store_id": "3764200"
