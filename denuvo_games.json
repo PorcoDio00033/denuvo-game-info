@@ -3201,13 +3201,6 @@
       "release": "2026-09-09T00:00:00Z"
     },
     {
-      "name": "Scott Pilgrim EX",
-      "normalized_name": "scottpilgrimex",
-      "denuvo_assumption": true,
-      "denuvo_assumption_desc": "Assumption",
-      "release": "TBA 2026"
-    },
-    {
       "name": "Onimusha - Way of the Sword",
       "normalized_name": "onimushawayofthesword",
       "denuvo_assumption": true,
