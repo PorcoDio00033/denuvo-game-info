@@ -82,7 +82,7 @@ Sonic Origins,bypassed_denuvo_games,AMD & Intel Hypervisor workaround by KIRIGIR
 Soul Hackers 2,bypassed_denuvo_games,AMD & Intel Hypervisor workaround by KIRIGIRI,,,,,False,Confirmed,,,soulhackers2,,,2022-08-25T00:00:00Z,,1777620,https://store.steampowered.com/app/1777620
 Avatar: Frontiers of Pandora,bypassed_denuvo_games,AMD & Intel Hypervisor workaround by Andreh,,,,,False,Confirmed,Uplay/Ubisoft Connect,,avatarfrontiersofpandora,,,2023-12-07T00:00:00Z,,2840770,https://store.steampowered.com/app/2840770
 Like A Dragon Infinite Wealth,bypassed_denuvo_games,AMD Hypervisor workaround by Andreh,,,,,False,Confirmed,,,likeadragoninfinitewealth,,,2024-01-26T00:00:00Z,,2072450,https://store.steampowered.com/agecheck/app/2072450/
-Persona 3 Reloaded,bypassed_denuvo_games,"Demo Bypass by RikuKH3, AMD & Intel Hypervisor workaround by sagerao",,,,,False,Confirmed,,,persona3reloaded,,,2024-02-02T00:00:00Z,,2161700,https://store.steampowered.com/app/2161700
+Persona 3 Reload,bypassed_denuvo_games,"Demo Bypass by RikuKH3, AMD & Intel Hypervisor workaround by sagerao",,,,,False,Confirmed,,,persona3reload,,,2024-02-02T00:00:00Z,,2161700,https://store.steampowered.com/app/2161700
 Shin Megami Tensei V: Vengeance,bypassed_denuvo_games,"Demo Bypass by RikuKH3, AMD & Intel Hypervisor workaround by sagerao",,,,,False,Confirmed,,,shinmegamitenseivvengeance,,,2024-06-21T00:00:00Z,,1875830,https://store.steampowered.com/app/1875830
 Black Myth Wukong,bypassed_denuvo_games,AMD & Intel Hypervisor workaround by 0xZeOn,,,,,False,Confirmed,,,blackmythwukong,,,2024-08-20T00:00:00Z,,2358720,https://store.steampowered.com/app/2358720
 Metaphor Re Fantazio,bypassed_denuvo_games,Demo Bypass by RikuKH3,,,,,False,Confirmed,,,metaphorrefantazio,,,2024-10-11T00:00:00Z,,2679460,https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
@@ -226,6 +226,7 @@ Immortals Fenyx Rising,older_cracked_denuvo_games_(2014-2020),,fully_cracked,lat
 The Awesome Adventures of Captain Spirit,free_to_play_games_that_use_denuvo,,,,2019-01-16T00:00:00Z,CPY,False,Confirmed,,,theawesomeadventuresofcaptainspirit,,,2018-06-26T00:00:00Z,,,
 eFootball,free_to_play_games_that_use_denuvo,,,,,,False,Confirmed,,,efootball,,,2021-09-30T00:00:00Z,,,
 Rise of Eros,free_to_play_games_that_use_denuvo,,,,,,False,Confirmed,,,riseoferos,,,2023-07-17T00:00:00Z,,,
+eBaseball: Pro Spirit,free_to_play_games_that_use_denuvo,,,,,,False,Confirmed,,,ebaseballprospirit,,,2026-03-05T00:00:00Z,,,
 Need For Speed,uncracked_denuvo_games_that_are_online_only,,,,,,False,Confirmed,,,needforspeed,,,2016-03-15T00:00:00Z,,,
 For Honor,uncracked_denuvo_games_that_are_online_only,,,,,,False,Confirmed,,,forhonor,,,2017-02-13T00:00:00Z,,,
 Anthem,uncracked_denuvo_games_that_are_online_only,,,,,,False,Confirmed,,,anthem,,,2019-02-22T00:00:00Z,,,
@@ -234,11 +235,13 @@ Battlefield 2042,uncracked_denuvo_games_that_are_online_only,,,,,,False,Confirme
 Rainbow Six Extraction,uncracked_denuvo_games_that_are_online_only,,,,,,False,Confirmed,,,rainbowsixextraction,,,2022-01-20T00:00:00Z,,,
 Skull and Bones,uncracked_denuvo_games_that_are_online_only,,,,,,False,Confirmed,,,skullandbones,,,2024-02-16T00:00:00Z,,,
 OddBallers,uncracked_denuvo_games_that_are_online_only,,,,,,False,Confirmed,,,oddballers,,,2024-08-15T00:00:00Z,,,
+WWE2K26,upcoming_denuvo_games,,,,,,False,Confirmed,,,wwe2k26,,2026-03-13T00:00:00Z,,,,
 Monster Hunter Stories 3: Twisted Reflection,upcoming_denuvo_games,,,,,,False,Confirmed,,,monsterhunterstories3twistedreflection,,2026-03-13T00:00:00Z,,,,
 Life is Strange: Reunion,upcoming_denuvo_games,,,,,,False,Confirmed,,,lifeisstrangereunion,,2026-03-26T00:00:00Z,,,,
 Mega Man Star Force Legacy Collection,upcoming_denuvo_games,,,,,,False,Confirmed,,,megamanstarforcelegacycollection,,2026-03-27T00:00:00Z,,,,
 Pragmata,upcoming_denuvo_games,,,,,,False,Confirmed,,,pragmata,,2026-04-24T00:00:00Z,,,,
 The Adventures of Elliot - The Millenium Tales,upcoming_denuvo_games,,,,,,False,Confirmed,,,theadventuresofelliotthemilleniumtales,,2026-06-18T00:00:00Z,,,,
+Echoes of Aincrad,upcoming_denuvo_games,,,,,,False,Confirmed,,,echoesofaincrad,,2026-07-10T00:00:00Z,,,,
 Phantom Blade Zero,upcoming_denuvo_games,,,,,,False,Confirmed,,,phantombladezero,,2026-09-09T00:00:00Z,,,,
 Onimusha - Way of the Sword,upcoming_denuvo_games,,,,,,True,Assumption,,,onimushawayofthesword,,TBA 2026,,,,
 Total War Warhammer 40K,upcoming_denuvo_games,,,,,,True,Assumption,,,totalwarwarhammer40k,,TBA 2026,,,,

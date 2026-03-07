@@ -945,8 +945,8 @@
       "store_id": "2072450"
     },
     {
-      "name": "Persona 3 Reloaded",
-      "normalized_name": "persona3reloaded",
+      "name": "Persona 3 Reload",
+      "normalized_name": "persona3reload",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-02-02T00:00:00Z",
@@ -3097,6 +3097,15 @@
       "released": "2023-07-17T00:00:00Z",
       "cracked": "",
       "cracked_by": []
+    },
+    {
+      "name": "eBaseball: Pro Spirit",
+      "normalized_name": "ebaseballprospirit",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-05T00:00:00Z",
+      "cracked": "",
+      "cracked_by": []
     }
   ],
   "uncracked_denuvo_games_that_are_online_only": [
@@ -3159,6 +3168,13 @@
   ],
   "upcoming_denuvo_games": [
     {
+      "name": "WWE2K26",
+      "normalized_name": "wwe2k26",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-03-13T00:00:00Z"
+    },
+    {
       "name": "Monster Hunter Stories 3: Twisted Reflection",
       "normalized_name": "monsterhunterstories3twistedreflection",
       "denuvo_assumption": false,
@@ -3192,6 +3208,13 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-06-18T00:00:00Z"
+    },
+    {
+      "name": "Echoes of Aincrad",
+      "normalized_name": "echoesofaincrad",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-07-10T00:00:00Z"
     },
     {
       "name": "Phantom Blade Zero",
