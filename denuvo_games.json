@@ -825,15 +825,15 @@
       "emulator_name": "Ryujinx"
     },
     {
-      "name": "Dragon Quest 1 & 2 HD-2D Remake",
-      "normalized_name": "dragonquest12hd2dremake",
+      "name": "Digimon Story Time Stranger",
+      "normalized_name": "digimonstorytimestranger",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-10-30T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2893570",
-      "store_id": "2893570",
-      "playable_on_emulator": true,
-      "emulator_name": "Citrou"
+      "released": "2025-10-03T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/1984270",
+      "store_id": "1984270",
+      "playable_on_emulator": false,
+      "emulator_name": null
     },
     {
       "name": "Football Manager 26",
@@ -1102,18 +1102,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/2486820",
       "store_id": "2486820"
-    },
-    {
-      "name": "Digimon Story Time Stranger",
-      "normalized_name": "digimonstorytimestranger",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-10-03T00:00:00Z",
-      "bypassed_by": [
-        "Demo Bypass by democrackerz"
-      ],
-      "store_link": "https://store.steampowered.com/app/1984270",
-      "store_id": "1984270"
     },
     {
       "name": "Jurassic World Evolution 3",
