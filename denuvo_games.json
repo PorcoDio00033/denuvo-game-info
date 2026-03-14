@@ -868,6 +868,39 @@
       "store_id": "2362060",
       "playable_on_emulator": false,
       "emulator_name": null
+    },
+    {
+      "name": "Bravely Default: Flying Fairy HD Remaster",
+      "normalized_name": "bravelydefaultflyingfairyhdremaster",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-12T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/2833580/",
+      "store_id": "2833580",
+      "playable_on_emulator": false,
+      "emulator_name": null
+    },
+    {
+      "name": "WWE2K26",
+      "normalized_name": "wwe2k26",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-13T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/3717070",
+      "store_id": "3717070",
+      "playable_on_emulator": false,
+      "emulator_name": null
+    },
+    {
+      "name": "Monster Hunter Stories 3: Twisted Reflection",
+      "normalized_name": "monsterhunterstories3twistedreflection",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-13T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/2852190",
+      "store_id": "2852190",
+      "playable_on_emulator": false,
+      "emulator_name": null
     }
   ],
   "bypassed_denuvo_games": [
@@ -1030,18 +1063,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/3159330",
       "store_id": "3159330"
-    },
-    {
-      "name": "Doom: The Dark Ages",
-      "normalized_name": "doomthedarkages",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-05-15T00:00:00Z",
-      "bypassed_by": [
-        "AMD & Intel Hypervisor workaround by 0xZeOn"
-      ],
-      "store_link": "https://store.steampowered.com/app/3017860",
-      "store_id": "3017860"
     },
     {
       "name": "Stellar Blade",
@@ -1589,6 +1610,21 @@
       ],
       "store_link": "https://store.steampowered.com/app/2604480",
       "store_id": "2604480"
+    },
+    {
+      "name": "Doom: The Dark Ages",
+      "normalized_name": "doomthedarkages",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2025-05-15T00:00:00Z",
+      "cracked": "2026-03-13T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/3017860",
+      "store_id": "3017860"
     }
   ],
   "older_cracked_denuvo_games_(2014-2020)": [
@@ -3156,18 +3192,11 @@
   ],
   "upcoming_denuvo_games": [
     {
-      "name": "WWE2K26",
-      "normalized_name": "wwe2k26",
+      "name": "Crimson Desert",
+      "normalized_name": "crimsondesert",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-03-13T00:00:00Z"
-    },
-    {
-      "name": "Monster Hunter Stories 3: Twisted Reflection",
-      "normalized_name": "monsterhunterstories3twistedreflection",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-03-13T00:00:00Z"
+      "release": "2026-03-19T00:00:00Z"
     },
     {
       "name": "Life is Strange: Reunion",
