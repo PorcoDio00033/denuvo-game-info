@@ -890,17 +890,6 @@
       "store_id": "3717070",
       "playable_on_emulator": false,
       "emulator_name": null
-    },
-    {
-      "name": "Monster Hunter Stories 3: Twisted Reflection",
-      "normalized_name": "monsterhunterstories3twistedreflection",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-03-13T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2852190",
-      "store_id": "2852190",
-      "playable_on_emulator": false,
-      "emulator_name": null
     }
   ],
   "bypassed_denuvo_games": [
@@ -1183,6 +1172,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/3764200/",
       "store_id": "3764200"
+    },
+    {
+      "name": "Monster Hunter Stories 3: Twisted Reflection",
+      "normalized_name": "monsterhunterstories3twistedreflection",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-13T00:00:00Z",
+      "bypassed_by": [
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2852190",
+      "store_id": "2852190"
     }
   ],
   "cracked_denuvo_games_(2021-present)": [
