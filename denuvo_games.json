@@ -169,17 +169,6 @@
       "emulator_name": "Yuzu"
     },
     {
-      "name": "Two Point Campus",
-      "normalized_name": "twopointcampus",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-08-09T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1649080",
-      "store_id": "1649080",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
       "name": "Madden NFL 23",
       "normalized_name": "maddennfl23",
       "denuvo_assumption": false,
@@ -649,17 +638,6 @@
       "emulator_name": null
     },
     {
-      "name": "Sniper Elite: Resistance",
-      "normalized_name": "snipereliteresistance",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-01-30T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2169200",
-      "store_id": "2169200",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Hello Kitty Island Adventure",
       "normalized_name": "hellokittyislandadventure",
       "denuvo_assumption": false,
@@ -912,7 +890,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-05-26T00:00:00Z",
       "bypassed_by": [
-        "AMD Hypervisor workaround by Andreh"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/1761390",
       "store_id": "1761390"
@@ -961,7 +939,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-01-26T00:00:00Z",
       "bypassed_by": [
-        "AMD Hypervisor workaround by Andreh"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/2072450/",
       "store_id": "2072450"
@@ -974,7 +952,7 @@
       "released": "2024-02-02T00:00:00Z",
       "bypassed_by": [
         "Demo Bypass by RikuKH3",
-        "AMD & Intel Hypervisor workaround by sagerao"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2161700",
       "store_id": "2161700"
@@ -987,7 +965,7 @@
       "released": "2024-06-21T00:00:00Z",
       "bypassed_by": [
         "Demo Bypass by RikuKH3",
-        "AMD & Intel Hypervisor workaround by sagerao"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/1875830",
       "store_id": "1875830"
@@ -1029,6 +1007,18 @@
       "store_id": "2513280"
     },
     {
+      "name": "Sniper Elite: Resistance",
+      "normalized_name": "snipereliteresistance",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-01-30T00:00:00Z",
+      "bypassed_by": [
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2169200",
+      "store_id": "2169200"
+    },
+    {
       "name": "Monster Hunter Wilds",
       "normalized_name": "monsterhunterwilds",
       "denuvo_assumption": false,
@@ -1060,7 +1050,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-06-11T00:00:00Z",
       "bypassed_by": [
-        "AMD & Intel Hypervisor workaround by Andreh"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/3489700/",
       "store_id": "3489700"
@@ -1084,7 +1074,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-08-08T00:00:00Z",
       "bypassed_by": [
-        "AMD & Intel Hypervisor workaround by 0xZeOn"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/1941540",
       "store_id": "1941540"
@@ -1184,6 +1174,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2852190",
       "store_id": "2852190"
+    },
+    {
+      "name": "Crimson Desert",
+      "normalized_name": "crimsondesert",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-19T00:00:00Z",
+      "bypassed_by": [
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/3321460/",
+      "store_id": "3321460"
     }
   ],
   "cracked_denuvo_games_(2021-present)": [
@@ -3192,13 +3194,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Crimson Desert",
-      "normalized_name": "crimsondesert",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-03-19T00:00:00Z"
-    },
     {
       "name": "Life is Strange: Reunion",
       "normalized_name": "lifeisstrangereunion",
