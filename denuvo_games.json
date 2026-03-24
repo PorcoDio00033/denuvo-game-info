@@ -770,17 +770,6 @@
       "emulator_name": "Ryujinx"
     },
     {
-      "name": "NBA 2K26",
-      "normalized_name": "nba2k26",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-09-05T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3472040",
-      "store_id": "3472040",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "EA Sports FC 26",
       "normalized_name": "easportsfc26",
       "denuvo_assumption": false,
@@ -878,7 +867,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2020-06-13T00:00:00Z",
       "bypassed_by": [
-        "AMD & Intel Hypervisor workaround by MKDEV"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/1113000",
       "store_id": "1113000"
@@ -1038,7 +1027,7 @@
       "drm_protection": "Uplay/Ubisoft Connect",
       "released": "2025-03-20T00:00:00Z",
       "bypassed_by": [
-        "AMD & Intel Hypervisor workaround by Andreh"
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/3159330",
       "store_id": "3159330"
@@ -1078,6 +1067,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1941540",
       "store_id": "1941540"
+    },
+    {
+      "name": "NBA 2K26",
+      "normalized_name": "nba2k26",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-09-05T00:00:00Z",
+      "bypassed_by": [
+        "AMD & Intel Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3472040",
+      "store_id": "3472040"
     },
     {
       "name": "Borderlands 4",
