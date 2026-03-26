@@ -70,17 +70,6 @@
       "emulator_name": "Yuzu"
     },
     {
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2021-10-15T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1490890/",
-      "store_id": "1490890",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
-    },
-    {
       "name": "Football Manager 2022",
       "normalized_name": "footballmanager2022",
       "denuvo_assumption": false,
@@ -112,17 +101,6 @@
       "store_id": "1307710",
       "playable_on_emulator": false,
       "emulator_name": null
-    },
-    {
-      "name": "FAR: Changing Tides",
-      "normalized_name": "farchangingtides",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-03-01T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1570010",
-      "store_id": "1570010",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
     },
     {
       "name": "Persona 4 Arena Ultimax",
@@ -390,17 +368,6 @@
       "emulator_name": null
     },
     {
-      "name": "Sonic Superstars",
-      "normalized_name": "sonicsuperstars",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-10-17T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2022670",
-      "store_id": "2022670",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
       "name": "WRC",
       "normalized_name": "wrc",
       "denuvo_assumption": false,
@@ -547,19 +514,6 @@
       "emulator_name": null
     },
     {
-      "name": "Star Wars Outlaws",
-      "normalized_name": "starwarsoutlaws",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "store_exclusive": "Epic Games Store",
-      "released": "2024-08-30T00:00:00Z",
-      "store_link": "https://store.epicgames.com/en-US/p/star-wars-outlaws",
-      "store_id": "star-wars-outlaws",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Harry Potter: Quidditch Champions",
       "normalized_name": "harrypotterquidditchchampions",
       "denuvo_assumption": false,
@@ -638,17 +592,6 @@
       "emulator_name": null
     },
     {
-      "name": "Hello Kitty Island Adventure",
-      "normalized_name": "hellokittyislandadventure",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-01-30T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2495100",
-      "store_id": "2495100",
-      "playable_on_emulator": true,
-      "emulator_name": "Suyu"
-    },
-    {
       "name": "Sid Meier's Civilization VII",
       "normalized_name": "sidmeierscivilizationvii",
       "denuvo_assumption": false,
@@ -682,17 +625,6 @@
       "emulator_name": null
     },
     {
-      "name": "Two Point Museum",
-      "normalized_name": "twopointmuseum",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-03-04T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2185060",
-      "store_id": "2185060",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Atomfall",
       "normalized_name": "atomfall",
       "denuvo_assumption": false,
@@ -715,28 +647,6 @@
       "emulator_name": null
     },
     {
-      "name": "F1 2025",
-      "normalized_name": "f12025",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-05-30T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3059520",
-      "store_id": "3059520",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles2",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-08-08T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2928600",
-      "store_id": "2928600",
-      "playable_on_emulator": true,
-      "emulator_name": "Sudachi"
-    },
-    {
       "name": "Madden NFL 2026",
       "normalized_name": "maddennfl2026",
       "denuvo_assumption": false,
@@ -755,17 +665,6 @@
       "released": "2025-08-25T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/1909950",
       "store_id": "1909950",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
-    },
-    {
-      "name": "Shinobi - Art of Vengeance",
-      "normalized_name": "shinobiartofvengeance",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-08-29T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2361770",
-      "store_id": "2361770",
       "playable_on_emulator": true,
       "emulator_name": "Ryujinx"
     },
@@ -803,17 +702,6 @@
       "emulator_name": null
     },
     {
-      "name": "Football Manager 26",
-      "normalized_name": "footballmanager26",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-11-04T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3551340",
-      "store_id": "3551340",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Anno 117 - Pax Romana",
       "normalized_name": "anno117paxromana",
       "denuvo_assumption": false,
@@ -826,17 +714,6 @@
       "emulator_name": null
     },
     {
-      "name": "Code Vein II",
-      "normalized_name": "codeveinii",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-01-30T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2362060",
-      "store_id": "2362060",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Bravely Default: Flying Fairy HD Remaster",
       "normalized_name": "bravelydefaultflyingfairyhdremaster",
       "denuvo_assumption": false,
@@ -844,17 +721,6 @@
       "released": "2026-03-12T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/2833580/",
       "store_id": "2833580",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "WWE2K26",
-      "normalized_name": "wwe2k26",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-03-13T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3717070",
-      "store_id": "3717070",
       "playable_on_emulator": false,
       "emulator_name": null
     }
@@ -871,6 +737,30 @@
       ],
       "store_link": "https://store.steampowered.com/app/1113000",
       "store_id": "1113000"
+    },
+    {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2021-10-15T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1490890/",
+      "store_id": "1490890"
+    },
+    {
+      "name": "FAR: Changing Tides",
+      "normalized_name": "farchangingtides",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-03-01T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1570010",
+      "store_id": "1570010"
     },
     {
       "name": "Hatsune Miku: Project DIVA Mega Mix+",
@@ -891,7 +781,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-06-23T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/1794960",
       "store_id": "1794960"
@@ -903,10 +793,22 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-08-25T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/1777620",
       "store_id": "1777620"
+    },
+    {
+      "name": "Sonic Superstars",
+      "normalized_name": "sonicsuperstars",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-10-17T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2022670",
+      "store_id": "2022670"
     },
     {
       "name": "Avatar: Frontiers of Pandora",
@@ -972,6 +874,20 @@
       "store_id": "2358720"
     },
     {
+      "name": "Star Wars Outlaws",
+      "normalized_name": "starwarsoutlaws",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "store_exclusive": "Epic Games Store",
+      "released": "2024-08-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.epicgames.com/en-US/p/star-wars-outlaws",
+      "store_id": "star-wars-outlaws"
+    },
+    {
       "name": "Metaphor Re Fantazio",
       "normalized_name": "metaphorrefantazio",
       "denuvo_assumption": false,
@@ -1008,16 +924,40 @@
       "store_id": "2169200"
     },
     {
+      "name": "Hello Kitty Island Adventure",
+      "normalized_name": "hellokittyislandadventure",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-01-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2495100",
+      "store_id": "2495100"
+    },
+    {
       "name": "Monster Hunter Wilds",
       "normalized_name": "monsterhunterwilds",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-02-28T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2246340",
       "store_id": "2246340"
+    },
+    {
+      "name": "Two Point Museum",
+      "normalized_name": "twopointmuseum",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-03-04T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2185060",
+      "store_id": "2185060"
     },
     {
       "name": "Assassins Creed Shadows",
@@ -1031,6 +971,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/3159330",
       "store_id": "3159330"
+    },
+    {
+      "name": "F1 2025",
+      "normalized_name": "f12025",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-05-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3059520",
+      "store_id": "3059520"
     },
     {
       "name": "Stellar Blade",
@@ -1069,6 +1021,30 @@
       "store_id": "1941540"
     },
     {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles2",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-08-08T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2928600",
+      "store_id": "2928600"
+    },
+    {
+      "name": "Shinobi - Art of Vengeance",
+      "normalized_name": "shinobiartofvengeance",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-08-29T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2361770",
+      "store_id": "2361770"
+    },
+    {
       "name": "NBA 2K26",
       "normalized_name": "nba2k26",
       "denuvo_assumption": false,
@@ -1087,7 +1063,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-11T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/1285190",
       "store_id": "1285190"
@@ -1099,7 +1075,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-25T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by KIRIGIRI"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2486820",
       "store_id": "2486820"
@@ -1111,10 +1087,22 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-10-21T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2958130",
       "store_id": "2958130"
+    },
+    {
+      "name": "Football Manager 26",
+      "normalized_name": "footballmanager26",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-11-04T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3551340",
+      "store_id": "3551340"
     },
     {
       "name": "Octopath Traveler 0",
@@ -1123,10 +1111,23 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-12-04T00:00:00Z",
       "bypassed_by": [
-        "Demo Bypass by democrackerz"
+        "Demo Bypass by democrackerz",
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/3014320",
       "store_id": "3014320"
+    },
+    {
+      "name": "Code Vein 2",
+      "normalized_name": "codevein2",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-01-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2362060",
+      "store_id": "2362060"
     },
     {
       "name": "Dragon Quest VII Reimagined",
@@ -1135,7 +1136,8 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-02-05T00:00:00Z",
       "bypassed_by": [
-        "Demo Bypass by democrackerz"
+        "Demo Bypass by democrackerz",
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2499860",
       "store_id": "2499860"
@@ -1159,7 +1161,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-02-27T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Kirigiri"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/3764200/",
       "store_id": "3764200"
@@ -1175,6 +1177,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2852190",
       "store_id": "2852190"
+    },
+    {
+      "name": "WWE2K26",
+      "normalized_name": "wwe2k26",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-13T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3717070",
+      "store_id": "3717070"
     },
     {
       "name": "Crimson Desert",
