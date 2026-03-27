@@ -81,17 +81,6 @@
       "emulator_name": null
     },
     {
-      "name": "Total War Warhammer 3",
-      "normalized_name": "totalwarwarhammer3",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-02-17T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1142710",
-      "store_id": "1142710",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "GRID Legends",
       "normalized_name": "gridlegends",
       "denuvo_assumption": false,
@@ -165,17 +154,6 @@
       "released": "2022-08-30T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/1708520",
       "store_id": "1708520",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Lost Judgment",
-      "normalized_name": "lostjudgment",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-09-14T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2058190",
-      "store_id": "2058190",
       "playable_on_emulator": false,
       "emulator_name": null
     },
@@ -614,28 +592,6 @@
       "emulator_name": null
     },
     {
-      "name": "PGA TOUR 2K25",
-      "normalized_name": "pgatour2k25",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-02-28T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2385530",
-      "store_id": "2385530",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Atomfall",
-      "normalized_name": "atomfall",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-03-27T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/801800",
-      "store_id": "801800",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "The First Berserker: Khazan",
       "normalized_name": "thefirstberserkerkhazan",
       "denuvo_assumption": false,
@@ -691,17 +647,6 @@
       "emulator_name": "Ryujinx"
     },
     {
-      "name": "Digimon Story Time Stranger",
-      "normalized_name": "digimonstorytimestranger",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-10-03T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1984270",
-      "store_id": "1984270",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Anno 117 - Pax Romana",
       "normalized_name": "anno117paxromana",
       "denuvo_assumption": false,
@@ -710,17 +655,6 @@
       "released": "2025-11-13T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/3274580",
       "store_id": "3274580",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Bravely Default: Flying Fairy HD Remaster",
-      "normalized_name": "bravelydefaultflyingfairyhdremaster",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-03-12T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2833580/",
-      "store_id": "2833580",
       "playable_on_emulator": false,
       "emulator_name": null
     }
@@ -749,6 +683,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1490890/",
       "store_id": "1490890"
+    },
+    {
+      "name": "Total War Warhammer 3",
+      "normalized_name": "totalwarwarhammer3",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-02-17T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1142710",
+      "store_id": "1142710"
     },
     {
       "name": "FAR: Changing Tides",
@@ -797,6 +743,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1777620",
       "store_id": "1777620"
+    },
+    {
+      "name": "Lost Judgment",
+      "normalized_name": "lostjudgment",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-09-14T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2058190",
+      "store_id": "2058190"
     },
     {
       "name": "Sonic Superstars",
@@ -894,7 +852,8 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-10-11T00:00:00Z",
       "bypassed_by": [
-        "Demo Bypass by RikuKH3"
+        "Demo Bypass by RikuKH3",
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/",
       "store_id": "2679460"
@@ -948,6 +907,18 @@
       "store_id": "2246340"
     },
     {
+      "name": "PGA TOUR 2K25",
+      "normalized_name": "pgatour2k25",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-02-28T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2385530",
+      "store_id": "2385530"
+    },
+    {
       "name": "Two Point Museum",
       "normalized_name": "twopointmuseum",
       "denuvo_assumption": false,
@@ -971,6 +942,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/3159330",
       "store_id": "3159330"
+    },
+    {
+      "name": "Atomfall",
+      "normalized_name": "atomfall",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-03-27T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/801800",
+      "store_id": "801800"
     },
     {
       "name": "F1 2025",
@@ -1081,6 +1064,18 @@
       "store_id": "2486820"
     },
     {
+      "name": "Digimon Story Time Stranger",
+      "normalized_name": "digimonstorytimestranger",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-10-03T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1984270",
+      "store_id": "1984270"
+    },
+    {
       "name": "Jurassic World Evolution 3",
       "normalized_name": "jurassicworldevolution3",
       "denuvo_assumption": false,
@@ -1167,6 +1162,18 @@
       "store_id": "3764200"
     },
     {
+      "name": "Bravely Default: Flying Fairy HD Remaster",
+      "normalized_name": "bravelydefaultflyingfairyhdremaster",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-12T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2833580/",
+      "store_id": "2833580"
+    },
+    {
       "name": "Monster Hunter Stories 3: Twisted Reflection",
       "normalized_name": "monsterhunterstories3twistedreflection",
       "denuvo_assumption": false,
@@ -1201,6 +1208,18 @@
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/3321460/",
       "store_id": "3321460"
+    },
+    {
+      "name": "Life is Strange: Reunion",
+      "normalized_name": "lifeisstrangereunion",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-26T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2624870/",
+      "store_id": "2624870"
     }
   ],
   "cracked_denuvo_games_(2021-present)": [
@@ -1523,8 +1542,8 @@
       "store_id": "1938010"
     },
     {
-      "name": "Atomic Heart",
-      "normalized_name": "atomicheart",
+      "name": "Atomic Heart (Hypervisor also available)",
+      "normalized_name": "atomichearthypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -3209,13 +3228,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Life is Strange: Reunion",
-      "normalized_name": "lifeisstrangereunion",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-03-26T00:00:00Z"
-    },
     {
       "name": "Mega Man Star Force Legacy Collection",
       "normalized_name": "megamanstarforcelegacycollection",
