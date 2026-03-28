@@ -225,17 +225,6 @@
       "emulator_name": null
     },
     {
-      "name": "Like a Dragon: Ishin!",
-      "normalized_name": "likeadragonishin",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-02-21T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1805480",
-      "store_id": "1805480",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "EA Sports PGA Tour 2023",
       "normalized_name": "easportspgatour2023",
       "denuvo_assumption": false,
@@ -368,28 +357,6 @@
       "emulator_name": "Suyu"
     },
     {
-      "name": "Like A Dragon Gaiden - The Man Who Erased His Name",
-      "normalized_name": "likeadragongaidenthemanwhoerasedhisname",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-11-08T00:00:00Z",
-      "store_link": "https://store.steampowered.com/agecheck/app/2375550/",
-      "store_id": "2375550",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Persona 5 Tactica",
-      "normalized_name": "persona5tactica",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-11-17T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2254740",
-      "store_id": "2254740",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
       "name": "Warhammer Age of Sigmar: Realms of Ruin",
       "normalized_name": "warhammerageofsigmarrealmsofruin",
       "denuvo_assumption": false,
@@ -399,19 +366,6 @@
       "store_id": "1844380",
       "playable_on_emulator": false,
       "emulator_name": null
-    },
-    {
-      "name": "Prince of Persia: The Lost Crown",
-      "normalized_name": "princeofpersiathelostcrown",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "store_exclusive": "Epic Games Store",
-      "released": "2024-01-15T00:00:00Z",
-      "store_link": "https://store.epicgames.com/en-US/p/prince-of-persia-the-lost-crown",
-      "store_id": "prince-of-persia-the-lost-crown",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
     },
     {
       "name": "Valiant Hearts: Coming Home",
@@ -559,17 +513,6 @@
       "emulator_name": null
     },
     {
-      "name": "Planet Coaster 2",
-      "normalized_name": "planetcoaster2",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-11-06T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2688950",
-      "store_id": "2688950",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Sid Meier's Civilization VII",
       "normalized_name": "sidmeierscivilizationvii",
       "denuvo_assumption": false,
@@ -577,17 +520,6 @@
       "released": "2025-02-11T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/1295660",
       "store_id": "1295660",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Like a Dragon: Pirate Yakuza",
-      "normalized_name": "likeadragonpirateyakuza",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-02-20T00:00:00Z",
-      "store_link": "https://store.steampowered.com/agecheck/app/3061810/",
-      "store_id": "3061810",
       "playable_on_emulator": false,
       "emulator_name": null
     },
@@ -757,6 +689,18 @@
       "store_id": "2058190"
     },
     {
+      "name": "Like a Dragon: Ishin!",
+      "normalized_name": "likeadragonishin",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-02-21T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1805480",
+      "store_id": "1805480"
+    },
+    {
       "name": "Sonic Superstars",
       "normalized_name": "sonicsuperstars",
       "denuvo_assumption": false,
@@ -767,6 +711,30 @@
       ],
       "store_link": "https://store.steampowered.com/app/2022670",
       "store_id": "2022670"
+    },
+    {
+      "name": "Like A Dragon Gaiden - The Man Who Erased His Name",
+      "normalized_name": "likeadragongaidenthemanwhoerasedhisname",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-11-08T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/2375550/",
+      "store_id": "2375550"
+    },
+    {
+      "name": "Persona 5 Tactica",
+      "normalized_name": "persona5tactica",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-11-17T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2254740",
+      "store_id": "2254740"
     },
     {
       "name": "Avatar: Frontiers of Pandora",
@@ -780,6 +748,20 @@
       ],
       "store_link": "https://store.steampowered.com/app/2840770",
       "store_id": "2840770"
+    },
+    {
+      "name": "Prince of Persia: The Lost Crown",
+      "normalized_name": "princeofpersiathelostcrown",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "store_exclusive": "Epic Games Store",
+      "released": "2024-01-15T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.epicgames.com/en-US/p/prince-of-persia-the-lost-crown",
+      "store_id": "prince-of-persia-the-lost-crown"
     },
     {
       "name": "Like A Dragon Infinite Wealth",
@@ -871,6 +853,18 @@
       "store_id": "2513280"
     },
     {
+      "name": "Planet Coaster 2",
+      "normalized_name": "planetcoaster2",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-11-06T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2688950",
+      "store_id": "2688950"
+    },
+    {
       "name": "Sniper Elite: Resistance",
       "normalized_name": "snipereliteresistance",
       "denuvo_assumption": false,
@@ -893,6 +887,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2495100",
       "store_id": "2495100"
+    },
+    {
+      "name": "Like a Dragon: Pirate Yakuza",
+      "normalized_name": "likeadragonpirateyakuza",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-02-20T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/3061810/",
+      "store_id": "3061810"
     },
     {
       "name": "Monster Hunter Wilds",
