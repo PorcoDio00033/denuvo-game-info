@@ -191,17 +191,6 @@
       "emulator_name": null
     },
     {
-      "name": "Persona 3 Portable",
-      "normalized_name": "persona3portable",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-01-19T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1809700",
-      "store_id": "1809700",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
-    },
-    {
       "name": "Undisputed",
       "normalized_name": "undisputed",
       "denuvo_assumption": false,
@@ -589,6 +578,17 @@
       "store_id": "3274580",
       "playable_on_emulator": false,
       "emulator_name": null
+    },
+    {
+      "name": "Mega Man Star Force Legacy Collection",
+      "normalized_name": "megamanstarforcelegacycollection",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-03-27T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/3500390",
+      "store_id": "3500390",
+      "playable_on_emulator": true,
+      "emulator_name": "Ryujinx"
     }
   ],
   "bypassed_denuvo_games": [
@@ -689,6 +689,18 @@
       "store_id": "2058190"
     },
     {
+      "name": "Persona 3 Portable",
+      "normalized_name": "persona3portable",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-01-19T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1809700",
+      "store_id": "1809700"
+    },
+    {
       "name": "Like a Dragon: Ishin!",
       "normalized_name": "likeadragonishin",
       "denuvo_assumption": false,
@@ -744,7 +756,7 @@
       "drm_protection": "Uplay/Ubisoft Connect",
       "released": "2023-12-07T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by Andreh"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2840770",
       "store_id": "2840770"
@@ -3234,13 +3246,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Mega Man Star Force Legacy Collection",
-      "normalized_name": "megamanstarforcelegacycollection",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-03-27T00:00:00Z"
-    },
     {
       "name": "Pragmata",
       "normalized_name": "pragmata",
