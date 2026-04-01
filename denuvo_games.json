@@ -147,17 +147,6 @@
       "emulator_name": null
     },
     {
-      "name": "Need For Speed Unbound",
-      "normalized_name": "needforspeedunbound",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-12-02T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1846380",
-      "store_id": "1846380",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Marvel Midnight Suns",
       "normalized_name": "marvelmidnightsuns",
       "denuvo_assumption": false,
@@ -480,17 +469,6 @@
       "emulator_name": null
     },
     {
-      "name": "Sid Meier's Civilization VII",
-      "normalized_name": "sidmeierscivilizationvii",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-02-11T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1295660",
-      "store_id": "1295660",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "The First Berserker: Khazan",
       "normalized_name": "thefirstberserkerkhazan",
       "denuvo_assumption": false,
@@ -669,6 +647,18 @@
       "store_id": "1273400"
     },
     {
+      "name": "Need For Speed Unbound",
+      "normalized_name": "needforspeedunbound",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-12-02T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1846380",
+      "store_id": "1846380"
+    },
+    {
       "name": "Persona 3 Portable",
       "normalized_name": "persona3portable",
       "denuvo_assumption": false,
@@ -800,7 +790,7 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-08-20T00:00:00Z",
       "bypassed_by": [
-        "Hypervisor workaround by 0xZeOn"
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2358720",
       "store_id": "2358720"
@@ -879,6 +869,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2495100",
       "store_id": "2495100"
+    },
+    {
+      "name": "Sid Meier's Civilization VII",
+      "normalized_name": "sidmeierscivilizationvii",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-02-11T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1295660",
+      "store_id": "1295660"
     },
     {
       "name": "Like a Dragon: Pirate Yakuza",
@@ -984,7 +986,8 @@
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-06-19T00:00:00Z",
       "bypassed_by": [
-        "Demo Bypass by RikuKH3"
+        "Demo Bypass by RikuKH3",
+        "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/2288350/",
       "store_id": "2288350"
