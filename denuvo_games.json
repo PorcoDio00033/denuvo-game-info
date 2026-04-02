@@ -36,17 +36,6 @@
       "emulator_name": null
     },
     {
-      "name": "Madden NFL 22",
-      "normalized_name": "maddennfl22",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2021-08-20T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1519350",
-      "store_id": "1519350",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Lost in random",
       "normalized_name": "lostinrandom",
       "denuvo_assumption": false,
@@ -77,28 +66,6 @@
       "released": "2021-11-09T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/1569040",
       "store_id": "1569040",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "GRID Legends",
-      "normalized_name": "gridlegends",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-02-24T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1307710",
-      "store_id": "1307710",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-      "normalized_name": "warhammer40000chaosgatedaemonhunters",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-05-05T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1611910",
-      "store_id": "1611910",
       "playable_on_emulator": false,
       "emulator_name": null
     },
@@ -491,17 +458,6 @@
       "emulator_name": null
     },
     {
-      "name": "EA Sports FC 26",
-      "normalized_name": "easportsfc26",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-09-25T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3405690",
-      "store_id": "3405690",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Final Fantasy Tactics - The Ivalice Chronicles",
       "normalized_name": "finalfantasytacticstheivalicechronicles",
       "denuvo_assumption": false,
@@ -539,6 +495,18 @@
       "store_id": "1113000"
     },
     {
+      "name": "Madden NFL 22",
+      "normalized_name": "maddennfl22",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2021-08-20T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1519350",
+      "store_id": "1519350"
+    },
+    {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
       "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles",
       "denuvo_assumption": false,
@@ -563,6 +531,18 @@
       "store_id": "1142710"
     },
     {
+      "name": "GRID Legends",
+      "normalized_name": "gridlegends",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-02-24T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1307710",
+      "store_id": "1307710"
+    },
+    {
       "name": "FAR: Changing Tides",
       "normalized_name": "farchangingtides",
       "denuvo_assumption": false,
@@ -585,6 +565,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1602010",
       "store_id": "1602010"
+    },
+    {
+      "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+      "normalized_name": "warhammer40000chaosgatedaemonhunters",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-05-05T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1611910",
+      "store_id": "1611910"
     },
     {
       "name": "Hatsune Miku: Project DIVA Mega Mix+",
@@ -1075,6 +1067,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2486820",
       "store_id": "2486820"
+    },
+    {
+      "name": "EA Sports FC 26",
+      "normalized_name": "easportsfc26",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-09-25T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3405690",
+      "store_id": "3405690"
     },
     {
       "name": "Digimon Story Time Stranger",
