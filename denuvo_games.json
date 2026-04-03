@@ -36,17 +36,6 @@
       "emulator_name": null
     },
     {
-      "name": "Lost in random",
-      "normalized_name": "lostinrandom",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2021-09-10T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1462570/",
-      "store_id": "1462570",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
-    },
-    {
       "name": "Monopoly Madness",
       "normalized_name": "monopolymadness",
       "denuvo_assumption": false,
@@ -166,17 +155,6 @@
       "released": "2023-05-02T00:00:00Z",
       "store_link": "https://store.steampowered.com/agecheck/app/1294810/",
       "store_id": "1294810",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Street Fighter 6",
-      "normalized_name": "streetfighter6",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-06-01T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1364780",
-      "store_id": "1364780",
       "playable_on_emulator": false,
       "emulator_name": null
     },
@@ -347,17 +325,6 @@
       "emulator_name": "Suyu"
     },
     {
-      "name": "F1 Manager 2024",
-      "normalized_name": "f1manager2024",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-07-24T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2591280",
-      "store_id": "2591280",
-      "playable_on_emulator": true,
-      "emulator_name": "Eden"
-    },
-    {
       "name": "Madden NFL 25",
       "normalized_name": "maddennfl25",
       "denuvo_assumption": false,
@@ -436,17 +403,6 @@
       "emulator_name": null
     },
     {
-      "name": "The First Berserker: Khazan",
-      "normalized_name": "thefirstberserkerkhazan",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-03-27T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2680010",
-      "store_id": "2680010",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Madden NFL 2026",
       "normalized_name": "maddennfl2026",
       "denuvo_assumption": false,
@@ -456,17 +412,6 @@
       "store_id": "3230400",
       "playable_on_emulator": false,
       "emulator_name": null
-    },
-    {
-      "name": "Final Fantasy Tactics - The Ivalice Chronicles",
-      "normalized_name": "finalfantasytacticstheivalicechronicles",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-09-30T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1004640",
-      "store_id": "1004640",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
     },
     {
       "name": "Anno 117 - Pax Romana",
@@ -505,6 +450,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1519350",
       "store_id": "1519350"
+    },
+    {
+      "name": "Lost in random",
+      "normalized_name": "lostinrandom",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2021-09-10T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1462570/",
+      "store_id": "1462570"
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
@@ -675,6 +632,18 @@
       "store_id": "1805480"
     },
     {
+      "name": "Street Fighter 6",
+      "normalized_name": "streetfighter6",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-06-01T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1364780",
+      "store_id": "1364780"
+    },
+    {
       "name": "Sonic Superstars",
       "normalized_name": "sonicsuperstars",
       "denuvo_assumption": false,
@@ -774,6 +743,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1875830",
       "store_id": "1875830"
+    },
+    {
+      "name": "F1 Manager 2024",
+      "normalized_name": "f1manager2024",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-07-24T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2591280",
+      "store_id": "2591280"
     },
     {
       "name": "Black Myth Wukong",
@@ -948,6 +929,18 @@
       "store_id": "801800"
     },
     {
+      "name": "The First Berserker: Khazan",
+      "normalized_name": "thefirstberserkerkhazan",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-03-27T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2680010",
+      "store_id": "2680010"
+    },
+    {
       "name": "F1 2025",
       "normalized_name": "f12025",
       "denuvo_assumption": false,
@@ -1079,6 +1072,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/3405690",
       "store_id": "3405690"
+    },
+    {
+      "name": "Final Fantasy Tactics - The Ivalice Chronicles",
+      "normalized_name": "finalfantasytacticstheivalicechronicles",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-09-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1004640",
+      "store_id": "1004640"
     },
     {
       "name": "Digimon Story Time Stranger",
@@ -1419,8 +1424,8 @@
       "store_id": "1088850"
     },
     {
-      "name": "Jurassic World Evolution 2",
-      "normalized_name": "jurassicworldevolution2",
+      "name": "Jurassic World Evolution 2 (Hypervisor also available)",
+      "normalized_name": "jurassicworldevolution2hypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -3346,13 +3351,6 @@
       "normalized_name": "operationlovecraftfallendoll",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "release": "TBA"
-    },
-    {
-      "name": "Darwin's Paradox",
-      "normalized_name": "darwinsparadox",
-      "denuvo_assumption": true,
-      "denuvo_assumption_desc": "Assumption",
       "release": "TBA"
     },
     {
