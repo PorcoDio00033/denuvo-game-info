@@ -1,6 +1,5 @@
 name,section,bypassed_by,crack_status,crack_status_desc,cracked,cracked_by,denuvo_assumption,denuvo_assumption_desc,drm_protection,emulator_name,normalized_name,playable_on_emulator,release,released,store_exclusive,store_id,store_link
 Madden NFL 21,uncracked_denuvo_games,,,,,,False,Confirmed,,,maddennfl21,False,,2020-08-25T00:00:00Z,,1239520,https://store.steampowered.com/app/1239520
-The Bus,uncracked_denuvo_games,,,,,,False,Confirmed,,,thebus,False,,2021-03-25T00:00:00Z,,491540,https://store.steampowered.com/app/491540
 Monopoly Madness,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,Yuzu,monopolymadness,True,,2021-09-21T00:00:00Z,,2383760,https://store.steampowered.com/app/2383760
 Football Manager 2022,uncracked_denuvo_games,,,,,,False,Confirmed,,,footballmanager2022,False,,2021-11-09T00:00:00Z,,1569040,https://store.steampowered.com/app/1569040
 Sniper Elite 5,uncracked_denuvo_games,,,,,,False,Confirmed,,,sniperelite5,False,,2022-05-26T00:00:00Z,,1029690,https://store.steampowered.com/app/1029690
@@ -11,17 +10,14 @@ Marvel Midnight Suns,uncracked_denuvo_games,,,,,,False,Confirmed,,,marvelmidnigh
 Undisputed,uncracked_denuvo_games,,,,,,False,Confirmed,,,undisputed,False,,2023-01-31T00:00:00Z,,1451190,https://store.steampowered.com/app/1451190
 The Settlers: New Allies,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,,thesettlersnewallies,False,,2023-02-17T00:00:00Z,,2750080,https://store.steampowered.com/app/2750080
 EA Sports PGA Tour 2023,uncracked_denuvo_games,,,,,,False,Confirmed,,,easportspgatour2023,False,,2023-04-07T00:00:00Z,,1677350,https://store.steampowered.com/app/1677350
-Redfall,uncracked_denuvo_games,,,,,,False,Confirmed,,,redfall,False,,2023-05-02T00:00:00Z,,1294810,https://store.steampowered.com/agecheck/app/1294810/
 Super Mega Baseball 4,uncracked_denuvo_games,,,,,,False,Confirmed,,Ryujinx,supermegabaseball4,True,,2023-06-02T00:00:00Z,,1487210,https://store.steampowered.com/app/1487210
 F1 2023,uncracked_denuvo_games,,,,,,False,Confirmed,,,f12023,False,,2023-06-16T00:00:00Z,,2108330,https://store.steampowered.com/app/2108330
 F1 Manager 2023,uncracked_denuvo_games,,,,,,False,Confirmed,,,f1manager2023,False,,2023-07-31T00:00:00Z,,2287220,https://store.steampowered.com/app/2287220
 Madden NFL 24,uncracked_denuvo_games,,,,,,False,Confirmed,,,maddennfl24,False,,2023-08-18T00:00:00Z,,2140330,https://store.steampowered.com/app/2140330
 NBA 2K24,uncracked_denuvo_games,,,,,,False,Confirmed,,,nba2k24,False,,2023-09-08T00:00:00Z,,2338770,https://store.steampowered.com/app/2338770
-Mortal Kombat 1,uncracked_denuvo_games,,,,,,False,Confirmed,,Yuzu,mortalkombat1,True,,2023-09-19T00:00:00Z,,1971870,https://store.steampowered.com/app/1971870
 EA FC 24,uncracked_denuvo_games,,,,,,False,Confirmed,,,eafc24,False,,2023-09-29T00:00:00Z,,2195250,https://store.steampowered.com/app/2195250
 WRC,uncracked_denuvo_games,,,,,,False,Confirmed,,,wrc,False,,2023-11-03T00:00:00Z,,1849250,https://store.steampowered.com/app/1849250
 Football Manager 2024,uncracked_denuvo_games,,,,,,False,Confirmed,,Suyu,footballmanager2024,True,,2023-11-06T00:00:00Z,,2252570,https://store.steampowered.com/app/2252570
-Warhammer Age of Sigmar: Realms of Ruin,uncracked_denuvo_games,,,,,,False,Confirmed,,,warhammerageofsigmarrealmsofruin,False,,2023-11-17T00:00:00Z,,1844380,https://store.steampowered.com/app/1844380
 Valiant Hearts: Coming Home,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,Ryujinx,valiantheartscominghome,True,,2024-03-07T00:00:00Z,,,https://www.ubisoft.com/en-gb/game/valiant-hearts/coming-home
 TopSpin 2K25,uncracked_denuvo_games,,,,,,False,Confirmed,,,topspin2k25,False,,2024-04-26T00:00:00Z,,1785650,https://store.steampowered.com/app/1785650
 F1 24,uncracked_denuvo_games,,,,,,False,Confirmed,,,f124,False,,2024-05-31T00:00:00Z,,2488620,https://store.steampowered.com/app/2488620
@@ -37,6 +33,7 @@ Speedball,uncracked_denuvo_games,,,,,,False,Confirmed,,,speedball,False,,2024-10
 Madden NFL 2026,uncracked_denuvo_games,,,,,,False,Confirmed,,,maddennfl2026,False,,2025-08-14T00:00:00Z,,3230400,https://store.steampowered.com/app/3230400
 Anno 117 - Pax Romana,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,,anno117paxromana,False,,2025-11-13T00:00:00Z,,3274580,https://store.steampowered.com/app/3274580
 Persona 4 Golden (64 bit),bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,persona4golden64bit,,,2020-06-13T00:00:00Z,,1113000,https://store.steampowered.com/app/1113000
+The Bus,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,thebus,,,2021-03-25T00:00:00Z,,491540,https://store.steampowered.com/app/491540
 Madden NFL 22,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,maddennfl22,,,2021-08-20T00:00:00Z,,1519350,https://store.steampowered.com/app/1519350
 Lost in random,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,lostinrandom,,,2021-09-10T00:00:00Z,,1462570,https://store.steampowered.com/app/1462570/
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,demonslayerkimetsunoyaibathehinokamichronicles,,,2021-10-15T00:00:00Z,,1490890,https://store.steampowered.com/app/1490890/
@@ -53,9 +50,12 @@ Construction Simulator,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,
 Need For Speed Unbound,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,needforspeedunbound,,,2022-12-02T00:00:00Z,,1846380,https://store.steampowered.com/app/1846380
 Persona 3 Portable,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,persona3portable,,,2023-01-19T00:00:00Z,,1809700,https://store.steampowered.com/app/1809700
 Like a Dragon: Ishin!,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,likeadragonishin,,,2023-02-21T00:00:00Z,,1805480,https://store.steampowered.com/app/1805480
+Redfall,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,redfall,,,2023-05-02T00:00:00Z,,1294810,https://store.steampowered.com/agecheck/app/1294810/
 Street Fighter 6,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,streetfighter6,,,2023-06-01T00:00:00Z,,1364780,https://store.steampowered.com/app/1364780
+Mortal Kombat 1,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,mortalkombat1,,,2023-09-19T00:00:00Z,,1971870,https://store.steampowered.com/app/1971870
 Sonic Superstars,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,sonicsuperstars,,,2023-10-17T00:00:00Z,,2022670,https://store.steampowered.com/app/2022670
 Like A Dragon Gaiden - The Man Who Erased His Name,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,likeadragongaidenthemanwhoerasedhisname,,,2023-11-08T00:00:00Z,,2375550,https://store.steampowered.com/agecheck/app/2375550/
+Warhammer Age of Sigmar: Realms of Ruin,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,warhammerageofsigmarrealmsofruin,,,2023-11-17T00:00:00Z,,1844380,https://store.steampowered.com/app/1844380
 Persona 5 Tactica,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,persona5tactica,,,2023-11-17T00:00:00Z,,2254740,https://store.steampowered.com/app/2254740
 Avatar: Frontiers of Pandora,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,Uplay/Ubisoft Connect,,avatarfrontiersofpandora,,,2023-12-07T00:00:00Z,,2840770,https://store.steampowered.com/app/2840770
 Prince of Persia: The Lost Crown,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,Uplay/Ubisoft Connect,,princeofpersiathelostcrown,,,2024-01-15T00:00:00Z,Epic Games Store,prince-of-persia-the-lost-crown,https://store.epicgames.com/en-US/p/prince-of-persia-the-lost-crown
@@ -119,7 +119,7 @@ Jurassic World Evolution 2 (Hypervisor also available),cracked_denuvo_games_(202
 F1 2022,cracked_denuvo_games_(2021-present),,missing_updates,"all DLC's are cracked, but the latest patch is uncracked",2022-07-08T00:00:00Z,"sam2k8, Razor1911",False,Confirmed,,,f12022,,,2022-07-01T00:00:00Z,,1692250,https://store.steampowered.com/app/1692250
 Judgment,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2023-08-14T00:00:00Z,EMPRESS,False,Confirmed,,,judgment,,,2022-09-14T00:00:00Z,,2058180,https://store.steampowered.com/app/2058180
 FIFA 23,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2023-08-22T00:00:00Z,MKDEV,False,Confirmed,,,fifa23,,,2022-10-01T00:00:00Z,,1811260,https://store.steampowered.com/app/1811260
-Persona 5 Royal,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2025-12-14T00:00:00Z,MKDEV,False,Confirmed,,,persona5royal,,,2022-10-21T00:00:00Z,,1687950,https://store.steampowered.com/app/1687950
+Persona 5 Royal (Hypervisor also available),cracked_denuvo_games_(2021-present),,missing_updates,"all DLC's are cracked, but the latest patch is uncracked",2025-12-14T00:00:00Z,MKDEV,False,Confirmed,,,persona5royalhypervisoralsoavailable,,,2022-10-21T00:00:00Z,,1687950,https://store.steampowered.com/app/1687950
 Football Manager 2023,cracked_denuvo_games_(2021-present),,missing_updates,"all DLC's are cracked, but the latest patch is uncracked",2023-02-18T00:00:00Z,MKDEV,False,Confirmed,,,footballmanager2023,,,2022-11-08T00:00:00Z,,1904540,https://store.steampowered.com/app/1904540
 Sonic Frontiers,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2026-01-28T00:00:00Z,voices38,False,Confirmed,,,sonicfrontiers,,,2022-11-08T00:00:00Z,,1237320,https://store.steampowered.com/app/1237320
 Dead Space Remake,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2026-01-11T00:00:00Z,voices38,False,Confirmed,,,deadspaceremake,,,2023-01-27T00:00:00Z,,1693980,https://store.steampowered.com/app/1693980
@@ -212,7 +212,7 @@ Sea of Solitude,older_cracked_denuvo_games_(2014-2020),,fully_cracked,latest upd
 Madden NFL 20,older_cracked_denuvo_games_(2014-2020),,missing_updates,"all DLC's are cracked, but the latest patch is uncracked",2019-08-28T00:00:00Z,CODEX,False,Confirmed,,,maddennfl20,,,2019-08-02T00:00:00Z,,,Unavailable
 eFootball Pro Evolution Soccer 2020,older_cracked_denuvo_games_(2014-2020),,fully_cracked,latest update is cracked with all the DLC's,2025-10-28T00:00:00Z,voices38,False,Confirmed,,,efootballproevolutionsoccer2020,,,2019-09-10T00:00:00Z,,996470,https://store.steampowered.com/app/996470
 FIFA 20,older_cracked_denuvo_games_(2014-2020),,fully_cracked,latest update is cracked with all the DLC's,2025-11-07T00:00:00Z,voices38,False,Confirmed,,,fifa20,,,2019-09-27T00:00:00Z,,,Unavailable
-Planet Zoo,older_cracked_denuvo_games_(2014-2020),,missing_dlc,the latest DLC or multiple ones are uncracked,2020-09-23T00:00:00Z,EMPRESS,False,Confirmed,,,planetzoo,,,2019-11-05T00:00:00Z,,703080,https://store.steampowered.com/app/703080
+Planet Zoo (Hyoervisor also available),older_cracked_denuvo_games_(2014-2020),,missing_dlc,the latest DLC or multiple ones are uncracked,2020-09-23T00:00:00Z,EMPRESS,False,Confirmed,,,planetzoohyoervisoralsoavailable,,,2019-11-05T00:00:00Z,,703080,https://store.steampowered.com/app/703080
 Need for Speed Heat,older_cracked_denuvo_games_(2014-2020),,fully_cracked,latest update is cracked with all the DLC's,2019-12-27T00:00:00Z,"Leaked CODEX crack, voices38",False,Confirmed,,,needforspeedheat,,,2019-11-08T00:00:00Z,,1222680,https://store.steampowered.com/app/1222680
 Football Manager 2020,older_cracked_denuvo_games_(2014-2020),,missing_updates,"all DLC's are cracked, but the latest patch is uncracked",2020-06-18T00:00:00Z,MKDEV,False,Confirmed,,,footballmanager2020,,,2019-11-19T00:00:00Z,,1100600,https://store.steampowered.com/app/1100600
 Zombie Army 4: Dead War,older_cracked_denuvo_games_(2014-2020),,missing_dlc,the latest DLC or multiple ones are uncracked,2020-12-11T00:00:00Z,EMPRESS,False,Confirmed,,,zombiearmy4deadwar,,,2020-02-04T00:00:00Z,,694280,https://store.steampowered.com/app/694280

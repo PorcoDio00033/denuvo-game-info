@@ -25,17 +25,6 @@
       "emulator_name": null
     },
     {
-      "name": "The Bus",
-      "normalized_name": "thebus",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2021-03-25T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/491540",
-      "store_id": "491540",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Monopoly Madness",
       "normalized_name": "monopolymadness",
       "denuvo_assumption": false,
@@ -148,17 +137,6 @@
       "emulator_name": null
     },
     {
-      "name": "Redfall",
-      "normalized_name": "redfall",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-05-02T00:00:00Z",
-      "store_link": "https://store.steampowered.com/agecheck/app/1294810/",
-      "store_id": "1294810",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Super Mega Baseball 4",
       "normalized_name": "supermegabaseball4",
       "denuvo_assumption": false,
@@ -214,17 +192,6 @@
       "emulator_name": null
     },
     {
-      "name": "Mortal Kombat 1",
-      "normalized_name": "mortalkombat1",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-09-19T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1971870",
-      "store_id": "1971870",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
       "name": "EA FC 24",
       "normalized_name": "eafc24",
       "denuvo_assumption": false,
@@ -256,17 +223,6 @@
       "store_id": "2252570",
       "playable_on_emulator": true,
       "emulator_name": "Suyu"
-    },
-    {
-      "name": "Warhammer Age of Sigmar: Realms of Ruin",
-      "normalized_name": "warhammerageofsigmarrealmsofruin",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-11-17T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1844380",
-      "store_id": "1844380",
-      "playable_on_emulator": false,
-      "emulator_name": null
     },
     {
       "name": "Valiant Hearts: Coming Home",
@@ -438,6 +394,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1113000",
       "store_id": "1113000"
+    },
+    {
+      "name": "The Bus",
+      "normalized_name": "thebus",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2021-03-25T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/491540",
+      "store_id": "491540"
     },
     {
       "name": "Madden NFL 22",
@@ -632,6 +600,18 @@
       "store_id": "1805480"
     },
     {
+      "name": "Redfall",
+      "normalized_name": "redfall",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-05-02T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/1294810/",
+      "store_id": "1294810"
+    },
+    {
       "name": "Street Fighter 6",
       "normalized_name": "streetfighter6",
       "denuvo_assumption": false,
@@ -642,6 +622,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1364780",
       "store_id": "1364780"
+    },
+    {
+      "name": "Mortal Kombat 1",
+      "normalized_name": "mortalkombat1",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-09-19T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1971870",
+      "store_id": "1971870"
     },
     {
       "name": "Sonic Superstars",
@@ -666,6 +658,18 @@
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/2375550/",
       "store_id": "2375550"
+    },
+    {
+      "name": "Warhammer Age of Sigmar: Realms of Ruin",
+      "normalized_name": "warhammerageofsigmarrealmsofruin",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-11-17T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1844380",
+      "store_id": "1844380"
     },
     {
       "name": "Persona 5 Tactica",
@@ -1485,12 +1489,12 @@
       "store_id": "1811260"
     },
     {
-      "name": "Persona 5 Royal",
-      "normalized_name": "persona5royal",
+      "name": "Persona 5 Royal (Hypervisor also available)",
+      "normalized_name": "persona5royalhypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2022-10-21T00:00:00Z",
       "cracked": "2025-12-14T00:00:00Z",
       "cracked_by": [
@@ -2933,8 +2937,8 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Planet Zoo",
-      "normalized_name": "planetzoo",
+      "name": "Planet Zoo (Hyoervisor also available)",
+      "normalized_name": "planetzoohyoervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
