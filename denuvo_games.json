@@ -359,17 +359,6 @@
       "emulator_name": null
     },
     {
-      "name": "Madden NFL 2026",
-      "normalized_name": "maddennfl2026",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-08-14T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3230400",
-      "store_id": "3230400",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Anno 117 - Pax Romana",
       "normalized_name": "anno117paxromana",
       "denuvo_assumption": false,
@@ -1004,6 +993,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2928600",
       "store_id": "2928600"
+    },
+    {
+      "name": "Madden NFL 2026",
+      "normalized_name": "maddennfl2026",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2025-08-14T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3230400",
+      "store_id": "3230400"
     },
     {
       "name": "Super Robot Wars Y",
@@ -2937,8 +2938,8 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Planet Zoo (Hyoervisor also available)",
-      "normalized_name": "planetzoohyoervisoralsoavailable",
+      "name": "Planet Zoo (Hypervisor also available)",
+      "normalized_name": "planetzoohypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
