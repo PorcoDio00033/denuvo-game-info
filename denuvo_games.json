@@ -14,17 +14,6 @@
   ],
   "uncracked_denuvo_games": [
     {
-      "name": "Madden NFL 21",
-      "normalized_name": "maddennfl21",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2020-08-25T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1239520",
-      "store_id": "1239520",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Monopoly Madness",
       "normalized_name": "monopolymadness",
       "denuvo_assumption": false,
@@ -60,17 +49,6 @@
       "emulator_name": "Yuzu"
     },
     {
-      "name": "Madden NFL 23",
-      "normalized_name": "maddennfl23",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-08-19T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1760250",
-      "store_id": "1760250",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "F1 Manager 2022",
       "normalized_name": "f1manager2022",
       "denuvo_assumption": false,
@@ -78,17 +56,6 @@
       "released": "2022-08-30T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/1708520",
       "store_id": "1708520",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Marvel Midnight Suns",
-      "normalized_name": "marvelmidnightsuns",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-12-02T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/368260",
-      "store_id": "368260",
       "playable_on_emulator": false,
       "emulator_name": null
     },
@@ -178,17 +145,6 @@
       "released": "2023-09-29T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/2195250",
       "store_id": "2195250",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "WRC",
-      "normalized_name": "wrc",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-11-03T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1849250",
-      "store_id": "1849250",
       "playable_on_emulator": false,
       "emulator_name": null
     },
@@ -338,6 +294,463 @@
       "emulator_name": null
     }
   ],
+  "cracked_denuvo_games_(2021-present)": [
+    {
+      "name": "Scott Pilgrim vs. The World: The Game",
+      "normalized_name": "scottpilgrimvstheworldthegame",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-01-14T00:00:00Z",
+      "cracked": "2025-12-06T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2215260",
+      "store_id": "2215260"
+    },
+    {
+      "name": "Persona 5 Strikers",
+      "normalized_name": "persona5strikers",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2021-02-23T00:00:00Z",
+      "cracked": "2021-02-19T00:00:00Z",
+      "cracked_by": [
+        "whiteee"
+      ],
+      "store_link": "https://store.steampowered.com/app/1382330",
+      "store_id": "1382330"
+    },
+    {
+      "name": "Megasuki: Love Through Lenses with Ayumu Sakura",
+      "normalized_name": "megasukilovethroughlenseswithayumusakura",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-03-19T00:00:00Z",
+      "cracked": "2021-04-01T00:00:00Z",
+      "cracked_by": [
+        "sst311212"
+      ],
+      "store_link": "https://vndb.org/v28260"
+    },
+    {
+      "name": "Evil Genius 2: World Domination",
+      "normalized_name": "evilgenius2worlddomination",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-03-30T00:00:00Z",
+      "cracked": "2022-06-16T00:00:00Z",
+      "cracked_by": [
+        "EMPRESS"
+      ],
+      "store_link": "https://store.steampowered.com/app/700600",
+      "store_id": "700600"
+    },
+    {
+      "name": "Shin Megami Tensei III: Nocturne HD Remaster (Hypervisor also available)",
+      "normalized_name": "shinmegamitenseiiiinocturnehdremasterhypervisoralsoavailable",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-05-25T00:00:00Z",
+      "cracked": "2025-11-24T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/1413480/",
+      "store_id": "1413480"
+    },
+    {
+      "name": "F1 2021",
+      "normalized_name": "f12021",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-07-16T00:00:00Z",
+      "cracked": "2025-12-15T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/1134570/",
+      "store_id": "1134570"
+    },
+    {
+      "name": "Sonic Colors Ultimate",
+      "normalized_name": "soniccolorsultimate",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-09-07T00:00:00Z",
+      "cracked": "2025-12-27T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2055290",
+      "store_id": "2055290"
+    },
+    {
+      "name": "Deathloop",
+      "normalized_name": "deathloop",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2021-09-14T00:00:00Z",
+      "cracked": "2022-04-08T00:00:00Z",
+      "cracked_by": [
+        "EMPRESS"
+      ],
+      "store_link": "https://store.steampowered.com/app/1252330/",
+      "store_id": "1252330"
+    },
+    {
+      "name": "FIFA 22",
+      "normalized_name": "fifa22",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-10-02T00:00:00Z",
+      "cracked": "2025-12-31T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/1506830",
+      "store_id": "1506830"
+    },
+    {
+      "name": "Far Cry 6 (Hypervisor also available)",
+      "normalized_name": "farcry6hypervisoralsoavailable",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "crack_status": "missing_dlc",
+      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
+      "released": "2021-10-07T00:00:00Z",
+      "cracked": "2022-06-02T00:00:00Z",
+      "cracked_by": [
+        "EMPRESS"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/2369390/",
+      "store_id": "2369390"
+    },
+    {
+      "name": "Marvel's Guardians of the Galaxy",
+      "normalized_name": "marvelsguardiansofthegalaxy",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-10-26T00:00:00Z",
+      "cracked": "2022-06-30T00:00:00Z",
+      "cracked_by": [
+        "EMPRESS"
+      ],
+      "store_link": "https://store.steampowered.com/app/1088850",
+      "store_id": "1088850"
+    },
+    {
+      "name": "Jurassic World Evolution 2 (Hypervisor also available)",
+      "normalized_name": "jurassicworldevolution2hypervisoralsoavailable",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_dlc",
+      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
+      "released": "2021-11-09T00:00:00Z",
+      "cracked": "2022-03-08T00:00:00Z",
+      "cracked_by": [
+        "machine4578"
+      ],
+      "store_link": "https://store.steampowered.com/app/1244460",
+      "store_id": "1244460"
+    },
+    {
+      "name": "F1 2022",
+      "normalized_name": "f12022",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2022-07-01T00:00:00Z",
+      "cracked": "2022-07-08T00:00:00Z",
+      "cracked_by": [
+        "sam2k8",
+        "Razor1911"
+      ],
+      "store_link": "https://store.steampowered.com/app/1692250",
+      "store_id": "1692250"
+    },
+    {
+      "name": "Judgment",
+      "normalized_name": "judgment",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2022-09-14T00:00:00Z",
+      "cracked": "2023-08-14T00:00:00Z",
+      "cracked_by": [
+        "EMPRESS"
+      ],
+      "store_link": "https://store.steampowered.com/app/2058180",
+      "store_id": "2058180"
+    },
+    {
+      "name": "FIFA 23",
+      "normalized_name": "fifa23",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2022-10-01T00:00:00Z",
+      "cracked": "2023-08-22T00:00:00Z",
+      "cracked_by": [
+        "MKDEV"
+      ],
+      "store_link": "https://store.steampowered.com/app/1811260",
+      "store_id": "1811260"
+    },
+    {
+      "name": "Persona 5 Royal (Hypervisor also available)",
+      "normalized_name": "persona5royalhypervisoralsoavailable",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2022-10-21T00:00:00Z",
+      "cracked": "2025-12-14T00:00:00Z",
+      "cracked_by": [
+        "MKDEV"
+      ],
+      "store_link": "https://store.steampowered.com/app/1687950",
+      "store_id": "1687950"
+    },
+    {
+      "name": "Football Manager 2023",
+      "normalized_name": "footballmanager2023",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2022-11-08T00:00:00Z",
+      "cracked": "2023-02-18T00:00:00Z",
+      "cracked_by": [
+        "MKDEV"
+      ],
+      "store_link": "https://store.steampowered.com/app/1904540",
+      "store_id": "1904540"
+    },
+    {
+      "name": "Sonic Frontiers",
+      "normalized_name": "sonicfrontiers",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2022-11-08T00:00:00Z",
+      "cracked": "2026-01-28T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/1237320",
+      "store_id": "1237320"
+    },
+    {
+      "name": "Dead Space Remake",
+      "normalized_name": "deadspaceremake",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2023-01-27T00:00:00Z",
+      "cracked": "2026-01-11T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/1693980",
+      "store_id": "1693980"
+    },
+    {
+      "name": "Hogwarts Legacy (Hypervisor also available)",
+      "normalized_name": "hogwartslegacyhypervisoralsoavailable",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2023-02-10T00:00:00Z",
+      "cracked": "2023-02-23T00:00:00Z",
+      "cracked_by": [
+        "EMPRESS"
+      ],
+      "store_link": "https://store.steampowered.com/app/990080",
+      "store_id": "990080"
+    },
+    {
+      "name": "Wild Hearts",
+      "normalized_name": "wildhearts",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2023-02-16T00:00:00Z",
+      "cracked": "2023-03-27T00:00:00Z",
+      "cracked_by": [
+        "Anadius",
+        "RUNE"
+      ],
+      "store_link": "https://store.steampowered.com/app/1938010",
+      "store_id": "1938010"
+    },
+    {
+      "name": "Atomic Heart (Hypervisor also available)",
+      "normalized_name": "atomichearthypervisoralsoavailable",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2023-02-21T00:00:00Z",
+      "cracked": "2023-02-18T00:00:00Z",
+      "cracked_by": [
+        "MrLemon"
+      ],
+      "store_link": "https://store.steampowered.com/app/668580",
+      "store_id": "668580"
+    },
+    {
+      "name": "Etrian Odyssey HD",
+      "normalized_name": "etrianodysseyhd",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2023-06-01T00:00:00Z",
+      "cracked": "2023-06-01T00:00:00Z",
+      "cracked_by": [
+        "CHRONOS"
+      ],
+      "store_link": "https://store.steampowered.com/app/1868180",
+      "store_id": "1868180"
+    },
+    {
+      "name": "Etrian Odyssey II HD",
+      "normalized_name": "etrianodysseyiihd",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2023-06-01T00:00:00Z",
+      "cracked": "2023-06-01T00:00:00Z",
+      "cracked_by": [
+        "CHRONOS"
+      ],
+      "store_link": "https://store.steampowered.com/app/1868170",
+      "store_id": "1868170"
+    },
+    {
+      "name": "Etrian Odyssey III HD",
+      "normalized_name": "etrianodysseyiiihd",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2023-06-01T00:00:00Z",
+      "cracked": "2023-06-01T00:00:00Z",
+      "cracked_by": [
+        "CHRONOS"
+      ],
+      "store_link": "https://store.steampowered.com/app/1810820",
+      "store_id": "1810820"
+    },
+    {
+      "name": "Assassins Creed Mirage",
+      "normalized_name": "assassinscreedmirage",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2023-10-05T00:00:00Z",
+      "cracked": "2024-11-15T00:00:00Z",
+      "cracked_by": [
+        "Anonymous user",
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/3035570",
+      "store_id": "3035570"
+    },
+    {
+      "name": "Dragon's Dogma 2",
+      "normalized_name": "dragonsdogma2",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2024-03-22T00:00:00Z",
+      "cracked": "2024-11-16T00:00:00Z",
+      "cracked_by": [
+        "rain0x06"
+      ],
+      "store_link": "https://store.steampowered.com/app/2054970",
+      "store_id": "2054970"
+    },
+    {
+      "name": "City Transport Simulator",
+      "normalized_name": "citytransportsimulator",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2025-01-28T00:00:00Z",
+      "cracked": "2025-12-16T00:00:00Z",
+      "cracked_by": [
+        "RUNE"
+      ],
+      "store_link": "https://store.steampowered.com/app/2604480",
+      "store_id": "2604480"
+    },
+    {
+      "name": "Doom: The Dark Ages",
+      "normalized_name": "doomthedarkages",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2025-05-15T00:00:00Z",
+      "cracked": "2026-03-13T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/3017860",
+      "store_id": "3017860"
+    },
+    {
+      "name": "Resident Evil Requiem",
+      "normalized_name": "residentevilrequiem",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2026-02-27T00:00:00Z",
+      "cracked": "2026-04-09T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/3764200/",
+      "store_id": "3764200"
+    }
+  ],
   "bypassed_denuvo_games": [
     {
       "name": "Persona 4 Golden (64 bit)",
@@ -350,6 +763,17 @@
       ],
       "store_link": "https://store.steampowered.com/app/1113000",
       "store_id": "1113000"
+    },
+    {
+      "name": "Madden NFL 21",
+      "normalized_name": "maddennfl21",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2020-08-25T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwOSteam"
+      ],
+      "store_link": ""
     },
     {
       "name": "The Bus",
@@ -496,6 +920,18 @@
       "store_id": "1794960"
     },
     {
+      "name": "Madden NFL 23",
+      "normalized_name": "maddennfl23",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-08-19T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1760250",
+      "store_id": "1760250"
+    },
+    {
       "name": "Soul Hackers 2",
       "normalized_name": "soulhackers2",
       "denuvo_assumption": false,
@@ -542,6 +978,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1846380",
       "store_id": "1846380"
+    },
+    {
+      "name": "Marvel Midnight Suns",
+      "normalized_name": "marvelmidnightsuns",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-12-02T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/368260",
+      "store_id": "368260"
     },
     {
       "name": "Persona 3 Portable",
@@ -662,6 +1110,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2254740",
       "store_id": "2254740"
+    },
+    {
+      "name": "EA SPORTS WRC",
+      "normalized_name": "easportswrc",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-11-03T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1849250",
+      "store_id": "1849250"
     },
     {
       "name": "Avatar: Frontiers of Pandora",
@@ -1181,18 +1641,6 @@
       "store_id": "3937550"
     },
     {
-      "name": "Resident Evil Requiem",
-      "normalized_name": "residentevilrequiem",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-02-27T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/3764200/",
-      "store_id": "3764200"
-    },
-    {
       "name": "Bravely Default: Flying Fairy HD Remaster",
       "normalized_name": "bravelydefaultflyingfairyhdremaster",
       "denuvo_assumption": false,
@@ -1263,448 +1711,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/3500390",
       "store_id": "3500390"
-    }
-  ],
-  "cracked_denuvo_games_(2021-present)": [
-    {
-      "name": "Scott Pilgrim vs. The World: The Game",
-      "normalized_name": "scottpilgrimvstheworldthegame",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-01-14T00:00:00Z",
-      "cracked": "2025-12-06T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/2215260",
-      "store_id": "2215260"
-    },
-    {
-      "name": "Persona 5 Strikers",
-      "normalized_name": "persona5strikers",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2021-02-23T00:00:00Z",
-      "cracked": "2021-02-19T00:00:00Z",
-      "cracked_by": [
-        "whiteee"
-      ],
-      "store_link": "https://store.steampowered.com/app/1382330",
-      "store_id": "1382330"
-    },
-    {
-      "name": "Megasuki: Love Through Lenses with Ayumu Sakura",
-      "normalized_name": "megasukilovethroughlenseswithayumusakura",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-03-19T00:00:00Z",
-      "cracked": "2021-04-01T00:00:00Z",
-      "cracked_by": [
-        "sst311212"
-      ],
-      "store_link": "https://vndb.org/v28260"
-    },
-    {
-      "name": "Evil Genius 2: World Domination",
-      "normalized_name": "evilgenius2worlddomination",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-03-30T00:00:00Z",
-      "cracked": "2022-06-16T00:00:00Z",
-      "cracked_by": [
-        "EMPRESS"
-      ],
-      "store_link": "https://store.steampowered.com/app/700600",
-      "store_id": "700600"
-    },
-    {
-      "name": "Shin Megami Tensei III: Nocturne HD Remaster (Hypervisor also available)",
-      "normalized_name": "shinmegamitenseiiiinocturnehdremasterhypervisoralsoavailable",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-05-25T00:00:00Z",
-      "cracked": "2025-11-24T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/1413480/",
-      "store_id": "1413480"
-    },
-    {
-      "name": "F1 2021",
-      "normalized_name": "f12021",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-07-16T00:00:00Z",
-      "cracked": "2025-12-15T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/1134570/",
-      "store_id": "1134570"
-    },
-    {
-      "name": "Sonic Colors Ultimate",
-      "normalized_name": "soniccolorsultimate",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-09-07T00:00:00Z",
-      "cracked": "2025-12-27T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/2055290",
-      "store_id": "2055290"
-    },
-    {
-      "name": "Deathloop",
-      "normalized_name": "deathloop",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2021-09-14T00:00:00Z",
-      "cracked": "2022-04-08T00:00:00Z",
-      "cracked_by": [
-        "EMPRESS"
-      ],
-      "store_link": "https://store.steampowered.com/app/1252330/",
-      "store_id": "1252330"
-    },
-    {
-      "name": "FIFA 22",
-      "normalized_name": "fifa22",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-10-02T00:00:00Z",
-      "cracked": "2025-12-31T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/1506830",
-      "store_id": "1506830"
-    },
-    {
-      "name": "Far Cry 6",
-      "normalized_name": "farcry6",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "missing_dlc",
-      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
-      "released": "2021-10-07T00:00:00Z",
-      "cracked": "2022-06-02T00:00:00Z",
-      "cracked_by": [
-        "EMPRESS"
-      ],
-      "store_link": "https://store.steampowered.com/agecheck/app/2369390/",
-      "store_id": "2369390"
-    },
-    {
-      "name": "Marvel's Guardians of the Galaxy",
-      "normalized_name": "marvelsguardiansofthegalaxy",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2021-10-26T00:00:00Z",
-      "cracked": "2022-06-30T00:00:00Z",
-      "cracked_by": [
-        "EMPRESS"
-      ],
-      "store_link": "https://store.steampowered.com/app/1088850",
-      "store_id": "1088850"
-    },
-    {
-      "name": "Jurassic World Evolution 2 (Hypervisor also available)",
-      "normalized_name": "jurassicworldevolution2hypervisoralsoavailable",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_dlc",
-      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
-      "released": "2021-11-09T00:00:00Z",
-      "cracked": "2022-03-08T00:00:00Z",
-      "cracked_by": [
-        "machine4578"
-      ],
-      "store_link": "https://store.steampowered.com/app/1244460",
-      "store_id": "1244460"
-    },
-    {
-      "name": "F1 2022",
-      "normalized_name": "f12022",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2022-07-01T00:00:00Z",
-      "cracked": "2022-07-08T00:00:00Z",
-      "cracked_by": [
-        "sam2k8",
-        "Razor1911"
-      ],
-      "store_link": "https://store.steampowered.com/app/1692250",
-      "store_id": "1692250"
-    },
-    {
-      "name": "Judgment",
-      "normalized_name": "judgment",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2022-09-14T00:00:00Z",
-      "cracked": "2023-08-14T00:00:00Z",
-      "cracked_by": [
-        "EMPRESS"
-      ],
-      "store_link": "https://store.steampowered.com/app/2058180",
-      "store_id": "2058180"
-    },
-    {
-      "name": "FIFA 23",
-      "normalized_name": "fifa23",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2022-10-01T00:00:00Z",
-      "cracked": "2023-08-22T00:00:00Z",
-      "cracked_by": [
-        "MKDEV"
-      ],
-      "store_link": "https://store.steampowered.com/app/1811260",
-      "store_id": "1811260"
-    },
-    {
-      "name": "Persona 5 Royal (Hypervisor also available)",
-      "normalized_name": "persona5royalhypervisoralsoavailable",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2022-10-21T00:00:00Z",
-      "cracked": "2025-12-14T00:00:00Z",
-      "cracked_by": [
-        "MKDEV"
-      ],
-      "store_link": "https://store.steampowered.com/app/1687950",
-      "store_id": "1687950"
-    },
-    {
-      "name": "Football Manager 2023",
-      "normalized_name": "footballmanager2023",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2022-11-08T00:00:00Z",
-      "cracked": "2023-02-18T00:00:00Z",
-      "cracked_by": [
-        "MKDEV"
-      ],
-      "store_link": "https://store.steampowered.com/app/1904540",
-      "store_id": "1904540"
-    },
-    {
-      "name": "Sonic Frontiers",
-      "normalized_name": "sonicfrontiers",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2022-11-08T00:00:00Z",
-      "cracked": "2026-01-28T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/1237320",
-      "store_id": "1237320"
-    },
-    {
-      "name": "Dead Space Remake",
-      "normalized_name": "deadspaceremake",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2023-01-27T00:00:00Z",
-      "cracked": "2026-01-11T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/1693980",
-      "store_id": "1693980"
-    },
-    {
-      "name": "Hogwarts Legacy",
-      "normalized_name": "hogwartslegacy",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2023-02-10T00:00:00Z",
-      "cracked": "2023-02-23T00:00:00Z",
-      "cracked_by": [
-        "EMPRESS"
-      ],
-      "store_link": "https://store.steampowered.com/app/990080",
-      "store_id": "990080"
-    },
-    {
-      "name": "Wild Hearts",
-      "normalized_name": "wildhearts",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2023-02-16T00:00:00Z",
-      "cracked": "2023-03-27T00:00:00Z",
-      "cracked_by": [
-        "Anadius",
-        "RUNE"
-      ],
-      "store_link": "https://store.steampowered.com/app/1938010",
-      "store_id": "1938010"
-    },
-    {
-      "name": "Atomic Heart (Hypervisor also available)",
-      "normalized_name": "atomichearthypervisoralsoavailable",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2023-02-21T00:00:00Z",
-      "cracked": "2023-02-18T00:00:00Z",
-      "cracked_by": [
-        "MrLemon"
-      ],
-      "store_link": "https://store.steampowered.com/app/668580",
-      "store_id": "668580"
-    },
-    {
-      "name": "Etrian Odyssey HD",
-      "normalized_name": "etrianodysseyhd",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2023-06-01T00:00:00Z",
-      "cracked": "2023-06-01T00:00:00Z",
-      "cracked_by": [
-        "CHRONOS"
-      ],
-      "store_link": "https://store.steampowered.com/app/1868180",
-      "store_id": "1868180"
-    },
-    {
-      "name": "Etrian Odyssey II HD",
-      "normalized_name": "etrianodysseyiihd",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2023-06-01T00:00:00Z",
-      "cracked": "2023-06-01T00:00:00Z",
-      "cracked_by": [
-        "CHRONOS"
-      ],
-      "store_link": "https://store.steampowered.com/app/1868170",
-      "store_id": "1868170"
-    },
-    {
-      "name": "Etrian Odyssey III HD",
-      "normalized_name": "etrianodysseyiiihd",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2023-06-01T00:00:00Z",
-      "cracked": "2023-06-01T00:00:00Z",
-      "cracked_by": [
-        "CHRONOS"
-      ],
-      "store_link": "https://store.steampowered.com/app/1810820",
-      "store_id": "1810820"
-    },
-    {
-      "name": "Assassins Creed Mirage",
-      "normalized_name": "assassinscreedmirage",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2023-10-05T00:00:00Z",
-      "cracked": "2024-11-15T00:00:00Z",
-      "cracked_by": [
-        "Anonymous user",
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/3035570",
-      "store_id": "3035570"
-    },
-    {
-      "name": "Dragon's Dogma 2",
-      "normalized_name": "dragonsdogma2",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2024-03-22T00:00:00Z",
-      "cracked": "2024-11-16T00:00:00Z",
-      "cracked_by": [
-        "rain0x06"
-      ],
-      "store_link": "https://store.steampowered.com/app/2054970",
-      "store_id": "2054970"
-    },
-    {
-      "name": "City Transport Simulator",
-      "normalized_name": "citytransportsimulator",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2025-01-28T00:00:00Z",
-      "cracked": "2025-12-16T00:00:00Z",
-      "cracked_by": [
-        "RUNE"
-      ],
-      "store_link": "https://store.steampowered.com/app/2604480",
-      "store_id": "2604480"
-    },
-    {
-      "name": "Doom: The Dark Ages",
-      "normalized_name": "doomthedarkages",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2025-05-15T00:00:00Z",
-      "cracked": "2026-03-13T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/3017860",
-      "store_id": "3017860"
     }
   ],
   "older_cracked_denuvo_games_(2014-2020)": [
@@ -3129,8 +3135,8 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "missing_dlc",
-      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2020-11-10T00:00:00Z",
       "cracked": "2021-03-24T00:00:00Z",
       "cracked_by": [
