@@ -105,17 +105,6 @@
       "emulator_name": null
     },
     {
-      "name": "NBA 2K24",
-      "normalized_name": "nba2k24",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-09-08T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2338770",
-      "store_id": "2338770",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "EA FC 24",
       "normalized_name": "eafc24",
       "denuvo_assumption": false,
@@ -1020,6 +1009,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2287220",
       "store_id": "2287220"
+    },
+    {
+      "name": "NBA 2K24",
+      "normalized_name": "nba2k24",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-09-08T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2338770",
+      "store_id": "2338770"
     },
     {
       "name": "Mortal Kombat 1",
