@@ -127,17 +127,6 @@
       "emulator_name": "Ryujinx"
     },
     {
-      "name": "TopSpin 2K25",
-      "normalized_name": "topspin2k25",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-04-26T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1785650",
-      "store_id": "1785650",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Beyond Good & Evil - 20th Anniversary Edition",
       "normalized_name": "beyondgoodevil20thanniversaryedition",
       "denuvo_assumption": false,
@@ -1159,6 +1148,18 @@
       "store_id": "2161700"
     },
     {
+      "name": "TopSpin 2K25",
+      "normalized_name": "topspin2k25",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-04-26T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1785650",
+      "store_id": "1785650"
+    },
+    {
       "name": "F1 24",
       "normalized_name": "f124",
       "denuvo_assumption": false,
@@ -1718,6 +1719,17 @@
       ],
       "store_link": "https://store.steampowered.com/app/3500390",
       "store_id": "3500390"
+    },
+    {
+      "name": "City Transport Simulator 2026",
+      "normalized_name": "citytransportsimulator2026",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "Hypervisor workaround by DenuvOwO",
+      "bypassed_by": [
+        "Steam"
+      ],
+      "store_link": ""
     }
   ],
   "older_cracked_denuvo_games_(2014-2020)": [
@@ -3289,7 +3301,7 @@
       "normalized_name": "pragmata",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-04-24T00:00:00Z"
+      "release": "2026-04-17T00:00:00Z"
     },
     {
       "name": "The Adventures of Elliot - The Millenium Tales",
