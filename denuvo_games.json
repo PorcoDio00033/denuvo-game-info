@@ -14,18 +14,6 @@
   ],
   "uncracked_denuvo_games": [
     {
-      "name": "Monopoly Madness",
-      "normalized_name": "monopolymadness",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2021-09-21T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2383760",
-      "store_id": "2383760",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
       "name": "Football Manager 2022",
       "normalized_name": "footballmanager2022",
       "denuvo_assumption": false,
@@ -47,17 +35,6 @@
       "store_id": "624effdf50e7e27306220ca7",
       "playable_on_emulator": true,
       "emulator_name": "Yuzu"
-    },
-    {
-      "name": "F1 Manager 2022",
-      "normalized_name": "f1manager2022",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2022-08-30T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1708520",
-      "store_id": "1708520",
-      "playable_on_emulator": false,
-      "emulator_name": null
     },
     {
       "name": "The Settlers: New Allies",
@@ -123,18 +100,6 @@
       "drm_protection": "Uplay/Ubisoft Connect",
       "released": "2024-03-07T00:00:00Z",
       "store_link": "https://www.ubisoft.com/en-gb/game/valiant-hearts/coming-home",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
-    },
-    {
-      "name": "Beyond Good & Evil - 20th Anniversary Edition",
-      "normalized_name": "beyondgoodevil20thanniversaryedition",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2024-06-25T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2556990",
-      "store_id": "2556990",
       "playable_on_emulator": true,
       "emulator_name": "Ryujinx"
     },
@@ -416,8 +381,8 @@
       "store_id": "1692250"
     },
     {
-      "name": "Judgment",
-      "normalized_name": "judgment",
+      "name": "Judgment (Hypervisor also available)",
+      "normalized_name": "judgmenthypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -736,6 +701,19 @@
       "store_id": "1462570"
     },
     {
+      "name": "Monopoly Madness",
+      "normalized_name": "monopolymadness",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "released": "2021-09-21T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2383760",
+      "store_id": "2383760"
+    },
+    {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
       "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles",
       "denuvo_assumption": false,
@@ -866,6 +844,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1777620",
       "store_id": "1777620"
+    },
+    {
+      "name": "F1 Manager 2022",
+      "normalized_name": "f1manager2022",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2022-08-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1708520",
+      "store_id": "1708520"
     },
     {
       "name": "Lost Judgment",
@@ -1183,6 +1173,19 @@
       ],
       "store_link": "https://store.steampowered.com/app/1875830",
       "store_id": "1875830"
+    },
+    {
+      "name": "Beyond Good & Evil - 20th Anniversary Edition",
+      "normalized_name": "beyondgoodevil20thanniversaryedition",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "released": "2024-06-25T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2556990",
+      "store_id": "2556990"
     },
     {
       "name": "F1 Manager 2024",
@@ -1725,11 +1728,24 @@
       "normalized_name": "citytransportsimulator2026",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "released": "Hypervisor workaround by DenuvOwO",
+      "released": "2026-04-14T00:00:00Z",
       "bypassed_by": [
-        "Steam"
+        "Hypervisor workaround by DenuvOwO"
       ],
-      "store_link": ""
+      "store_link": "https://store.steampowered.com/app/4148530",
+      "store_id": "4148530"
+    },
+    {
+      "name": "Pragmata",
+      "normalized_name": "pragmata",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-04-17T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3357650",
+      "store_id": "3357650"
     }
   ],
   "older_cracked_denuvo_games_(2014-2020)": [
@@ -3296,13 +3312,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Pragmata",
-      "normalized_name": "pragmata",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-04-17T00:00:00Z"
-    },
     {
       "name": "The Adventures of Elliot - The Millenium Tales",
       "normalized_name": "theadventuresofelliotthemilleniumtales",
