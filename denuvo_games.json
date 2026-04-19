@@ -115,17 +115,6 @@
       "emulator_name": null
     },
     {
-      "name": "Harry Potter: Quidditch Champions",
-      "normalized_name": "harrypotterquidditchchampions",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-09-03T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2878600",
-      "store_id": "2878600",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "MONOPOLY",
       "normalized_name": "monopoly",
       "denuvo_assumption": false,
@@ -3310,6 +3299,13 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-08-15T00:00:00Z"
+    },
+    {
+      "name": "Harry Potter: Quidditch Champions",
+      "normalized_name": "harrypotterquidditchchampions",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-09-03T00:00:00Z"
     }
   ],
   "upcoming_denuvo_games": [
