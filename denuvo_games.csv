@@ -1,17 +1,14 @@
 name,section,bypassed_by,crack_status,crack_status_desc,cracked,cracked_by,denuvo_assumption,denuvo_assumption_desc,drm_protection,emulator_name,normalized_name,playable_on_emulator,release,released,store_exclusive,store_id,store_link
-Football Manager 2022,uncracked_denuvo_games,,,,,,False,Confirmed,,,footballmanager2022,False,,2021-11-09T00:00:00Z,,1569040,https://store.steampowered.com/app/1569040
 Rabbids: Party of Legends,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,Yuzu,rabbidspartyoflegends,True,,2022-06-30T00:00:00Z,,624effdf50e7e27306220ca7,https://store.ubisoft.com/ie/rabbids-party-of-legends/624effdf50e7e27306220ca7.html?lang=en-ZW
 The Settlers: New Allies,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,,thesettlersnewallies,False,,2023-02-17T00:00:00Z,,2750080,https://store.steampowered.com/app/2750080
 Super Mega Baseball 4,uncracked_denuvo_games,,,,,,False,Confirmed,,Ryujinx,supermegabaseball4,True,,2023-06-02T00:00:00Z,,1487210,https://store.steampowered.com/app/1487210
 Madden NFL 24,uncracked_denuvo_games,,,,,,False,Confirmed,,,maddennfl24,False,,2023-08-18T00:00:00Z,,2140330,https://store.steampowered.com/app/2140330
 EA FC 24,uncracked_denuvo_games,,,,,,False,Confirmed,,,eafc24,False,,2023-09-29T00:00:00Z,,2195250,https://store.steampowered.com/app/2195250
-Valiant Hearts: Coming Home,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,Ryujinx,valiantheartscominghome,True,,2024-03-07T00:00:00Z,,,https://www.ubisoft.com/en-gb/game/valiant-hearts/coming-home
 Demon Slayer -Kimetsu no Yaiba- Sweep the Board!,uncracked_denuvo_games,,,,,,False,Confirmed,,Suyu,demonslayerkimetsunoyaibasweeptheboard,True,,2024-07-16T00:00:00Z,,2424110,https://store.steampowered.com/app/2424110
 Madden NFL 25,uncracked_denuvo_games,,,,,,False,Confirmed,,,maddennfl25,False,,2024-08-16T00:00:00Z,,2582560,https://store.steampowered.com/app/2582560
 MONOPOLY,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,Suyu,monopoly,True,,2024-09-24T00:00:00Z,,2929170,https://store.steampowered.com/app/2929170
 EA SPORTS FC 25,uncracked_denuvo_games,,,,,,False,Confirmed,,Suyu,easportsfc25,True,,2024-09-27T00:00:00Z,,2669320,https://store.steampowered.com/app/2669320
 Professional Baseball Spirits 2024/2025,uncracked_denuvo_games,,,,,,False,Confirmed,,,professionalbaseballspirits20242025,False,,2024-10-17T00:00:00Z,,2051010,https://store.steampowered.com/app/2051010
-Speedball,uncracked_denuvo_games,,,,,,False,Confirmed,,,speedball,False,,2024-10-29T00:00:00Z,,1795190,https://store.steampowered.com/app/1795190
 Scott Pilgrim vs. The World: The Game,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2025-12-06T00:00:00Z,voices38,False,Confirmed,Uplay/Ubisoft Connect,,scottpilgrimvstheworldthegame,,,2021-01-14T00:00:00Z,,2215260,https://store.steampowered.com/app/2215260
 Persona 5 Strikers,cracked_denuvo_games_(2021-present),,missing_updates,"all DLC's are cracked, but the latest patch is uncracked",2021-02-19T00:00:00Z,whiteee,False,Confirmed,,,persona5strikers,,,2021-02-23T00:00:00Z,,1382330,https://store.steampowered.com/app/1382330
 Megasuki: Love Through Lenses with Ayumu Sakura,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2021-04-01T00:00:00Z,sst311212,False,Confirmed,,,megasukilovethroughlenseswithayumusakura,,,2021-03-19T00:00:00Z,,,https://vndb.org/v28260
@@ -49,6 +46,7 @@ Madden NFL 22,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,
 Lost in random,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,lostinrandom,,,2021-09-10T00:00:00Z,,1462570,https://store.steampowered.com/app/1462570/
 Monopoly Madness,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,Uplay/Ubisoft Connect,,monopolymadness,,,2021-09-21T00:00:00Z,,2383760,https://store.steampowered.com/app/2383760
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,demonslayerkimetsunoyaibathehinokamichronicles,,,2021-10-15T00:00:00Z,,1490890,https://store.steampowered.com/app/1490890/
+Football Manager 2022,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,footballmanager2022,,,2021-11-09T00:00:00Z,,1569040,https://store.steampowered.com/app/1569040
 Total War Warhammer 3,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,totalwarwarhammer3,,,2022-02-17T00:00:00Z,,1142710,https://store.steampowered.com/app/1142710
 GRID Legends,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,gridlegends,,,2022-02-24T00:00:00Z,,1307710,https://store.steampowered.com/app/1307710
 FAR: Changing Tides,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,farchangingtides,,,2022-03-01T00:00:00Z,,1570010,https://store.steampowered.com/app/1570010
@@ -84,6 +82,7 @@ Avatar: Frontiers of Pandora,bypassed_denuvo_games,Hypervisor workaround by Denu
 Prince of Persia: The Lost Crown,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,Uplay/Ubisoft Connect,,princeofpersiathelostcrown,,,2024-01-15T00:00:00Z,Epic Games Store,prince-of-persia-the-lost-crown,https://store.epicgames.com/en-US/p/prince-of-persia-the-lost-crown
 Like A Dragon Infinite Wealth,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,likeadragoninfinitewealth,,,2024-01-26T00:00:00Z,,2072450,https://store.steampowered.com/agecheck/app/2072450/
 Persona 3 Reload,bypassed_denuvo_games,"Demo Bypass by RikuKH3, Hypervisor workaround by DenuvOwO",,,,,False,Confirmed,,,persona3reload,,,2024-02-02T00:00:00Z,,2161700,https://store.steampowered.com/app/2161700
+Valiant Hearts: Coming Home,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,Uplay/Ubisoft Connect,,valiantheartscominghome,,,2024-03-07T00:00:00Z,,,https://www.ubisoft.com/en-gb/game/valiant-hearts/coming-home
 TopSpin 2K25,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,topspin2k25,,,2024-04-26T00:00:00Z,,1785650,https://store.steampowered.com/app/1785650
 F1 24,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,f124,,,2024-05-31T00:00:00Z,,2488620,https://store.steampowered.com/app/2488620
 Shin Megami Tensei V: Vengeance,bypassed_denuvo_games,"Demo Bypass by RikuKH3, Hypervisor workaround by DenuvOwO",,,,,False,Confirmed,,,shinmegamitenseivvengeance,,,2024-06-21T00:00:00Z,,1875830,https://store.steampowered.com/app/1875830
@@ -94,6 +93,7 @@ Star Wars Outlaws,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,Fa
 NBA 2K25,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,nba2k25,,,2024-09-06T00:00:00Z,,2878980,https://store.steampowered.com/app/2878980
 Metaphor Re Fantazio,bypassed_denuvo_games,"Demo Bypass by RikuKH3, Hypervisor workaround by DenuvOwO",,,,,False,Confirmed,,,metaphorrefantazio,,,2024-10-11T00:00:00Z,,2679460,https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
 Sonic X Shadow Generations,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,sonicxshadowgenerations,,,2024-10-25T00:00:00Z,,2513280,https://store.steampowered.com/app/2513280
+Speedball,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,speedball,,,2024-10-29T00:00:00Z,,1795190,https://store.steampowered.com/app/1795190
 Planet Coaster 2,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,planetcoaster2,,,2024-11-06T00:00:00Z,,2688950,https://store.steampowered.com/app/2688950
 Sniper Elite: Resistance,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,snipereliteresistance,,,2025-01-30T00:00:00Z,,2169200,https://store.steampowered.com/app/2169200
 Hello Kitty Island Adventure,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,hellokittyislandadventure,,,2025-01-30T00:00:00Z,,2495100,https://store.steampowered.com/app/2495100
