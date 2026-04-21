@@ -1,7 +1,6 @@
 name,section,bypassed_by,crack_status,crack_status_desc,cracked,cracked_by,denuvo_assumption,denuvo_assumption_desc,drm_protection,emulator_name,normalized_name,playable_on_emulator,release,released,store_exclusive,store_id,store_link
 Rabbids: Party of Legends,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,Yuzu,rabbidspartyoflegends,True,,2022-06-30T00:00:00Z,,624effdf50e7e27306220ca7,https://store.ubisoft.com/ie/rabbids-party-of-legends/624effdf50e7e27306220ca7.html?lang=en-ZW
 The Settlers: New Allies,uncracked_denuvo_games,,,,,,False,Confirmed,Uplay/Ubisoft Connect,,thesettlersnewallies,False,,2023-02-17T00:00:00Z,,2750080,https://store.steampowered.com/app/2750080
-Super Mega Baseball 4,uncracked_denuvo_games,,,,,,False,Confirmed,,Ryujinx,supermegabaseball4,True,,2023-06-02T00:00:00Z,,1487210,https://store.steampowered.com/app/1487210
 Madden NFL 24,uncracked_denuvo_games,,,,,,False,Confirmed,,,maddennfl24,False,,2023-08-18T00:00:00Z,,2140330,https://store.steampowered.com/app/2140330
 EA FC 24,uncracked_denuvo_games,,,,,,False,Confirmed,,,eafc24,False,,2023-09-29T00:00:00Z,,2195250,https://store.steampowered.com/app/2195250
 Demon Slayer -Kimetsu no Yaiba- Sweep the Board!,uncracked_denuvo_games,,,,,,False,Confirmed,,Suyu,demonslayerkimetsunoyaibasweeptheboard,True,,2024-07-16T00:00:00Z,,2424110,https://store.steampowered.com/app/2424110
@@ -68,6 +67,7 @@ Like a Dragon: Ishin!,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,
 EA Sports PGA Tour,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,easportspgatour,,,2023-04-07T00:00:00Z,,1677350,https://store.steampowered.com/app/1677350
 Redfall,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,redfall,,,2023-05-02T00:00:00Z,,1294810,https://store.steampowered.com/agecheck/app/1294810/
 Street Fighter 6,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,streetfighter6,,,2023-06-01T00:00:00Z,,1364780,https://store.steampowered.com/app/1364780
+Super Mega Baseball 4,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,supermegabaseball4,,,2023-06-02T00:00:00Z,,1487210,https://store.steampowered.com/app/1487210
 F1 23,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,f123,,,2023-06-16T00:00:00Z,,2108330,https://store.steampowered.com/app/2108330
 F1 Manager 2023,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,f1manager2023,,,2023-07-31T00:00:00Z,,2287220,https://store.steampowered.com/app/2287220
 NBA 2K24,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,,nba2k24,,,2023-09-08T00:00:00Z,,2338770,https://store.steampowered.com/app/2338770

@@ -38,17 +38,6 @@
       "emulator_name": null
     },
     {
-      "name": "Super Mega Baseball 4",
-      "normalized_name": "supermegabaseball4",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-06-02T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/1487210",
-      "store_id": "1487210",
-      "playable_on_emulator": true,
-      "emulator_name": "Ryujinx"
-    },
-    {
       "name": "Madden NFL 24",
       "normalized_name": "maddennfl24",
       "denuvo_assumption": false,
@@ -933,6 +922,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1364780",
       "store_id": "1364780"
+    },
+    {
+      "name": "Super Mega Baseball 4",
+      "normalized_name": "supermegabaseball4",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-06-02T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/1487210",
+      "store_id": "1487210"
     },
     {
       "name": "F1 23",
