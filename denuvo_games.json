@@ -440,8 +440,8 @@
       "normalized_name": "atomichearthypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "crack_status": "missing_dlc",
+      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2023-02-21T00:00:00Z",
       "cracked": "2023-02-18T00:00:00Z",
       "cracked_by": [
@@ -1461,18 +1461,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/3230400",
       "store_id": "3230400"
-    },
-    {
-      "name": "Super Robot Wars Y",
-      "normalized_name": "superrobotwarsy",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-08-25T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/1909950",
-      "store_id": "1909950"
     },
     {
       "name": "Shinobi - Art of Vengeance",
@@ -3344,13 +3332,6 @@
     {
       "name": "Total War Warhammer 40K",
       "normalized_name": "totalwarwarhammer40k",
-      "denuvo_assumption": true,
-      "denuvo_assumption_desc": "Assumption",
-      "release": "TBA 2026"
-    },
-    {
-      "name": "Ace Combat 8 - Wings of Theve",
-      "normalized_name": "acecombat8wingsoftheve",
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2026"
