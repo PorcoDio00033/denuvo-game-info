@@ -14,30 +14,6 @@
   ],
   "uncracked_denuvo_games": [
     {
-      "name": "Rabbids: Party of Legends",
-      "normalized_name": "rabbidspartyoflegends",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2022-06-30T00:00:00Z",
-      "store_link": "https://store.ubisoft.com/ie/rabbids-party-of-legends/624effdf50e7e27306220ca7.html?lang=en-ZW",
-      "store_id": "624effdf50e7e27306220ca7",
-      "playable_on_emulator": true,
-      "emulator_name": "Yuzu"
-    },
-    {
-      "name": "The Settlers: New Allies",
-      "normalized_name": "thesettlersnewallies",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2023-02-17T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2750080",
-      "store_id": "2750080",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
       "name": "Madden NFL 24",
       "normalized_name": "maddennfl24",
       "denuvo_assumption": false,
@@ -60,17 +36,6 @@
       "emulator_name": null
     },
     {
-      "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
-      "normalized_name": "demonslayerkimetsunoyaibasweeptheboard",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-07-16T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2424110",
-      "store_id": "2424110",
-      "playable_on_emulator": true,
-      "emulator_name": "Suyu"
-    },
-    {
       "name": "Madden NFL 25",
       "normalized_name": "maddennfl25",
       "denuvo_assumption": false,
@@ -82,18 +47,6 @@
       "emulator_name": null
     },
     {
-      "name": "MONOPOLY",
-      "normalized_name": "monopoly",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2024-09-24T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2929170",
-      "store_id": "2929170",
-      "playable_on_emulator": true,
-      "emulator_name": "Suyu"
-    },
-    {
       "name": "EA SPORTS FC 25",
       "normalized_name": "easportsfc25",
       "denuvo_assumption": false,
@@ -103,17 +56,6 @@
       "store_id": "2669320",
       "playable_on_emulator": true,
       "emulator_name": "Suyu"
-    },
-    {
-      "name": "Professional Baseball Spirits 2024/2025",
-      "normalized_name": "professionalbaseballspirits20242025",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-10-17T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2051010",
-      "store_id": "2051010",
-      "playable_on_emulator": false,
-      "emulator_name": null
     }
   ],
   "cracked_denuvo_games_(2021-present)": [
@@ -768,6 +710,19 @@
       "store_id": "1794960"
     },
     {
+      "name": "Rabbids: Party of Legends",
+      "normalized_name": "rabbidspartyoflegends",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "released": "2022-06-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.ubisoft.com/ie/rabbids-party-of-legends/624effdf50e7e27306220ca7.html?lang=en-ZW",
+      "store_id": "624effdf50e7e27306220ca7"
+    },
+    {
       "name": "Madden NFL 23",
       "normalized_name": "maddennfl23",
       "denuvo_assumption": false,
@@ -874,6 +829,19 @@
       ],
       "store_link": "https://store.steampowered.com/app/1451190",
       "store_id": "1451190"
+    },
+    {
+      "name": "The Settlers: New Allies",
+      "normalized_name": "thesettlersnewallies",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "released": "2023-02-17T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2750080",
+      "store_id": "2750080"
     },
     {
       "name": "Like a Dragon: Ishin!",
@@ -1170,6 +1138,18 @@
       "store_id": "2556990"
     },
     {
+      "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+      "normalized_name": "demonslayerkimetsunoyaibasweeptheboard",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-07-16T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2424110",
+      "store_id": "2424110"
+    },
+    {
       "name": "F1 Manager 2024",
       "normalized_name": "f1manager2024",
       "denuvo_assumption": false,
@@ -1220,6 +1200,19 @@
       "store_id": "2878980"
     },
     {
+      "name": "MONOPOLY",
+      "normalized_name": "monopoly",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "released": "2024-09-24T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2929170",
+      "store_id": "2929170"
+    },
+    {
       "name": "Metaphor Re Fantazio",
       "normalized_name": "metaphorrefantazio",
       "denuvo_assumption": false,
@@ -1231,6 +1224,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/",
       "store_id": "2679460"
+    },
+    {
+      "name": "Professional Baseball Spirits 2024/2025",
+      "normalized_name": "professionalbaseballspirits20242025",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-10-17T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2051010",
+      "store_id": "2051010"
     },
     {
       "name": "Sonic X Shadow Generations",
@@ -2348,13 +2353,13 @@
       "store_id": "488790"
     },
     {
-      "name": "Assassin's Creed: Origins",
-      "normalized_name": "assassinscreedorigins",
+      "name": "Assassin's Creed: Origins (Hypervisor also available)",
+      "normalized_name": "assassinscreedoriginshypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2017-10-27T00:00:00Z",
       "cracked": "2018-02-03T00:00:00Z",
       "cracked_by": [
@@ -2489,8 +2494,8 @@
       "store_id": "546050"
     },
     {
-      "name": "Far Cry 5",
-      "normalized_name": "farcry5",
+      "name": "Far Cry 5 (Hypervisor also available)",
+      "normalized_name": "farcry5hypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2735,8 +2740,8 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Assassin's Creed: Odyssey",
-      "normalized_name": "assassinscreedodyssey",
+      "name": "Assassin's Creed: Odyssey (Hypervisor also available)",
+      "normalized_name": "assassinscreedodysseyhypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2812,13 +2817,13 @@
       "store_id": "953580"
     },
     {
-      "name": "Far Cry New Dawn",
-      "normalized_name": "farcrynewdawn",
+      "name": "Far Cry New Dawn (Hypervisor also available)",
+      "normalized_name": "farcrynewdawnhypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2019-02-15T00:00:00Z",
       "cracked": "2019-02-22T00:00:00Z",
       "cracked_by": [
@@ -3147,8 +3152,8 @@
       "store_id": "1328660"
     },
     {
-      "name": "Assassin's Creed: Valhalla",
-      "normalized_name": "assassinscreedvalhalla",
+      "name": "Assassin's Creed: Valhalla (Hypervisor also available)",
+      "normalized_name": "assassinscreedvalhallahypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3307,6 +3312,13 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-06-18T00:00:00Z"
+    },
+    {
+      "name": "Assassin's Creed Black Flag Resynced",
+      "normalized_name": "assassinscreedblackflagresynced",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-07-09T00:00:00Z"
     },
     {
       "name": "Echoes of Aincrad",
