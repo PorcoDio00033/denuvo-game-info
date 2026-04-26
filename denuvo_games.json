@@ -1200,8 +1200,8 @@
       "store_id": "2878980"
     },
     {
-      "name": "MONOPOLY",
-      "normalized_name": "monopoly",
+      "name": "NEW MONOPOLY",
+      "normalized_name": "newmonopoly",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
