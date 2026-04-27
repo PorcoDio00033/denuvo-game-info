@@ -12,52 +12,6 @@
   "notes": [
     "UWP version has no Denuvo. It uses UWP DRM instead. Steam version still has Denuvo."
   ],
-  "uncracked_denuvo_games": [
-    {
-      "name": "Madden NFL 24",
-      "normalized_name": "maddennfl24",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-08-18T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2140330",
-      "store_id": "2140330",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "EA FC 24",
-      "normalized_name": "eafc24",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-09-29T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2195250",
-      "store_id": "2195250",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "Madden NFL 25",
-      "normalized_name": "maddennfl25",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-08-16T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2582560",
-      "store_id": "2582560",
-      "playable_on_emulator": false,
-      "emulator_name": null
-    },
-    {
-      "name": "EA SPORTS FC 25",
-      "normalized_name": "easportsfc25",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-09-27T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/2669320",
-      "store_id": "2669320",
-      "playable_on_emulator": true,
-      "emulator_name": "Suyu"
-    }
-  ],
   "cracked_denuvo_games_(2021-present)": [
     {
       "name": "Scott Pilgrim vs. The World: The Game",
@@ -455,8 +409,8 @@
       "store_id": "3035570"
     },
     {
-      "name": "Dragon's Dogma 2",
-      "normalized_name": "dragonsdogma2",
+      "name": "Dragon's Dogma 2 (Hypervisor also available)",
+      "normalized_name": "dragonsdogma2hypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -928,6 +882,18 @@
       "store_id": "2287220"
     },
     {
+      "name": "Madden NFL 24",
+      "normalized_name": "maddennfl24",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-08-18T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2140330",
+      "store_id": "2140330"
+    },
+    {
       "name": "NBA 2K24",
       "normalized_name": "nba2k24",
       "denuvo_assumption": false,
@@ -950,6 +916,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/1971870",
       "store_id": "1971870"
+    },
+    {
+      "name": "EA FC 24",
+      "normalized_name": "eafc24",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2023-09-29T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2195250",
+      "store_id": "2195250"
     },
     {
       "name": "Sonic Superstars",
@@ -1162,6 +1140,18 @@
       "store_id": "2591280"
     },
     {
+      "name": "Madden NFL 25",
+      "normalized_name": "maddennfl25",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-08-16T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2582560",
+      "store_id": "2582560"
+    },
+    {
       "name": "Black Myth Wukong",
       "normalized_name": "blackmythwukong",
       "denuvo_assumption": false,
@@ -1211,6 +1201,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/2929170",
       "store_id": "2929170"
+    },
+    {
+      "name": "EA FC 25",
+      "normalized_name": "eafc25",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2024-09-27T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/2669320",
+      "store_id": "2669320"
     },
     {
       "name": "Metaphor Re Fantazio",
