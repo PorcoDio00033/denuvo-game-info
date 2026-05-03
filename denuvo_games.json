@@ -3312,8 +3312,15 @@
   ],
   "upcoming_denuvo_games": [
     {
-      "name": "The Adventures of Elliot - The Millenium Tales",
-      "normalized_name": "theadventuresofelliotthemilleniumtales",
+      "name": "Monopoly: Star Wars Heroes vs. Villains",
+      "normalized_name": "monopolystarwarsheroesvsvillains",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-06-11T00:00:00Z"
+    },
+    {
+      "name": "The Adventures of Elliot - The Millennium Tales",
+      "normalized_name": "theadventuresofelliotthemillenniumtales",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-06-18T00:00:00Z"
@@ -3338,6 +3345,13 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-09-09T00:00:00Z"
+    },
+    {
+      "name": "Star Wars: Galactic Racer",
+      "normalized_name": "starwarsgalacticracer",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-10-11T00:00:00Z"
     },
     {
       "name": "Onimusha - Way of the Sword",
