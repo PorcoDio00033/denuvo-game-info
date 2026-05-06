@@ -316,8 +316,8 @@
       "store_id": "990080"
     },
     {
-      "name": "Wild Hearts",
-      "normalized_name": "wildhearts",
+      "name": "Wild Hearts (Hypervisor also available)",
+      "normalized_name": "wildheartshypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -3021,8 +3021,8 @@
       "store_id": "1100600"
     },
     {
-      "name": "Zombie Army 4: Dead War",
-      "normalized_name": "zombiearmy4deadwar",
+      "name": "Zombie Army 4: Dead War (Hypervisor also available)",
+      "normalized_name": "zombiearmy4deadwarhypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
