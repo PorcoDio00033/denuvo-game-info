@@ -1630,19 +1630,6 @@
       "store_id": "3274580"
     },
     {
-      "name": "Octopath Traveler 0",
-      "normalized_name": "octopathtraveler0",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-12-04T00:00:00Z",
-      "bypassed_by": [
-        "Demo Bypass by democrackerz",
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/3014320",
-      "store_id": "3014320"
-    },
-    {
       "name": "Code Vein 2",
       "normalized_name": "codevein2",
       "denuvo_assumption": false,
@@ -1762,6 +1749,18 @@
       ],
       "store_link": "https://store.steampowered.com/app/4148530",
       "store_id": "4148530"
+    },
+    {
+      "name": "007 First Light",
+      "normalized_name": "007firstlight",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-05-27T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3768760/",
+      "store_id": "3768760"
     }
   ],
   "older_cracked_denuvo_games_(2014-2020)": [
@@ -3335,13 +3334,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "007 First Light",
-      "normalized_name": "007firstlight",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-05-27T00:00:00Z"
-    },
     {
       "name": "Monopoly: Star Wars Heroes vs. Villains",
       "normalized_name": "monopolystarwarsheroesvsvillains",
