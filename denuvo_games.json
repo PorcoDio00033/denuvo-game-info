@@ -3398,6 +3398,13 @@
       "release": "TBA 2027"
     },
     {
+      "name": "Warhammer 40,000: Chaos Gate – Deathwatch",
+      "normalized_name": "warhammer40000chaosgatedeathwatch",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "TBA"
+    },
+    {
       "name": "Persona 4 Revival",
       "normalized_name": "persona4revival",
       "denuvo_assumption": false,
