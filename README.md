@@ -20,9 +20,16 @@ Huge thanks to [u/EssenseOfMagic](https://www.reddit.com/user/EssenseOfMagic/) f
 
 ## Configuration
 
-To avoid Reddit API rate limits (403 errors), you can configure proxies using GitHub Secrets.
+### Required Repository Secrets
 
-### Repository Secrets
+These must be configured in your GitHub repository settings (**Settings → Secrets and variables → Actions → New repository secret**).
+
+*   **`REDDIT_CLIENT_ID`**: The OAuth client ID for anonymous Reddit API access. Register a new app at [https://www.reddit.com/prefs/apps](https://www.reddit.com/prefs/apps) and use the displayed client ID.
+*   **`REDDIT_USER_AGENT`**: A User-Agent string for Reddit API requests. Reddit requires a descriptive string, e.g., `script:denuvo-games-info:v1.0 (by /u/your_username)`.
+
+### Optional Repository Secrets
+
+These are used to route requests through proxies and avoid Reddit rate limits (403 errors).
 
 *   **`PROXIES_LIST`**: A comma-separated list of proxies in the format `protocol://user:pass@host:port`.
 *   **`WEBSHARE_API_KEY`**: Your Webshare.io API key. If provided, the script will fetch the latest proxies from Webshare automatically.

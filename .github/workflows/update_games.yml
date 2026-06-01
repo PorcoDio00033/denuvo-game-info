@@ -26,6 +26,8 @@ jobs:
 
       - name: Run parser script
         env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
           PROXIES_LIST: ${{ secrets.PROXIES_LIST }}
           WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
         run: python parser.py

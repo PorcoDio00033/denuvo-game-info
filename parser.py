@@ -1,4 +1,4 @@
-from curl_cffi import requests
+from curl_cffi import requests, Session
 import json
 import csv
 import html
@@ -6,7 +6,8 @@ import os
 import logging
 import re
 import random
-from datetime import datetime
+import base64
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup, NavigableString
 
 # Configure logging
@@ -16,9 +17,266 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-REDDIT_URL = "https://api.reddit.com/r/CrackWatch/comments/p9ak4n/crack_watch_games"
+# Reddit anonymous OAuth credentials (set via environment / GitHub secrets)
+REDDIT_CLIENT_ID = os.environ.get("REDDIT_CLIENT_ID", "")
+REDDIT_USER_AGENT = os.environ.get("REDDIT_USER_AGENT", "")
+REDDIT_ANON_TOKEN_URL = "https://www.reddit.com/api/v1/access_token"
+REDDIT_API_URL = "https://api.reddit.com/r/CrackWatch/comments/p9ak4n/crack_watch_games"
+REDDIT_OAUTH_URL = "https://oauth.reddit.com/r/CrackWatch/comments/p9ak4n/.json"
+
 OUTPUT_FILE = "denuvo_games.json"
 OUTPUT_CSV = "denuvo_games.csv"
+
+
+class RedditClient:
+    """Unified Reddit API client with OAuth, proxy rotation, and retry logic."""
+
+    IMPERSONATE = "safari18_4_ios"
+    TIMEOUT = 30
+    MAX_RETRIES = 10
+    TOKEN_BUFFER_SECONDS = 60
+
+    def __init__(self, client_id: str = "", user_agent: str = ""):
+        self.client_id = client_id
+        self.user_agent = user_agent
+        self._access_token: str | None = None
+        self._token_expires_at: datetime | None = None
+        self._proxy_pool: list[str] = []
+        self.session = Session(impersonate=self.IMPERSONATE)
+
+    def close(self):
+        """Closes the underlying session."""
+        self.session.close()
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.close()
+        return False
+
+    def fetch_anon_token(self) -> str:
+        """Fetches an anonymous OAuth access token from Reddit.
+
+        Uses the installed_client grant (the correct anonymous flow for
+        installed apps): POST to /api/v1/access_token with grant_type=installed_client
+        and Basic auth (client_id:).
+
+        Uses a proxy from the pool if one is available to avoid exposing
+        the host IP.
+        """
+        if not self.client_id:
+            raise ValueError("REDDIT_CLIENT_ID is required for OAuth token fetch")
+
+        credentials = base64.b64encode(f"{self.client_id}:".encode()).decode()
+
+        headers = {
+            "Authorization": f"Basic {credentials}",
+            "User-Agent": self.user_agent,
+            "Content-Type": "application/x-www-form-urlencoded",
+        }
+
+        data = {
+            "grant_type": "https://oauth.reddit.com/grants/installed_client",
+            "device_id": "DO_NOT_TRACK_THIS_DEVICE",
+        }
+
+        self._refresh_proxy_pool()
+        proxies = self._select_proxy()
+        if proxies:
+            logger.info("Fetching OAuth token via proxy.")
+
+        response = self.session.post(
+            REDDIT_ANON_TOKEN_URL,
+            headers=headers,
+            data=data,
+            proxies=proxies,
+            timeout=15
+        )
+        response.raise_for_status()
+        token_data = response.json()
+        access_token = token_data.get("access_token")
+
+        if not access_token:
+            raise ValueError(f"No access_token in response: {token_data}")
+
+        expires_in = token_data.get("expires_in", 0)
+        self._access_token = access_token
+        self._token_expires_at = datetime.now() + timedelta(seconds=expires_in)
+        logger.info(f"Obtained anonymous OAuth token (expires in {expires_in}s)")
+        return access_token
+
+    def _ensure_token(self) -> str:
+        """Returns a valid access token, fetching a new one if needed."""
+        if self._access_token and self._token_expires_at:
+            if datetime.now() < self._token_expires_at - timedelta(seconds=self.TOKEN_BUFFER_SECONDS):
+                return self._access_token
+
+        return self.fetch_anon_token()
+
+    def _refresh_proxy_pool(self):
+        """Fetches and caches the proxy pool from environment / Webshare API."""
+        if self._proxy_pool:
+            return
+
+        self._proxy_pool = get_proxy_pool()
+        if self._proxy_pool:
+            logger.info(f"Proxy pool loaded with {len(self._proxy_pool)} proxies.")
+        else:
+            logger.info("No proxies configured.")
+
+    def _select_proxy(self) -> dict[str, str] | None:
+        """Selects a random proxy and removes it from the pool to avoid reuse."""
+        if not self._proxy_pool:
+            return None
+
+        proxy = random.choice(self._proxy_pool)
+        self._proxy_pool.remove(proxy)
+        return {"http": proxy, "https": proxy}
+
+    def _build_headers(self) -> dict[str, str]:
+        """Builds standardized request headers with OAuth if available."""
+        headers = {"User-Agent": self.user_agent}
+        if self.client_id:
+            token = self._ensure_token()
+            headers["Authorization"] = f"Bearer {token}"
+        return headers
+
+    def _build_request_kwargs(self, headers: dict, proxies: dict[str, str] | None = None) -> dict:
+        """Builds standardized request kwargs."""
+        kwargs = {
+            "headers": headers,
+            "timeout": self.TIMEOUT,
+        }
+        if proxies:
+            kwargs["proxies"] = proxies
+        return kwargs
+
+    def request(self, url: str, use_proxy: bool = True) -> requests.Response:
+        """Performs an HTTP request with retry logic, proxy rotation, and OAuth.
+
+        Args:
+            url: The URL to request.
+            use_proxy: Whether to attempt proxy rotation (default True).
+
+        Returns:
+            The response object.
+
+        Raises:
+            Exception: If all attempts fail.
+        """
+        max_attempts = self.MAX_RETRIES if use_proxy and self._proxy_pool else 1
+
+        for attempt in range(max_attempts):
+            try:
+                # Refresh proxy pool on first attempt if needed
+                if use_proxy and attempt == 0:
+                    self._refresh_proxy_pool()
+
+                # Select proxy
+                if use_proxy:
+                    if not self._proxy_pool:
+                        raise RuntimeError(
+                            "Proxy pool exhausted"
+                        )
+                    proxies = self._select_proxy()
+                    if proxies is None:
+                        raise RuntimeError(
+                            "Proxy pool exhausted"
+                        )
+                else:
+                    proxies = None
+
+                # Build headers and kwargs
+                headers = self._build_headers()
+                kwargs = self._build_request_kwargs(headers, proxies)
+
+                logger.debug(f"Attempt {attempt + 1}/{max_attempts}: GET {url}")
+                response = self.session.get(url, **kwargs)
+                response.raise_for_status()
+                return response
+
+            except Exception as e:
+                if attempt == max_attempts - 1:
+                    raise
+                logger.warning(f"Attempt {attempt + 1}/{max_attempts} failed: {e}. Retrying...")
+
+    def _parse_response(self, response: requests.Response) -> str:
+        """Extracts selftext_html from a Reddit API JSON response."""
+        data = response.json()
+        post_data = data[0]['data']['children'][0]['data']
+        selftext_html = post_data.get('selftext_html')
+        if not selftext_html:
+            raise ValueError("selftext_html not found in Reddit response")
+        return selftext_html
+
+    def fetch_reddit_thread(self) -> str:
+        """Fetches the Reddit thread and extracts selftext_html.
+
+        Uses OAuth + proxies if configured, otherwise falls back to
+        unauthenticated direct request.
+        """
+        use_oauth = bool(self.client_id and self.user_agent)
+
+        # No OAuth — use public API (with proxy if available)
+        if not use_oauth:
+            self._refresh_proxy_pool()
+            if self._proxy_pool:
+                logger.info(
+                    f"No OAuth credentials — using public API via "
+                    f"{len(self._proxy_pool)} proxies."
+                )
+                use_proxy = True
+            else:
+                logger.warning(
+                    "No OAuth credentials or proxies configured — "
+                    "using unauthenticated direct request (may be rate-limited)"
+                )
+                use_proxy = False
+
+            url = REDDIT_API_URL
+            try:
+                response = self.request(url, use_proxy=use_proxy)
+                return self._parse_response(response)
+            except Exception as e:
+                if use_proxy:
+                    logger.error(
+                        "Proxies were configured — not falling back to direct request "
+                        "(would expose host IP). Aborting."
+                    )
+                    raise
+                raise
+
+        # OAuth path (with or without proxies)
+        url = REDDIT_OAUTH_URL
+        logger.info("Attempting connection with anonymous OAuth.")
+
+        try:
+            self._refresh_proxy_pool()
+            use_proxy = bool(self._proxy_pool)
+            if use_proxy:
+                logger.info(f"Using {len(self._proxy_pool)} proxies. Max retries: {self.MAX_RETRIES}")
+            response = self.request(url, use_proxy=use_proxy)
+            return self._parse_response(response)
+        except Exception as e:
+            logger.error(f"OAuth request failed: {e}")
+            if use_proxy:
+                logger.error(
+                    "Proxies were configured — not falling back to direct request "
+                    "(would expose host IP). Aborting."
+                )
+                raise
+            logger.warning("Falling back to unauthenticated request.")
+            return self._fetch_direct(REDDIT_API_URL)
+
+    def _fetch_direct(self, url: str) -> str:
+        """Performs a direct (non-proxy, non-OAuth) request."""
+        response = self.session.get(
+            url,
+            timeout=self.TIMEOUT
+        )
+        response.raise_for_status()
+        return self._parse_response(response)
 
 def get_proxy_pool():
     """Retrieves a list of proxies from environment variables and Webshare API."""
@@ -56,64 +314,19 @@ def get_proxy_pool():
     # Deduplicate
     return list(set(proxies))
 
-def fetch_reddit_data():
-    """Fetches the Reddit thread JSON and extracts the selftext_html using proxies."""
-    proxy_pool = get_proxy_pool()
-    max_retries = 10
-    
-    # If no proxies configured, try direct connection once
-    if not proxy_pool:
-        logger.warning("No proxies configured. Attempting direct connection.")
-        try:
-            response = requests.get(REDDIT_URL, impersonate="safari18_4_ios")
-            response.raise_for_status()
-            data = response.json()
-            post_data = data[0]['data']['children'][0]['data']
-            selftext_html = post_data.get('selftext_html')
-            if not selftext_html:
-                raise ValueError("selftext_html not found in Reddit response")
-            return selftext_html
-        except Exception as e:
-            logger.error(f"Error fetching Reddit data (direct): {e}")
-            raise
 
-    # Try with proxies
-    logger.info(f"Starting fetch with {len(proxy_pool)} proxies available. Max retries: {max_retries}")
-    
-    for attempt in range(max_retries):
-        if not proxy_pool:
-            raise Exception("No more proxies available to try.")
-            
-        # Select random proxy and remove it from pool to avoid reuse on failure
-        proxy = random.choice(proxy_pool)
-        proxy_pool.remove(proxy)
-        
-        try:
-            response = requests.get(
-                REDDIT_URL,
-                impersonate="safari18_4_ios",
-                proxies={"http": proxy, "https": proxy},
-                timeout=30
-            )
-            response.raise_for_status()
-            data = response.json()
-            
-            # Structure: [ { "data": { "children": [ { "data": { "selftext_html": "..." } } ] } } ]
-            post_data = data[0]['data']['children'][0]['data']
-            selftext_html = post_data.get('selftext_html')
-            
-            if not selftext_html:
-                raise ValueError("selftext_html not found in Reddit response")
-                
-            logger.info("Successfully fetched data from Reddit.")
-            return selftext_html
-            
-        except Exception as e:
-            # Log generic error, avoid logging proxy credentials
-            logger.warning(f"Attempt {attempt + 1}/{max_retries} failed. Retrying with different proxy...")
-            continue
-            
-    raise Exception(f"Failed to fetch Reddit data after {max_retries} attempts.")
+def fetch_reddit_data() -> str:
+    """Fetches the Reddit thread and extracts selftext_html.
+
+    Uses RedditClient internally for unified request handling.
+    Kept for backward compatibility.
+    """
+    with RedditClient(
+        client_id=REDDIT_CLIENT_ID,
+        user_agent=REDDIT_USER_AGENT
+    ) as client:
+        return client.fetch_reddit_thread()
+
 
 def normalize_name(name):
     """Normalizes the game name by allowing only alphanumeric characters, and converting to lowercase."""
@@ -273,8 +486,8 @@ def parse_denuvo_html(html_content):
         while next_element and next_element.name != 'table':
             # Stop if we hit another header or end of section (hr)
             if next_element.name in ['h1', 'h2', 'hr', 'p']:
-                 if next_element.name == 'p' and next_element.find('strong'):
-                     break
+                if next_element.name == 'p' and next_element.find('strong'):
+                    break
             next_element = next_element.find_next_sibling()
             
         if next_element and next_element.name == 'table':
