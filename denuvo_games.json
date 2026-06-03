@@ -533,8 +533,8 @@
       "normalized_name": "legobatmanlegacyofthedarkknight",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2026-05-22T00:00:00Z",
       "cracked": "2026-05-22T00:00:00Z",
       "cracked_by": [
@@ -1810,12 +1810,12 @@
       "store_id": "1238880"
     },
     {
-      "name": "Metal Gear Solid V: The Phantom Pain",
-      "normalized_name": "metalgearsolidvthephantompain",
+      "name": "Metal Gear Solid V: The Phantom Pain (Hypervisor also available)",
+      "normalized_name": "metalgearsolidvthephantompainhypervisoralsoavailable",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2015-09-01T00:00:00Z",
       "cracked": "2015-09-10T00:00:00Z",
       "cracked_by": [
@@ -2660,22 +2660,6 @@
         "CPY"
       ],
       "store_link": "Unavailable"
-    },
-    {
-      "name": "Naruto to Boruto: Shinobi Striker",
-      "normalized_name": "narutotoborutoshinobistriker",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2018-08-31T00:00:00Z",
-      "cracked": "2018-08-31T00:00:00Z",
-      "cracked_by": [
-        "3DM",
-        "CODEX"
-      ],
-      "store_link": "https://steampowered.com/app/633230",
-      "store_id": "633230"
     },
     {
       "name": "Dragon Quest XI",
