@@ -848,18 +848,6 @@
       "store_id": "1809700"
     },
     {
-      "name": "Undisputed",
-      "normalized_name": "undisputed",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-01-31T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/1451190",
-      "store_id": "1451190"
-    },
-    {
       "name": "The Settlers: New Allies",
       "normalized_name": "thesettlersnewallies",
       "denuvo_assumption": false,
@@ -3319,13 +3307,6 @@
   ],
   "upcoming_denuvo_games": [
     {
-      "name": "Monopoly: Star Wars Heroes vs. Villains",
-      "normalized_name": "monopolystarwarsheroesvsvillains",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-06-11T00:00:00Z"
-    },
-    {
       "name": "The Adventures of Elliot - The Millennium Tales",
       "normalized_name": "theadventuresofelliotthemillenniumtales",
       "denuvo_assumption": false,
@@ -3333,8 +3314,22 @@
       "release": "2026-06-18T00:00:00Z"
     },
     {
+      "name": "Monopoly: Star Wars Heroes vs. Villains",
+      "normalized_name": "monopolystarwarsheroesvsvillains",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-06-30T00:00:00Z"
+    },
+    {
       "name": "Assassin's Creed Black Flag Resynced",
       "normalized_name": "assassinscreedblackflagresynced",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-07-09T00:00:00Z"
+    },
+    {
+      "name": "EA Sports College Football 27",
+      "normalized_name": "easportscollegefootball27",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-07-09T00:00:00Z"
@@ -3347,25 +3342,74 @@
       "release": "2026-07-10T00:00:00Z"
     },
     {
-      "name": "Phantom Blade Zero",
-      "normalized_name": "phantombladezero",
+      "name": "EA Sports Madden NFL 27",
+      "normalized_name": "easportsmaddennfl27",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-09-09T00:00:00Z"
+      "release": "2026-08-13T00:00:00Z"
+    },
+    {
+      "name": "Star Wars Zero Company",
+      "normalized_name": "starwarszerocompany",
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "2026-08-27T00:00:00Z"
+    },
+    {
+      "name": "Onimusha - Way of the Sword",
+      "normalized_name": "onimushawayofthesword",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-09-25T00:00:00Z"
+    },
+    {
+      "name": "Rayman Legends Retold",
+      "normalized_name": "raymanlegendsretold",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-10-01T00:00:00Z"
     },
     {
       "name": "Star Wars: Galactic Racer",
       "normalized_name": "starwarsgalacticracer",
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-10-11T00:00:00Z"
+      "release": "2026-10-06T00:00:00Z"
     },
     {
-      "name": "Onimusha - Way of the Sword",
-      "normalized_name": "onimushawayofthesword",
-      "denuvo_assumption": true,
-      "denuvo_assumption_desc": "Assumption",
-      "release": "TBA 2026"
+      "name": "Planet Zoo 2",
+      "normalized_name": "planetzoo2",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-10-13T00:00:00Z"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "normalized_name": "phantombladezero",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-10-29T00:00:00Z"
+    },
+    {
+      "name": "Stranger Than Heaven",
+      "normalized_name": "strangerthanheaven",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2027-01-15T00:00:00Z"
+    },
+    {
+      "name": "Tomb Raider Legacy of Atlantis",
+      "normalized_name": "tombraiderlegacyofatlantis",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2027-02-12T00:00:00Z"
+    },
+    {
+      "name": "Persona 4 Revival",
+      "normalized_name": "persona4revival",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2027-02-18T00:00:00Z"
     },
     {
       "name": "Total War Warhammer 40K",
@@ -3375,11 +3419,46 @@
       "release": "TBA 2026"
     },
     {
+      "name": "Crazy Taxi World Tour",
+      "normalized_name": "crazytaxiworldtour",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "TBA 2027"
+    },
+    {
+      "name": "Virtua Fighter",
+      "normalized_name": "virtuafighter",
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "TBA 2027"
+    },
+    {
       "name": "Mega Man Dual Override",
       "normalized_name": "megamandualoverride",
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2027"
+    },
+    {
+      "name": "Alien Isolation 2",
+      "normalized_name": "alienisolation2",
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "TBA 2027"
+    },
+    {
+      "name": "Persona 6",
+      "normalized_name": "persona6",
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "TBA"
+    },
+    {
+      "name": "Stellar Blade Blood Rain",
+      "normalized_name": "stellarbladebloodrain",
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "TBA"
     },
     {
       "name": "Warhammer 40,000: Chaos Gate – Deathwatch",
@@ -3389,24 +3468,10 @@
       "release": "TBA"
     },
     {
-      "name": "Persona 4 Revival",
-      "normalized_name": "persona4revival",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "TBA"
-    },
-    {
       "name": "Atomic Heart 2",
       "normalized_name": "atomicheart2",
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
-      "release": "TBA"
-    },
-    {
-      "name": "Stranger Than Heaven",
-      "normalized_name": "strangerthanheaven",
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
       "release": "TBA"
     },
     {
