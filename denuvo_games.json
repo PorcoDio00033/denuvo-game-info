@@ -7,7 +7,8 @@
     "Uplay": "Protected by Uplay/Ubisoft Connect DRM",
     "Epic": "Epic Store exclusive",
     "GOG": "Steam version still uses Denuvo, GOG version available",
-    "DRM Free": "Cracked using a DRM free leak (Usually P2P)"
+    "DRM Free": "Cracked using a DRM free leak (Usually P2P)",
+    "Hypervisor": "Game also has a hypervisor bypass available by DenuvOwO"
   },
   "notes": [
     "UWP version has no Denuvo. It uses UWP DRM instead. Steam version still has Denuvo."
@@ -16,6 +17,7 @@
     {
       "name": "Scott Pilgrim vs. The World: The Game",
       "normalized_name": "scottpilgrimvstheworldthegame",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -32,6 +34,7 @@
     {
       "name": "Persona 5 Strikers",
       "normalized_name": "persona5strikers",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -47,6 +50,7 @@
     {
       "name": "Megasuki: Love Through Lenses with Ayumu Sakura",
       "normalized_name": "megasukilovethroughlenseswithayumusakura",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -61,6 +65,7 @@
     {
       "name": "Evil Genius 2: World Domination",
       "normalized_name": "evilgenius2worlddomination",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -74,8 +79,9 @@
       "store_id": "700600"
     },
     {
-      "name": "Shin Megami Tensei III: Nocturne HD Remaster (Hypervisor also available)",
-      "normalized_name": "shinmegamitenseiiiinocturnehdremasterhypervisoralsoavailable",
+      "name": "Shin Megami Tensei III: Nocturne HD Remaster",
+      "normalized_name": "shinmegamitenseiiiinocturnehdremaster",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -91,6 +97,7 @@
     {
       "name": "F1 2021",
       "normalized_name": "f12021",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -106,6 +113,7 @@
     {
       "name": "Sonic Colors Ultimate",
       "normalized_name": "soniccolorsultimate",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -121,6 +129,7 @@
     {
       "name": "Deathloop",
       "normalized_name": "deathloop",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -136,6 +145,7 @@
     {
       "name": "FIFA 22",
       "normalized_name": "fifa22",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -149,8 +159,9 @@
       "store_id": "1506830"
     },
     {
-      "name": "Far Cry 6 (Hypervisor also available)",
-      "normalized_name": "farcry6hypervisoralsoavailable",
+      "name": "Far Cry 6",
+      "normalized_name": "farcry6",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -167,6 +178,7 @@
     {
       "name": "Marvel's Guardians of the Galaxy",
       "normalized_name": "marvelsguardiansofthegalaxy",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -180,8 +192,9 @@
       "store_id": "1088850"
     },
     {
-      "name": "Jurassic World Evolution 2 (Hypervisor also available)",
-      "normalized_name": "jurassicworldevolution2hypervisoralsoavailable",
+      "name": "Jurassic World Evolution 2",
+      "normalized_name": "jurassicworldevolution2",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -197,6 +210,7 @@
     {
       "name": "F1 2022",
       "normalized_name": "f12022",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -211,8 +225,9 @@
       "store_id": "1692250"
     },
     {
-      "name": "Judgment (Hypervisor also available)",
-      "normalized_name": "judgmenthypervisoralsoavailable",
+      "name": "Judgment",
+      "normalized_name": "judgment",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -228,6 +243,7 @@
     {
       "name": "FIFA 23",
       "normalized_name": "fifa23",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -241,8 +257,9 @@
       "store_id": "1811260"
     },
     {
-      "name": "Persona 5 Royal (Hypervisor also available)",
-      "normalized_name": "persona5royalhypervisoralsoavailable",
+      "name": "Persona 5 Royal",
+      "normalized_name": "persona5royal",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -258,6 +275,7 @@
     {
       "name": "Football Manager 2023",
       "normalized_name": "footballmanager2023",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -273,6 +291,7 @@
     {
       "name": "Sonic Frontiers",
       "normalized_name": "sonicfrontiers",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -288,6 +307,7 @@
     {
       "name": "Dead Space Remake",
       "normalized_name": "deadspaceremake",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -301,8 +321,9 @@
       "store_id": "1693980"
     },
     {
-      "name": "Hogwarts Legacy (Hypervisor also available)",
-      "normalized_name": "hogwartslegacyhypervisoralsoavailable",
+      "name": "Hogwarts Legacy",
+      "normalized_name": "hogwartslegacy",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -316,8 +337,9 @@
       "store_id": "990080"
     },
     {
-      "name": "Wild Hearts (Hypervisor also available)",
-      "normalized_name": "wildheartshypervisoralsoavailable",
+      "name": "Wild Hearts",
+      "normalized_name": "wildhearts",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -332,8 +354,9 @@
       "store_id": "1938010"
     },
     {
-      "name": "Atomic Heart (Hypervisor also available)",
-      "normalized_name": "atomichearthypervisoralsoavailable",
+      "name": "Atomic Heart",
+      "normalized_name": "atomicheart",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -349,6 +372,7 @@
     {
       "name": "Etrian Odyssey HD",
       "normalized_name": "etrianodysseyhd",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -364,6 +388,7 @@
     {
       "name": "Etrian Odyssey II HD",
       "normalized_name": "etrianodysseyiihd",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -379,6 +404,7 @@
     {
       "name": "Etrian Odyssey III HD",
       "normalized_name": "etrianodysseyiiihd",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -394,6 +420,7 @@
     {
       "name": "Assassins Creed Mirage",
       "normalized_name": "assassinscreedmirage",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -409,8 +436,9 @@
       "store_id": "3035570"
     },
     {
-      "name": "Dragon's Dogma 2 (Hypervisor also available)",
-      "normalized_name": "dragonsdogma2hypervisoralsoavailable",
+      "name": "Dragon's Dogma 2",
+      "normalized_name": "dragonsdogma2",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -426,6 +454,7 @@
     {
       "name": "Black Myth Wukong",
       "normalized_name": "blackmythwukong",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -441,6 +470,7 @@
     {
       "name": "City Transport Simulator",
       "normalized_name": "citytransportsimulator",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -456,6 +486,7 @@
     {
       "name": "Doom: The Dark Ages",
       "normalized_name": "doomthedarkages",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -471,6 +502,7 @@
     {
       "name": "Stellar Blade",
       "normalized_name": "stellarblade",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -486,6 +518,7 @@
     {
       "name": "Mafia: The Old Country",
       "normalized_name": "mafiatheoldcountry",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -499,8 +532,9 @@
       "store_id": "1941540"
     },
     {
-      "name": "Resident Evil Requiem (Hypervisor also available)",
-      "normalized_name": "residentevilrequiemhypervisoralsoavailable",
+      "name": "Resident Evil Requiem",
+      "normalized_name": "residentevilrequiem",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -516,6 +550,7 @@
     {
       "name": "Pragmata",
       "normalized_name": "pragmata",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -531,6 +566,7 @@
     {
       "name": "LEGO Batman Legacy of the Dark Knight",
       "normalized_name": "legobatmanlegacyofthedarkknight",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -546,6 +582,7 @@
     {
       "name": "007 First Light",
       "normalized_name": "007firstlight",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -563,6 +600,7 @@
     {
       "name": "Persona 4 Golden (64 bit)",
       "normalized_name": "persona4golden64bit",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2020-06-13T00:00:00Z",
@@ -575,6 +613,7 @@
     {
       "name": "Madden NFL 21",
       "normalized_name": "maddennfl21",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2020-08-25T00:00:00Z",
@@ -587,6 +626,7 @@
     {
       "name": "The Bus",
       "normalized_name": "thebus",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-03-25T00:00:00Z",
@@ -599,6 +639,7 @@
     {
       "name": "Madden NFL 22",
       "normalized_name": "maddennfl22",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-08-20T00:00:00Z",
@@ -611,6 +652,7 @@
     {
       "name": "Lost in random",
       "normalized_name": "lostinrandom",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-09-10T00:00:00Z",
@@ -623,6 +665,7 @@
     {
       "name": "Monopoly Madness",
       "normalized_name": "monopolymadness",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -636,6 +679,7 @@
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
       "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-10-15T00:00:00Z",
@@ -648,6 +692,7 @@
     {
       "name": "Football Manager 2022",
       "normalized_name": "footballmanager2022",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-11-09T00:00:00Z",
@@ -660,6 +705,7 @@
     {
       "name": "Total War Warhammer 3",
       "normalized_name": "totalwarwarhammer3",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-02-17T00:00:00Z",
@@ -672,6 +718,7 @@
     {
       "name": "GRID Legends",
       "normalized_name": "gridlegends",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-02-24T00:00:00Z",
@@ -684,6 +731,7 @@
     {
       "name": "FAR: Changing Tides",
       "normalized_name": "farchangingtides",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-03-01T00:00:00Z",
@@ -696,6 +744,7 @@
     {
       "name": "Persona 4 Arena Ultimax",
       "normalized_name": "persona4arenaultimax",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-03-17T00:00:00Z",
@@ -708,6 +757,7 @@
     {
       "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
       "normalized_name": "warhammer40000chaosgatedaemonhunters",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-05-05T00:00:00Z",
@@ -720,6 +770,7 @@
     {
       "name": "Sniper Elite 5",
       "normalized_name": "sniperelite5",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-05-26T00:00:00Z",
@@ -732,6 +783,7 @@
     {
       "name": "Hatsune Miku: Project DIVA Mega Mix+",
       "normalized_name": "hatsunemikuprojectdivamegamix",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-05-26T00:00:00Z",
@@ -744,6 +796,7 @@
     {
       "name": "Sonic Origins",
       "normalized_name": "sonicorigins",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-06-23T00:00:00Z",
@@ -756,6 +809,7 @@
     {
       "name": "Rabbids: Party of Legends",
       "normalized_name": "rabbidspartyoflegends",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -769,6 +823,7 @@
     {
       "name": "Madden NFL 23",
       "normalized_name": "maddennfl23",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-08-19T00:00:00Z",
@@ -781,6 +836,7 @@
     {
       "name": "Soul Hackers 2",
       "normalized_name": "soulhackers2",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-08-25T00:00:00Z",
@@ -793,6 +849,7 @@
     {
       "name": "F1 Manager 2022",
       "normalized_name": "f1manager2022",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-08-30T00:00:00Z",
@@ -805,6 +862,7 @@
     {
       "name": "Lost Judgment",
       "normalized_name": "lostjudgment",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-09-14T00:00:00Z",
@@ -817,6 +875,7 @@
     {
       "name": "Construction Simulator",
       "normalized_name": "constructionsimulator",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-09-20T00:00:00Z",
@@ -829,6 +888,7 @@
     {
       "name": "Need For Speed Unbound",
       "normalized_name": "needforspeedunbound",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-12-02T00:00:00Z",
@@ -841,6 +901,7 @@
     {
       "name": "Marvel Midnight Suns",
       "normalized_name": "marvelmidnightsuns",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-12-02T00:00:00Z",
@@ -853,6 +914,7 @@
     {
       "name": "Persona 3 Portable",
       "normalized_name": "persona3portable",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-01-19T00:00:00Z",
@@ -865,6 +927,7 @@
     {
       "name": "The Settlers: New Allies",
       "normalized_name": "thesettlersnewallies",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -878,6 +941,7 @@
     {
       "name": "Like a Dragon: Ishin!",
       "normalized_name": "likeadragonishin",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-02-21T00:00:00Z",
@@ -890,6 +954,7 @@
     {
       "name": "EA Sports PGA Tour",
       "normalized_name": "easportspgatour",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-04-07T00:00:00Z",
@@ -902,6 +967,7 @@
     {
       "name": "Redfall",
       "normalized_name": "redfall",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-05-02T00:00:00Z",
@@ -914,6 +980,7 @@
     {
       "name": "Street Fighter 6",
       "normalized_name": "streetfighter6",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-06-01T00:00:00Z",
@@ -926,6 +993,7 @@
     {
       "name": "Super Mega Baseball 4",
       "normalized_name": "supermegabaseball4",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-06-02T00:00:00Z",
@@ -938,6 +1006,7 @@
     {
       "name": "F1 23",
       "normalized_name": "f123",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-06-16T00:00:00Z",
@@ -950,6 +1019,7 @@
     {
       "name": "F1 Manager 2023",
       "normalized_name": "f1manager2023",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-07-31T00:00:00Z",
@@ -962,6 +1032,7 @@
     {
       "name": "Madden NFL 24",
       "normalized_name": "maddennfl24",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-08-18T00:00:00Z",
@@ -974,6 +1045,7 @@
     {
       "name": "NBA 2K24",
       "normalized_name": "nba2k24",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-09-08T00:00:00Z",
@@ -986,6 +1058,7 @@
     {
       "name": "Mortal Kombat 1",
       "normalized_name": "mortalkombat1",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-09-19T00:00:00Z",
@@ -998,6 +1071,7 @@
     {
       "name": "EA FC 24",
       "normalized_name": "eafc24",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-09-29T00:00:00Z",
@@ -1010,6 +1084,7 @@
     {
       "name": "Sonic Superstars",
       "normalized_name": "sonicsuperstars",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-10-17T00:00:00Z",
@@ -1022,6 +1097,7 @@
     {
       "name": "Football Manager 2024",
       "normalized_name": "footballmanager2024",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-11-06T00:00:00Z",
@@ -1034,6 +1110,7 @@
     {
       "name": "Like A Dragon Gaiden - The Man Who Erased His Name",
       "normalized_name": "likeadragongaidenthemanwhoerasedhisname",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-11-08T00:00:00Z",
@@ -1046,6 +1123,7 @@
     {
       "name": "Warhammer Age of Sigmar: Realms of Ruin",
       "normalized_name": "warhammerageofsigmarrealmsofruin",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-11-17T00:00:00Z",
@@ -1058,6 +1136,7 @@
     {
       "name": "Persona 5 Tactica",
       "normalized_name": "persona5tactica",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-11-17T00:00:00Z",
@@ -1070,6 +1149,7 @@
     {
       "name": "EA SPORTS WRC",
       "normalized_name": "easportswrc",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-11-03T00:00:00Z",
@@ -1082,6 +1162,7 @@
     {
       "name": "Avatar: Frontiers of Pandora",
       "normalized_name": "avatarfrontiersofpandora",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1095,6 +1176,7 @@
     {
       "name": "Prince of Persia: The Lost Crown",
       "normalized_name": "princeofpersiathelostcrown",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1109,6 +1191,7 @@
     {
       "name": "Like A Dragon Infinite Wealth",
       "normalized_name": "likeadragoninfinitewealth",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-01-26T00:00:00Z",
@@ -1121,6 +1204,7 @@
     {
       "name": "Persona 3 Reload",
       "normalized_name": "persona3reload",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-02-02T00:00:00Z",
@@ -1134,6 +1218,7 @@
     {
       "name": "Valiant Hearts: Coming Home",
       "normalized_name": "valiantheartscominghome",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1146,6 +1231,7 @@
     {
       "name": "TopSpin 2K25",
       "normalized_name": "topspin2k25",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-04-26T00:00:00Z",
@@ -1158,6 +1244,7 @@
     {
       "name": "F1 24",
       "normalized_name": "f124",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-05-31T00:00:00Z",
@@ -1170,6 +1257,7 @@
     {
       "name": "Shin Megami Tensei V: Vengeance",
       "normalized_name": "shinmegamitenseivvengeance",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-06-21T00:00:00Z",
@@ -1183,6 +1271,7 @@
     {
       "name": "Beyond Good & Evil - 20th Anniversary Edition",
       "normalized_name": "beyondgoodevil20thanniversaryedition",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1196,6 +1285,7 @@
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
       "normalized_name": "demonslayerkimetsunoyaibasweeptheboard",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-07-16T00:00:00Z",
@@ -1208,6 +1298,7 @@
     {
       "name": "F1 Manager 2024",
       "normalized_name": "f1manager2024",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-07-24T00:00:00Z",
@@ -1220,6 +1311,7 @@
     {
       "name": "Madden NFL 25",
       "normalized_name": "maddennfl25",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-08-16T00:00:00Z",
@@ -1232,6 +1324,7 @@
     {
       "name": "Star Wars Outlaws",
       "normalized_name": "starwarsoutlaws",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1246,6 +1339,7 @@
     {
       "name": "NBA 2K25",
       "normalized_name": "nba2k25",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-09-06T00:00:00Z",
@@ -1258,6 +1352,7 @@
     {
       "name": "NEW MONOPOLY",
       "normalized_name": "newmonopoly",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1271,6 +1366,7 @@
     {
       "name": "EA FC 25",
       "normalized_name": "eafc25",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-09-27T00:00:00Z",
@@ -1283,6 +1379,7 @@
     {
       "name": "Metaphor Re Fantazio",
       "normalized_name": "metaphorrefantazio",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-10-11T00:00:00Z",
@@ -1296,6 +1393,7 @@
     {
       "name": "Professional Baseball Spirits 2024/2025",
       "normalized_name": "professionalbaseballspirits20242025",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-10-17T00:00:00Z",
@@ -1308,6 +1406,7 @@
     {
       "name": "Sonic X Shadow Generations",
       "normalized_name": "sonicxshadowgenerations",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-10-25T00:00:00Z",
@@ -1320,6 +1419,7 @@
     {
       "name": "Speedball",
       "normalized_name": "speedball",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-10-29T00:00:00Z",
@@ -1332,6 +1432,7 @@
     {
       "name": "Planet Coaster 2",
       "normalized_name": "planetcoaster2",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-11-06T00:00:00Z",
@@ -1344,6 +1445,7 @@
     {
       "name": "Sniper Elite: Resistance",
       "normalized_name": "snipereliteresistance",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-01-30T00:00:00Z",
@@ -1356,6 +1458,7 @@
     {
       "name": "Hello Kitty Island Adventure",
       "normalized_name": "hellokittyislandadventure",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-01-30T00:00:00Z",
@@ -1368,6 +1471,7 @@
     {
       "name": "Sid Meier's Civilization VII",
       "normalized_name": "sidmeierscivilizationvii",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-02-11T00:00:00Z",
@@ -1380,6 +1484,7 @@
     {
       "name": "Like a Dragon: Pirate Yakuza",
       "normalized_name": "likeadragonpirateyakuza",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-02-20T00:00:00Z",
@@ -1392,6 +1497,7 @@
     {
       "name": "Monster Hunter Wilds",
       "normalized_name": "monsterhunterwilds",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-02-28T00:00:00Z",
@@ -1404,6 +1510,7 @@
     {
       "name": "PGA TOUR 2K25",
       "normalized_name": "pgatour2k25",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-02-28T00:00:00Z",
@@ -1416,6 +1523,7 @@
     {
       "name": "Two Point Museum",
       "normalized_name": "twopointmuseum",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-03-04T00:00:00Z",
@@ -1428,6 +1536,7 @@
     {
       "name": "Assassins Creed Shadows",
       "normalized_name": "assassinscreedshadows",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1441,6 +1550,7 @@
     {
       "name": "Atomfall",
       "normalized_name": "atomfall",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-03-27T00:00:00Z",
@@ -1453,6 +1563,7 @@
     {
       "name": "The First Berserker: Khazan",
       "normalized_name": "thefirstberserkerkhazan",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-03-27T00:00:00Z",
@@ -1465,6 +1576,7 @@
     {
       "name": "F1 2025",
       "normalized_name": "f12025",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-05-30T00:00:00Z",
@@ -1477,6 +1589,7 @@
     {
       "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
       "normalized_name": "raidouremasteredthemysteryofthesoullessarmy",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-06-19T00:00:00Z",
@@ -1490,6 +1603,7 @@
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
       "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles2",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-08-08T00:00:00Z",
@@ -1502,6 +1616,7 @@
     {
       "name": "Madden NFL 2026",
       "normalized_name": "maddennfl2026",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-08-14T00:00:00Z",
@@ -1514,6 +1629,7 @@
     {
       "name": "Shinobi - Art of Vengeance",
       "normalized_name": "shinobiartofvengeance",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-08-29T00:00:00Z",
@@ -1526,6 +1642,7 @@
     {
       "name": "NBA 2K26",
       "normalized_name": "nba2k26",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-05T00:00:00Z",
@@ -1538,6 +1655,7 @@
     {
       "name": "Borderlands 4",
       "normalized_name": "borderlands4",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-11T00:00:00Z",
@@ -1550,6 +1668,7 @@
     {
       "name": "Sonic Racing - CrossWorlds",
       "normalized_name": "sonicracingcrossworlds",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-25T00:00:00Z",
@@ -1562,6 +1681,7 @@
     {
       "name": "EA Sports FC 26",
       "normalized_name": "easportsfc26",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-25T00:00:00Z",
@@ -1574,6 +1694,7 @@
     {
       "name": "Final Fantasy Tactics - The Ivalice Chronicles",
       "normalized_name": "finalfantasytacticstheivalicechronicles",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-09-30T00:00:00Z",
@@ -1586,6 +1707,7 @@
     {
       "name": "Digimon Story Time Stranger",
       "normalized_name": "digimonstorytimestranger",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-10-03T00:00:00Z",
@@ -1598,6 +1720,7 @@
     {
       "name": "Jurassic World Evolution 3",
       "normalized_name": "jurassicworldevolution3",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-10-21T00:00:00Z",
@@ -1610,6 +1733,7 @@
     {
       "name": "Football Manager 26",
       "normalized_name": "footballmanager26",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2025-11-04T00:00:00Z",
@@ -1622,6 +1746,7 @@
     {
       "name": "Anno 117 - Pax Romana",
       "normalized_name": "anno117paxromana",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1635,6 +1760,7 @@
     {
       "name": "Code Vein 2",
       "normalized_name": "codevein2",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-01-30T00:00:00Z",
@@ -1647,6 +1773,7 @@
     {
       "name": "Dragon Quest VII Reimagined",
       "normalized_name": "dragonquestviireimagined",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-02-05T00:00:00Z",
@@ -1660,6 +1787,7 @@
     {
       "name": "Yakuza Kiwami 3 & Dark Ties",
       "normalized_name": "yakuzakiwami3darkties",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-02-11T00:00:00Z",
@@ -1672,6 +1800,7 @@
     {
       "name": "Bravely Default: Flying Fairy HD Remaster",
       "normalized_name": "bravelydefaultflyingfairyhdremaster",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-03-12T00:00:00Z",
@@ -1684,6 +1813,7 @@
     {
       "name": "Monster Hunter Stories 3: Twisted Reflection",
       "normalized_name": "monsterhunterstories3twistedreflection",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-03-13T00:00:00Z",
@@ -1696,6 +1826,7 @@
     {
       "name": "WWE2K26",
       "normalized_name": "wwe2k26",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-03-13T00:00:00Z",
@@ -1708,6 +1839,7 @@
     {
       "name": "Crimson Desert",
       "normalized_name": "crimsondesert",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-03-19T00:00:00Z",
@@ -1720,6 +1852,7 @@
     {
       "name": "Life is Strange: Reunion",
       "normalized_name": "lifeisstrangereunion",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-03-26T00:00:00Z",
@@ -1732,6 +1865,7 @@
     {
       "name": "Mega Man Star Force Legacy Collection",
       "normalized_name": "megamanstarforcelegacycollection",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-03-27T00:00:00Z",
@@ -1744,6 +1878,7 @@
     {
       "name": "City Transport Simulator 2026",
       "normalized_name": "citytransportsimulator2026",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-04-14T00:00:00Z",
@@ -1758,6 +1893,7 @@
     {
       "name": "FIFA 15",
       "normalized_name": "fifa15",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1772,6 +1908,7 @@
     {
       "name": "Dragon Age Inquisition",
       "normalized_name": "dragonageinquisition",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1788,6 +1925,7 @@
     {
       "name": "Battlefield Hardline",
       "normalized_name": "battlefieldhardline",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1801,8 +1939,9 @@
       "store_id": "1238880"
     },
     {
-      "name": "Metal Gear Solid V: The Phantom Pain (Hypervisor also available)",
-      "normalized_name": "metalgearsolidvthephantompainhypervisoralsoavailable",
+      "name": "Metal Gear Solid V: The Phantom Pain",
+      "normalized_name": "metalgearsolidvthephantompain",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -1819,6 +1958,7 @@
     {
       "name": "FIFA 16",
       "normalized_name": "fifa16",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1833,6 +1973,7 @@
     {
       "name": "Star Wars: Battlefront",
       "normalized_name": "starwarsbattlefront",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1848,6 +1989,7 @@
     {
       "name": "Unravel",
       "normalized_name": "unravel",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1863,6 +2005,7 @@
     {
       "name": "Far Cry: Primal",
       "normalized_name": "farcryprimal",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1880,6 +2023,7 @@
     {
       "name": "Total War: Warhammer",
       "normalized_name": "totalwarwarhammer",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -1895,6 +2039,7 @@
     {
       "name": "Mirror's Edge: Catalyst",
       "normalized_name": "mirrorsedgecatalyst",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1910,6 +2055,7 @@
     {
       "name": "F1 2016",
       "normalized_name": "f12016",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1925,6 +2071,7 @@
     {
       "name": "Fernbus Simulator",
       "normalized_name": "fernbussimulator",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -1940,6 +2087,7 @@
     {
       "name": "God Eater Resurrection",
       "normalized_name": "godeaterresurrection",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1956,6 +2104,7 @@
     {
       "name": "God Eater 2: Rage Burst",
       "normalized_name": "godeater2rageburst",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -1972,6 +2121,7 @@
     {
       "name": "Champions of Anteria",
       "normalized_name": "championsofanteria",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -1989,6 +2139,7 @@
     {
       "name": "FIFA 17",
       "normalized_name": "fifa17",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2003,6 +2154,7 @@
     {
       "name": "Pro Evolution Soccer 2017",
       "normalized_name": "proevolutionsoccer2017",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2017,6 +2169,7 @@
     {
       "name": "WRC 6 FIA",
       "normalized_name": "wrc6fia",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2032,6 +2185,7 @@
     {
       "name": "Battlefield 1",
       "normalized_name": "battlefield1",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2047,6 +2201,7 @@
     {
       "name": "Football Manager 2017",
       "normalized_name": "footballmanager2017",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2062,6 +2217,7 @@
     {
       "name": "Handball 17",
       "normalized_name": "handball17",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2077,6 +2233,7 @@
     {
       "name": "Planet Coaster",
       "normalized_name": "planetcoaster",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2095,6 +2252,7 @@
     {
       "name": "Watch Dogs 2",
       "normalized_name": "watchdogs2",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2112,6 +2270,7 @@
     {
       "name": "Tales of Berseria",
       "normalized_name": "talesofberseria",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2127,6 +2286,7 @@
     {
       "name": "Sniper Elite 4",
       "normalized_name": "sniperelite4",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2142,6 +2302,7 @@
     {
       "name": "Ghost Recon Wildlands",
       "normalized_name": "ghostreconwildlands",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2160,6 +2321,7 @@
     {
       "name": "Dead Rising 4",
       "normalized_name": "deadrising4",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2177,6 +2339,7 @@
     {
       "name": "Dragon Quest Heroes II",
       "normalized_name": "dragonquestheroesii",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2193,6 +2356,7 @@
     {
       "name": "Warhammer 40k: Dawn of War III",
       "normalized_name": "warhammer40kdawnofwariii",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2209,6 +2373,7 @@
     {
       "name": "Battlezone Gold Edition",
       "normalized_name": "battlezonegoldedition",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2225,6 +2390,7 @@
     {
       "name": "Hunting Simulator",
       "normalized_name": "huntingsimulator",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2241,6 +2407,7 @@
     {
       "name": "White Day: A Labyrinth Named School",
       "normalized_name": "whitedayalabyrinthnamedschool",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2256,6 +2423,7 @@
     {
       "name": "F1 2017",
       "normalized_name": "f12017",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2273,6 +2441,7 @@
     {
       "name": "Monopoly plus",
       "normalized_name": "monopolyplus",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2289,6 +2458,7 @@
     {
       "name": "Pro Evolution Soccer 2018",
       "normalized_name": "proevolutionsoccer2018",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2305,6 +2475,7 @@
     {
       "name": "WRC 7 FIA",
       "normalized_name": "wrc7fia",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2322,6 +2493,7 @@
     {
       "name": "Total War: Warhammer 2",
       "normalized_name": "totalwarwarhammer2",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2341,8 +2513,9 @@
       "store_id": "594570"
     },
     {
-      "name": "FIFA 18 (Hypervisor also available)",
-      "normalized_name": "fifa18hypervisoralsoavailable",
+      "name": "FIFA 18",
+      "normalized_name": "fifa18",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -2357,6 +2530,7 @@
     {
       "name": "South Park: The Fractured but Whole",
       "normalized_name": "southparkthefracturedbutwhole",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2372,8 +2546,9 @@
       "store_id": "488790"
     },
     {
-      "name": "Assassin's Creed: Origins (Hypervisor also available)",
-      "normalized_name": "assassinscreedoriginshypervisoralsoavailable",
+      "name": "Assassin's Creed: Origins",
+      "normalized_name": "assassinscreedorigins",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2391,6 +2566,7 @@
     {
       "name": "Sonic Forces",
       "normalized_name": "sonicforces",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2404,8 +2580,9 @@
       "store_id": "637100"
     },
     {
-      "name": "Need For Speed Payback (Hypervisor also available)",
-      "normalized_name": "needforspeedpaybackhypervisoralsoavailable",
+      "name": "Need For Speed Payback",
+      "normalized_name": "needforspeedpayback",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -2421,6 +2598,7 @@
     {
       "name": "Football Manager 2018",
       "normalized_name": "footballmanager2018",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2435,6 +2613,7 @@
     {
       "name": "Star Wars Battlefront II",
       "normalized_name": "starwarsbattlefrontii",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2451,6 +2630,7 @@
     {
       "name": "Star Ocean: The Last Hope HD Remaster",
       "normalized_name": "staroceanthelasthopehdremaster",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2467,6 +2647,7 @@
     {
       "name": "Fe",
       "normalized_name": "fe",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2482,6 +2663,7 @@
     {
       "name": "SWORD ART ONLINE: Fatal Bullet",
       "normalized_name": "swordartonlinefatalbullet",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2499,6 +2681,7 @@
     {
       "name": "Puyo Puyo Tetris",
       "normalized_name": "puyopuyotetris",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2513,8 +2696,9 @@
       "store_id": "546050"
     },
     {
-      "name": "Far Cry 5 (Hypervisor also available)",
-      "normalized_name": "farcry5hypervisoralsoavailable",
+      "name": "Far Cry 5",
+      "normalized_name": "farcry5",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2532,6 +2716,7 @@
     {
       "name": "Unravel Two",
       "normalized_name": "unraveltwo",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2547,6 +2732,7 @@
     {
       "name": "Jurassic World Evolution",
       "normalized_name": "jurassicworldevolution",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2563,6 +2749,7 @@
     {
       "name": "Shining Resonance Refrain",
       "normalized_name": "shiningresonancerefrain",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2580,6 +2767,7 @@
     {
       "name": "Madden NFL 19",
       "normalized_name": "maddennfl19",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2594,6 +2782,7 @@
     {
       "name": "Burnout Paradise Remastered",
       "normalized_name": "burnoutparadiseremastered",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2609,6 +2798,7 @@
     {
       "name": "F1 2018",
       "normalized_name": "f12018",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2625,6 +2815,7 @@
     {
       "name": "Strange Brigade",
       "normalized_name": "strangebrigade",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2641,6 +2832,7 @@
     {
       "name": "Pro Evolution Soccer 2019",
       "normalized_name": "proevolutionsoccer2019",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2655,6 +2847,7 @@
     {
       "name": "Dragon Quest XI",
       "normalized_name": "dragonquestxi",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2670,6 +2863,7 @@
     {
       "name": "Zone of the Enders The 2nd Runner",
       "normalized_name": "zoneoftheendersthe2ndrunner",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2685,6 +2879,7 @@
     {
       "name": "New Gundam Breaker",
       "normalized_name": "newgundambreaker",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2700,6 +2895,7 @@
     {
       "name": "Valkyria Chronicles 4",
       "normalized_name": "valkyriachronicles4",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2715,6 +2911,7 @@
     {
       "name": "Life is Strange 2",
       "normalized_name": "lifeisstrange2",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2731,6 +2928,7 @@
     {
       "name": "FIFA 19",
       "normalized_name": "fifa19",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2743,8 +2941,9 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Assassin's Creed: Odyssey (Hypervisor also available)",
-      "normalized_name": "assassinscreedodysseyhypervisoralsoavailable",
+      "name": "Assassin's Creed: Odyssey",
+      "normalized_name": "assassinscreedodyssey",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2762,6 +2961,7 @@
     {
       "name": "The Quiet Man",
       "normalized_name": "thequietman",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2777,6 +2977,7 @@
     {
       "name": "Football Manager 2019",
       "normalized_name": "footballmanager2019",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2792,6 +2993,7 @@
     {
       "name": "Battlefield V",
       "normalized_name": "battlefieldv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2807,6 +3009,7 @@
     {
       "name": "Tourist Bus Simulator",
       "normalized_name": "touristbussimulator",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2820,8 +3023,9 @@
       "store_id": "953580"
     },
     {
-      "name": "Far Cry New Dawn (Hypervisor also available)",
-      "normalized_name": "farcrynewdawnhypervisoralsoavailable",
+      "name": "Far Cry New Dawn",
+      "normalized_name": "farcrynewdawn",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2838,6 +3042,7 @@
     {
       "name": "Trials Rising",
       "normalized_name": "trialsrising",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2854,6 +3059,7 @@
     {
       "name": "Left Alive",
       "normalized_name": "leftalive",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2869,6 +3075,7 @@
     {
       "name": "Anno 1800",
       "normalized_name": "anno1800",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2886,6 +3093,7 @@
     {
       "name": "Starlink: Battle for Atlas",
       "normalized_name": "starlinkbattleforatlas",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2902,6 +3110,7 @@
     {
       "name": "Team Sonic Racing",
       "normalized_name": "teamsonicracing",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2917,6 +3126,7 @@
     {
       "name": "Sea of Solitude",
       "normalized_name": "seaofsolitude",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2932,6 +3142,7 @@
     {
       "name": "Madden NFL 20",
       "normalized_name": "maddennfl20",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2946,6 +3157,7 @@
     {
       "name": "eFootball Pro Evolution Soccer 2020",
       "normalized_name": "efootballproevolutionsoccer2020",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2961,6 +3173,7 @@
     {
       "name": "FIFA 20",
       "normalized_name": "fifa20",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -2973,8 +3186,9 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Planet Zoo (Hypervisor also available)",
-      "normalized_name": "planetzoohypervisoralsoavailable",
+      "name": "Planet Zoo",
+      "normalized_name": "planetzoo",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -2990,6 +3204,7 @@
     {
       "name": "Need for Speed Heat",
       "normalized_name": "needforspeedheat",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -3006,6 +3221,7 @@
     {
       "name": "Football Manager 2020",
       "normalized_name": "footballmanager2020",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -3019,8 +3235,9 @@
       "store_id": "1100600"
     },
     {
-      "name": "Zombie Army 4: Dead War (Hypervisor also available)",
-      "normalized_name": "zombiearmy4deadwarhypervisoralsoavailable",
+      "name": "Zombie Army 4: Dead War",
+      "normalized_name": "zombiearmy4deadwar",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -3036,6 +3253,7 @@
     {
       "name": "Maneater",
       "normalized_name": "maneater",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -3051,6 +3269,7 @@
     {
       "name": "Persona 4 Golden (32 bit)",
       "normalized_name": "persona4golden32bit",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -3066,6 +3285,7 @@
     {
       "name": "Total War Saga: Troy",
       "normalized_name": "totalwarsagatroy",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -3081,6 +3301,7 @@
     {
       "name": "eFootball Pro Evolution Soccer 2021",
       "normalized_name": "efootballproevolutionsoccer2021",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -3096,6 +3317,7 @@
     {
       "name": "Star Wars: Squadrons",
       "normalized_name": "starwarssquadrons",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -3111,6 +3333,7 @@
     {
       "name": "FIFA 21",
       "normalized_name": "fifa21",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -3126,6 +3349,7 @@
     {
       "name": "Watch Dogs: Legion *DIRECTX12 ONLY",
       "normalized_name": "watchdogslegiondirectx12only",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3142,6 +3366,7 @@
     {
       "name": "Need For Speed Hot Pursuit Remastered",
       "normalized_name": "needforspeedhotpursuitremastered",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -3155,8 +3380,9 @@
       "store_id": "1328660"
     },
     {
-      "name": "Assassin's Creed: Valhalla (Hypervisor also available)",
-      "normalized_name": "assassinscreedvalhallahypervisoralsoavailable",
+      "name": "Assassin's Creed: Valhalla",
+      "normalized_name": "assassinscreedvalhalla",
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3173,6 +3399,7 @@
     {
       "name": "Football Manager 2021",
       "normalized_name": "footballmanager2021",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -3188,6 +3415,7 @@
     {
       "name": "Immortals Fenyx Rising",
       "normalized_name": "immortalsfenyxrising",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3207,6 +3435,7 @@
     {
       "name": "The Awesome Adventures of Captain Spirit",
       "normalized_name": "theawesomeadventuresofcaptainspirit",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2018-06-26T00:00:00Z",
@@ -3218,6 +3447,7 @@
     {
       "name": "eFootball",
       "normalized_name": "efootball",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-09-30T00:00:00Z",
@@ -3227,6 +3457,7 @@
     {
       "name": "Rise of Eros",
       "normalized_name": "riseoferos",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2023-07-17T00:00:00Z",
@@ -3236,6 +3467,7 @@
     {
       "name": "eBaseball: Pro Spirit",
       "normalized_name": "ebaseballprospirit",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2026-03-05T00:00:00Z",
@@ -3247,6 +3479,7 @@
     {
       "name": "Need For Speed",
       "normalized_name": "needforspeed",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2016-03-15T00:00:00Z"
@@ -3254,6 +3487,7 @@
     {
       "name": "For Honor",
       "normalized_name": "forhonor",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2017-02-13T00:00:00Z"
@@ -3261,6 +3495,7 @@
     {
       "name": "Anthem",
       "normalized_name": "anthem",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2019-02-22T00:00:00Z"
@@ -3268,6 +3503,7 @@
     {
       "name": "Ghost Recon Breakpoint",
       "normalized_name": "ghostreconbreakpoint",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2019-10-04T00:00:00Z"
@@ -3275,6 +3511,7 @@
     {
       "name": "Battlefield 2042",
       "normalized_name": "battlefield2042",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2021-11-19T00:00:00Z"
@@ -3282,6 +3519,7 @@
     {
       "name": "Rainbow Six Extraction",
       "normalized_name": "rainbowsixextraction",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2022-01-20T00:00:00Z"
@@ -3289,6 +3527,7 @@
     {
       "name": "Skull and Bones",
       "normalized_name": "skullandbones",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-02-16T00:00:00Z"
@@ -3296,6 +3535,7 @@
     {
       "name": "OddBallers",
       "normalized_name": "oddballers",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-08-15T00:00:00Z"
@@ -3303,6 +3543,7 @@
     {
       "name": "Harry Potter: Quidditch Champions",
       "normalized_name": "harrypotterquidditchchampions",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "released": "2024-09-03T00:00:00Z"
@@ -3312,6 +3553,7 @@
     {
       "name": "The Adventures of Elliot - The Millennium Tales",
       "normalized_name": "theadventuresofelliotthemillenniumtales",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-06-18T00:00:00Z"
@@ -3319,6 +3561,7 @@
     {
       "name": "Monopoly: Star Wars Heroes vs. Villains",
       "normalized_name": "monopolystarwarsheroesvsvillains",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-06-30T00:00:00Z"
@@ -3326,6 +3569,7 @@
     {
       "name": "Assassin's Creed Black Flag Resynced",
       "normalized_name": "assassinscreedblackflagresynced",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-07-09T00:00:00Z"
@@ -3333,6 +3577,7 @@
     {
       "name": "EA Sports College Football 27",
       "normalized_name": "easportscollegefootball27",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-07-09T00:00:00Z"
@@ -3340,6 +3585,7 @@
     {
       "name": "Echoes of Aincrad",
       "normalized_name": "echoesofaincrad",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-07-10T00:00:00Z"
@@ -3347,6 +3593,7 @@
     {
       "name": "EA Sports Madden NFL 27",
       "normalized_name": "easportsmaddennfl27",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-08-13T00:00:00Z"
@@ -3354,6 +3601,7 @@
     {
       "name": "Star Wars Zero Company",
       "normalized_name": "starwarszerocompany",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "2026-08-27T00:00:00Z"
@@ -3361,6 +3609,7 @@
     {
       "name": "Onimusha - Way of the Sword",
       "normalized_name": "onimushawayofthesword",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-09-25T00:00:00Z"
@@ -3368,6 +3617,7 @@
     {
       "name": "Rayman Legends Retold",
       "normalized_name": "raymanlegendsretold",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-10-01T00:00:00Z"
@@ -3375,6 +3625,7 @@
     {
       "name": "Star Wars: Galactic Racer",
       "normalized_name": "starwarsgalacticracer",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-10-06T00:00:00Z"
@@ -3382,6 +3633,7 @@
     {
       "name": "Planet Zoo 2",
       "normalized_name": "planetzoo2",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-10-13T00:00:00Z"
@@ -3389,6 +3641,7 @@
     {
       "name": "Final Fantasy Resonance",
       "normalized_name": "finalfantasyresonance",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-10-22T00:00:00Z"
@@ -3396,6 +3649,7 @@
     {
       "name": "Phantom Blade Zero",
       "normalized_name": "phantombladezero",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-10-29T00:00:00Z"
@@ -3403,6 +3657,7 @@
     {
       "name": "Dragon Quest Monsters - The Withered World",
       "normalized_name": "dragonquestmonstersthewitheredworld",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-12-03T00:00:00Z"
@@ -3410,6 +3665,7 @@
     {
       "name": "Stranger Than Heaven",
       "normalized_name": "strangerthanheaven",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2027-01-15T00:00:00Z"
@@ -3417,6 +3673,7 @@
     {
       "name": "Tomb Raider Legacy of Atlantis",
       "normalized_name": "tombraiderlegacyofatlantis",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2027-02-12T00:00:00Z"
@@ -3424,6 +3681,7 @@
     {
       "name": "Persona 4 Revival",
       "normalized_name": "persona4revival",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2027-02-18T00:00:00Z"
@@ -3431,6 +3689,7 @@
     {
       "name": "Resident Evil Code Veronica",
       "normalized_name": "residentevilcodeveronica",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "TBA 2027"
@@ -3438,6 +3697,7 @@
     {
       "name": "Crazy Taxi World Tour",
       "normalized_name": "crazytaxiworldtour",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "TBA 2027"
@@ -3445,6 +3705,7 @@
     {
       "name": "Virtua Fighter Crossroads",
       "normalized_name": "virtuafightercrossroads",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2027"
@@ -3452,6 +3713,7 @@
     {
       "name": "Mega Man Dual Override",
       "normalized_name": "megamandualoverride",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2027"
@@ -3459,6 +3721,7 @@
     {
       "name": "Alien Isolation 2",
       "normalized_name": "alienisolation2",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2027"
@@ -3466,6 +3729,7 @@
     {
       "name": "Total War Warhammer 40K",
       "normalized_name": "totalwarwarhammer40k",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA"
@@ -3473,6 +3737,7 @@
     {
       "name": "Persona 6",
       "normalized_name": "persona6",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA"
@@ -3480,6 +3745,7 @@
     {
       "name": "Stellar Blade Blood Rain",
       "normalized_name": "stellarbladebloodrain",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA"
@@ -3487,6 +3753,7 @@
     {
       "name": "Warhammer 40,000: Chaos Gate – Deathwatch",
       "normalized_name": "warhammer40000chaosgatedeathwatch",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "TBA"
@@ -3494,6 +3761,7 @@
     {
       "name": "Atomic Heart 2",
       "normalized_name": "atomicheart2",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA"
@@ -3501,6 +3769,7 @@
     {
       "name": "Fortifyte",
       "normalized_name": "fortifyte",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "TBA"
@@ -3508,6 +3777,7 @@
     {
       "name": "Operation Lovecraft: Fallen Doll",
       "normalized_name": "operationlovecraftfallendoll",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "TBA"
@@ -3515,6 +3785,7 @@
     {
       "name": "Judas",
       "normalized_name": "judas",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA"
@@ -3522,6 +3793,7 @@
     {
       "name": "Beyond Good & Evil 2",
       "normalized_name": "beyondgoodevil2",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "TBA"
@@ -3529,6 +3801,7 @@
     {
       "name": "Wolfenstein 3",
       "normalized_name": "wolfenstein3",
+      "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA"

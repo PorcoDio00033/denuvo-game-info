@@ -9,6 +9,10 @@ import random
 import base64
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup, NavigableString
+from dotenv import load_dotenv
+
+# local dev
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(
@@ -435,11 +439,20 @@ def parse_name_cell(cell):
                     raw_name_parts.append(child.get_text())
 
     full_name = "".join(raw_name_parts).strip()
+    
+    # Check for hypervisor tag and extract it
+    hypervisor_available = False
+    hypervisor_match = re.search(r'\s*\(Hypervisor also available\)\s*$', full_name)
+    if hypervisor_match:
+        hypervisor_available = True
+        full_name = full_name[:hypervisor_match.start()].strip()
+    
     normalized = normalize_name(full_name)
     
     result = {
         "name": full_name,
-        "normalized_name": normalized
+        "normalized_name": normalized,
+        "hypervisor_available": hypervisor_available
     }
     result.update(metadata)
     return result
@@ -460,7 +473,8 @@ def parse_denuvo_html(html_content):
         "Uplay": "Protected by Uplay/Ubisoft Connect DRM",
         "Epic": "Epic Store exclusive",
         "GOG": "Steam version still uses Denuvo, GOG version available",
-        "DRM Free": "Cracked using a DRM free leak (Usually P2P)"
+        "DRM Free": "Cracked using a DRM free leak (Usually P2P)",
+        "Hypervisor": "Game also has a hypervisor bypass available by DenuvOwO"
     }
     
     # Extract UWP Note
@@ -547,7 +561,11 @@ def parse_table(table):
                 elif col_name == 'by':
                     row_data['cracked_by'] = parse_cracker_list(cell)
                 elif col_name == 'bypassed_by':
-                    row_data[col_name] = parse_cracker_list(cell)
+                    bypassed_list = parse_cracker_list(cell)
+                    row_data[col_name] = bypassed_list
+                    # Check for hypervisor in bypassed_by entries
+                    if any('hypervisor' in entry.lower() for entry in bypassed_list):
+                        row_data['hypervisor_available'] = True
                 elif col_name == 'playable_on_emulator':
                     cell_text = cell.get_text().strip()
                     if cell_text.lower().startswith('yes'):

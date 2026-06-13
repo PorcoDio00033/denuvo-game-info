@@ -79,6 +79,7 @@ The JSON file is organized into several categories:
 {
   "name": "Example Game",
   "normalized_name": "examplegame",
+  "hypervisor_available": false,
   "denuvo_assumption": false,
   "denuvo_assumption_desc": "Confirmed",
   "released": "2023-01-01T00:00:00Z",
