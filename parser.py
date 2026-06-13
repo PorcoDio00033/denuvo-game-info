@@ -28,6 +28,10 @@ REDDIT_ANON_TOKEN_URL = "https://www.reddit.com/api/v1/access_token"
 REDDIT_API_URL = "https://api.reddit.com/r/CrackWatch/comments/p9ak4n/crack_watch_games"
 REDDIT_OAUTH_URL = "https://oauth.reddit.com/r/CrackWatch/comments/p9ak4n/.json"
 
+# VR games thread URLs
+REDDIT_VR_API_URL = "https://api.reddit.com/r/CrackWatch/comments/fs9xy2/crack_watch_vr_games_and_games_that_require"
+REDDIT_VR_OAUTH_URL = "https://oauth.reddit.com/r/CrackWatch/comments/fs9xy2/.json"
+
 OUTPUT_FILE = "denuvo_games.json"
 OUTPUT_CSV = "denuvo_games.csv"
 
@@ -214,11 +218,19 @@ class RedditClient:
             raise ValueError("selftext_html not found in Reddit response")
         return selftext_html
 
-    def fetch_reddit_thread(self) -> str:
-        """Fetches the Reddit thread and extracts selftext_html.
+    def fetch_reddit_thread(
+        self,
+        api_url: str = REDDIT_API_URL,
+        oauth_url: str = REDDIT_OAUTH_URL,
+    ) -> str:
+        """Fetches a Reddit thread and extracts selftext_html.
 
         Uses OAuth + proxies if configured, otherwise falls back to
         unauthenticated direct request.
+
+        Args:
+            api_url: Public API URL (used when no OAuth).
+            oauth_url: OAuth URL (used when OAuth credentials available).
         """
         use_oauth = bool(self.client_id and self.user_agent)
 
@@ -238,9 +250,8 @@ class RedditClient:
                 )
                 use_proxy = False
 
-            url = REDDIT_API_URL
             try:
-                response = self.request(url, use_proxy=use_proxy)
+                response = self.request(api_url, use_proxy=use_proxy)
                 return self._parse_response(response)
             except Exception as e:
                 if use_proxy:
@@ -252,7 +263,6 @@ class RedditClient:
                 raise
 
         # OAuth path (with or without proxies)
-        url = REDDIT_OAUTH_URL
         logger.info("Attempting connection with anonymous OAuth.")
 
         try:
@@ -260,7 +270,7 @@ class RedditClient:
             use_proxy = bool(self._proxy_pool)
             if use_proxy:
                 logger.info(f"Using {len(self._proxy_pool)} proxies. Max retries: {self.MAX_RETRIES}")
-            response = self.request(url, use_proxy=use_proxy)
+            response = self.request(oauth_url, use_proxy=use_proxy)
             return self._parse_response(response)
         except Exception as e:
             logger.error(f"OAuth request failed: {e}")
@@ -271,7 +281,7 @@ class RedditClient:
                 )
                 raise
             logger.warning("Falling back to unauthenticated request.")
-            return self._fetch_direct(REDDIT_API_URL)
+            return self._fetch_direct(api_url)
 
     def _fetch_direct(self, url: str) -> str:
         """Performs a direct (non-proxy, non-OAuth) request."""
@@ -319,17 +329,169 @@ def get_proxy_pool():
     return list(set(proxies))
 
 
-def fetch_reddit_data() -> str:
-    """Fetches the Reddit thread and extracts selftext_html.
+def fetch_reddit_data(client: RedditClient) -> str:
+    """Fetches the main Denuvo games Reddit thread and extracts selftext_html.
 
-    Uses RedditClient internally for unified request handling.
-    Kept for backward compatibility.
+    Uses the provided RedditClient instance.
     """
-    with RedditClient(
-        client_id=REDDIT_CLIENT_ID,
-        user_agent=REDDIT_USER_AGENT
-    ) as client:
-        return client.fetch_reddit_thread()
+    return client.fetch_reddit_thread()
+
+
+def fetch_vr_games_data(client: RedditClient) -> str:
+    """Fetches the VR games Reddit thread and extracts selftext_html.
+
+    Reuses the provided RedditClient with VR-specific thread URLs.
+    """
+    return client.fetch_reddit_thread(
+        api_url=REDDIT_VR_API_URL,
+        oauth_url=REDDIT_VR_OAUTH_URL,
+    )
+
+
+def parse_vr_games_html(html_content) -> list[dict]:
+    """Parses the VR games HTML content, extracting only VR GAMES tables.
+
+    Returns a list of game dicts with fields:
+    name, normalized_name, released, cracked, by
+    """
+    unescaped_html = html.unescape(html_content)
+    soup = BeautifulSoup(unescaped_html, 'html.parser')
+
+    vr_games = []
+
+    # Find all <p> tags containing "VR GAMES" in <strong>
+    vr_headers = []
+    for p in soup.find_all('p'):
+        strong = p.find('strong')
+        if strong and 'VR GAMES' in strong.get_text().strip():
+            vr_headers.append(p)
+
+    if not vr_headers:
+        logger.warning("No VR GAMES headers found in HTML.")
+        return vr_games
+
+    # only first "VR GAMES" table (under the <h1>Denuvo</h1> section) contains vr protected denuvo games.
+    header = vr_headers[0]
+
+    # Find the next sibling table after the header <p>
+    next_element = header.find_next_sibling()
+    while next_element and next_element.name != 'table':
+        if next_element.name in ['h1', 'h2', 'hr', 'p']:
+            if next_element.name == 'p' and next_element.find('strong'):
+                break
+        next_element = next_element.find_next_sibling()
+
+    if next_element and next_element.name == 'table':
+        logger.info("Found VR GAMES table (Denuvo)")
+        table = next_element
+        tbody = table.find('tbody')
+        if not tbody:
+            tbody = table
+
+        for row in tbody.find_all('tr'):
+            cells = row.find_all('td')
+            if len(cells) < 4:
+                continue
+
+            name_text = cells[0].get_text().strip()
+            released_text = cells[1].get_text().strip()
+            cracked_text = cells[2].get_text().strip()
+            by_text = cells[3].get_text().strip()
+
+            if not name_text:
+                continue
+
+            game = {
+                "name": name_text,
+                "normalized_name": normalize_name(name_text),
+                "released": parse_date(released_text) if released_text else None,
+                "cracked": parse_date(cracked_text) if cracked_text and cracked_text.lower() != 'never' else None,
+                "by": by_text if by_text else None,
+            }
+            vr_games.append(game)
+
+    logger.info(f"Parsed {len(vr_games)} VR games.")
+    return vr_games
+
+
+def merge_vr_into_sections(parsed_data: dict, vr_games: list[dict]) -> dict:
+    """Routes each VR game into the appropriate section of parsed_data.
+
+    Routing rules:
+    - "By" contains "Hypervisor workaround" → bypassed_denuvo_games
+    - "Cracked" has date + "By" has cracker + released >= 2021 → cracked_denuvo_games_(2021-present)
+    - "Cracked" has date + "By" has cracker + released < 2021 → older_cracked_denuvo_games_(2014-2020)
+    - "Cracked" is empty/None or "Never" + "By" is empty → uncracked_denuvo_games
+    """
+    for game in vr_games:
+        name = game["name"]
+        normalized_name = game["normalized_name"]
+        released = game["released"]
+        cracked = game["cracked"]
+        by = game["by"]
+
+        # VR games have simpler schemas: no store_link, no store_id, no DRM markers
+        base_entry = {
+            "name": name,
+            "normalized_name": normalized_name,
+            "hypervisor_available": False,
+            "denuvo_assumption": False,
+            "denuvo_assumption_desc": "Confirmed"
+        }
+
+        # Determine release year for section routing
+        release_year = None
+        if released:
+            try:
+                release_year = datetime.strptime(released, "%Y-%m-%dT00:00:00Z").year
+            except (ValueError, TypeError):
+                release_year = None
+
+        # Classification logic
+        is_hypervisor = by and "hypervisor" in by.lower()
+        is_cracked = cracked is not None
+        has_cracker = by is not None and not is_hypervisor
+
+        if is_hypervisor:
+            # Hypervisor workaround → bypassed section
+            entry = base_entry.copy()
+            entry["hypervisor_available"] = True
+            entry["released"] = released
+            entry["bypassed_by"] = [by] if by else []
+
+            section = "bypassed_denuvo_games"
+            parsed_data.setdefault(section, []).append(entry)
+            logger.info(f"  VR game '{name}' → {section} (hypervisor)")
+
+        elif is_cracked and has_cracker:
+            # Cracked with known cracker
+            entry = base_entry.copy()
+            entry["crack_status"] = "fully_cracked"
+            entry["crack_status_desc"] = "latest update is cracked with all the DLC's"
+            entry["released"] = released
+            entry["cracked"] = cracked
+            entry["cracked_by"] = [
+                p.strip() for p in re.split(r'\s*[/+]\s*', by) if p.strip()
+            ]
+
+            if release_year and release_year >= 2021:
+                section = "cracked_denuvo_games_(2021-present)"
+            else:
+                section = "older_cracked_denuvo_games_(2014-2020)"
+
+            parsed_data.setdefault(section, []).append(entry)
+            logger.info(f"  VR game '{name}' → {section} (cracked)")
+
+        else:
+            # Uncracked (no crack date, no cracker, or "Never")
+            entry = base_entry.copy()
+            entry["released"] = released
+
+            section = "uncracked_denuvo_games"
+            parsed_data.setdefault(section, []).append(entry)
+            logger.info(f"  VR game '{name}' → {section} (uncracked)")
+
+    return parsed_data
 
 
 def normalize_name(name):
@@ -660,21 +822,38 @@ def save_to_csv(data, filepath):
     logger.info(f"Saved data to {filepath}")
 
 def main():
+    client = RedditClient(
+        client_id=REDDIT_CLIENT_ID,
+        user_agent=REDDIT_USER_AGENT,
+    )
     try:
-        html_content = fetch_reddit_data()
+        # Fetch and parse main Denuvo games data
+        html_content = fetch_reddit_data(client)
         parsed_data = parse_denuvo_html(html_content)
-        
+
         if not parsed_data:
             logger.warning("No data parsed! Check the HTML structure or selectors.")
         else:
             logger.info(f"Parsed {len(parsed_data)} sections.")
-            
+
+        # Fetch and parse VR games data
+        try:
+            vr_html = fetch_vr_games_data(client)
+            vr_games = parse_vr_games_html(vr_html)
+            if vr_games:
+                logger.info(f"Merging {len(vr_games)} VR games into sections...")
+                parsed_data = merge_vr_into_sections(parsed_data, vr_games)
+        except Exception as e:
+            logger.error(f"Failed to fetch or parse VR games data: {e}")
+
         save_to_json(parsed_data, OUTPUT_FILE)
         save_to_csv(parsed_data, OUTPUT_CSV)
-        
+
     except Exception as e:
         logger.error(f"Script failed: {e}")
         exit(1)
+    finally:
+        client.close()
 
 if __name__ == "__main__":
     main()
