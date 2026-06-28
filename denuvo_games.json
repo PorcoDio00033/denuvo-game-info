@@ -3773,8 +3773,8 @@
       "release": "2027-02-18T00:00:00Z"
     },
     {
-      "name": "Resident Evil Code Veronica",
-      "normalized_name": "residentevilcodeveronica",
+      "name": "Resident Evil Veronica",
+      "normalized_name": "residentevilveronica",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -3824,8 +3824,8 @@
       "name": "Persona 6",
       "normalized_name": "persona6",
       "hypervisor_available": false,
-      "denuvo_assumption": true,
-      "denuvo_assumption_desc": "Assumption",
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
       "release": "TBA"
     },
     {
