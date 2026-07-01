@@ -32,8 +32,8 @@
       "store_id": "2215260"
     },
     {
-      "name": "Persona 5 Strikers",
-      "normalized_name": "persona5strikers",
+      "name": "Persona 5 Strikers (HV)",
+      "normalized_name": "persona5strikershv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -79,9 +79,9 @@
       "store_id": "700600"
     },
     {
-      "name": "Shin Megami Tensei III: Nocturne HD Remaster",
-      "normalized_name": "shinmegamitenseiiiinocturnehdremaster",
-      "hypervisor_available": true,
+      "name": "Shin Megami Tensei III: Nocturne HD Remaster (HV)",
+      "normalized_name": "shinmegamitenseiiiinocturnehdremasterhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -127,8 +127,8 @@
       "store_id": "2055290"
     },
     {
-      "name": "Deathloop",
-      "normalized_name": "deathloop",
+      "name": "Deathloop (HV)",
+      "normalized_name": "deathloophv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -159,9 +159,9 @@
       "store_id": "1506830"
     },
     {
-      "name": "Far Cry 6",
-      "normalized_name": "farcry6",
-      "hypervisor_available": true,
+      "name": "Far Cry 6 (HV)",
+      "normalized_name": "farcry6hv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -192,9 +192,9 @@
       "store_id": "1088850"
     },
     {
-      "name": "Jurassic World Evolution 2",
-      "normalized_name": "jurassicworldevolution2",
-      "hypervisor_available": true,
+      "name": "Jurassic World Evolution 2 (HV)",
+      "normalized_name": "jurassicworldevolution2hv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -225,9 +225,9 @@
       "store_id": "1692250"
     },
     {
-      "name": "Judgment",
-      "normalized_name": "judgment",
-      "hypervisor_available": true,
+      "name": "Judgment (HV)",
+      "normalized_name": "judgmenthv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "fully_cracked",
@@ -257,9 +257,9 @@
       "store_id": "1811260"
     },
     {
-      "name": "Persona 5 Royal",
-      "normalized_name": "persona5royal",
-      "hypervisor_available": true,
+      "name": "Persona 5 Royal (HV)",
+      "normalized_name": "persona5royalhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -305,8 +305,8 @@
       "store_id": "1237320"
     },
     {
-      "name": "Dead Space Remake",
-      "normalized_name": "deadspaceremake",
+      "name": "Dead Space Remake (HV)",
+      "normalized_name": "deadspaceremakehv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -338,9 +338,9 @@
       "store_id": "990080"
     },
     {
-      "name": "Wild Hearts",
-      "normalized_name": "wildhearts",
-      "hypervisor_available": true,
+      "name": "Wild Hearts (HV)",
+      "normalized_name": "wildheartshv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -355,9 +355,9 @@
       "store_id": "1938010"
     },
     {
-      "name": "Atomic Heart",
-      "normalized_name": "atomicheart",
-      "hypervisor_available": true,
+      "name": "Atomic Heart (HV)",
+      "normalized_name": "atomichearthv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -533,9 +533,9 @@
       "store_id": "1941540"
     },
     {
-      "name": "Resident Evil Requiem",
-      "normalized_name": "residentevilrequiem",
-      "hypervisor_available": true,
+      "name": "Resident Evil Requiem (HV)",
+      "normalized_name": "residentevilrequiemhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -554,8 +554,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2026-04-17T00:00:00Z",
       "cracked": "2026-05-14T00:00:00Z",
       "cracked_by": [
@@ -581,9 +581,9 @@
       "store_id": "2215200"
     },
     {
-      "name": "007 First Light",
-      "normalized_name": "007firstlight",
-      "hypervisor_available": true,
+      "name": "007 First Light (HV)",
+      "normalized_name": "007firstlighthv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -1903,6 +1903,19 @@
       "store_id": "3483510"
     },
     {
+      "name": "Monopoly: Star Wars Heroes vs. Villains",
+      "normalized_name": "monopolystarwarsheroesvsvillains",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-06-30T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3936610",
+      "store_id": "3936610"
+    },
+    {
       "name": "Gunjack",
       "normalized_name": "gunjack",
       "hypervisor_available": true,
@@ -2019,9 +2032,9 @@
       "store_id": "1238880"
     },
     {
-      "name": "Metal Gear Solid V: The Phantom Pain",
-      "normalized_name": "metalgearsolidvthephantompain",
-      "hypervisor_available": true,
+      "name": "Metal Gear Solid V: The Phantom Pain (HV)",
+      "normalized_name": "metalgearsolidvthephantompainhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
@@ -2380,8 +2393,8 @@
       "store_id": "312660"
     },
     {
-      "name": "Ghost Recon Wildlands",
-      "normalized_name": "ghostreconwildlands",
+      "name": "Ghost Recon Wildlands (HV)",
+      "normalized_name": "ghostreconwildlandshv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -2593,9 +2606,9 @@
       "store_id": "594570"
     },
     {
-      "name": "FIFA 18",
-      "normalized_name": "fifa18",
-      "hypervisor_available": true,
+      "name": "FIFA 18 (HV)",
+      "normalized_name": "fifa18hv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -2626,9 +2639,9 @@
       "store_id": "488790"
     },
     {
-      "name": "Assassin's Creed: Origins",
-      "normalized_name": "assassinscreedorigins",
-      "hypervisor_available": true,
+      "name": "Assassin's Creed: Origins (HV)",
+      "normalized_name": "assassinscreedoriginshv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -2660,9 +2673,9 @@
       "store_id": "637100"
     },
     {
-      "name": "Need For Speed Payback",
-      "normalized_name": "needforspeedpayback",
-      "hypervisor_available": true,
+      "name": "Need For Speed Payback (HV)",
+      "normalized_name": "needforspeedpaybackhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -2741,8 +2754,8 @@
       "store_id": "1225580"
     },
     {
-      "name": "SWORD ART ONLINE: Fatal Bullet",
-      "normalized_name": "swordartonlinefatalbullet",
+      "name": "SWORD ART ONLINE: Fatal Bullet (HV)",
+      "normalized_name": "swordartonlinefatalbullethv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -2759,8 +2772,8 @@
       "store_id": "626690"
     },
     {
-      "name": "Puyo Puyo Tetris",
-      "normalized_name": "puyopuyotetris",
+      "name": "Puyo Puyo Tetris (HV)",
+      "normalized_name": "puyopuyotetrishv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -2776,9 +2789,9 @@
       "store_id": "546050"
     },
     {
-      "name": "Far Cry 5",
-      "normalized_name": "farcry5",
-      "hypervisor_available": true,
+      "name": "Far Cry 5 (HV)",
+      "normalized_name": "farcry5hv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3021,9 +3034,9 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Assassin's Creed: Odyssey",
-      "normalized_name": "assassinscreedodyssey",
-      "hypervisor_available": true,
+      "name": "Assassin's Creed: Odyssey HV)",
+      "normalized_name": "assassinscreedodysseyhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3103,9 +3116,9 @@
       "store_id": "953580"
     },
     {
-      "name": "Far Cry New Dawn",
-      "normalized_name": "farcrynewdawn",
-      "hypervisor_available": true,
+      "name": "Far Cry New Dawn (HV)",
+      "normalized_name": "farcrynewdawnhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3266,9 +3279,9 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Planet Zoo",
-      "normalized_name": "planetzoo",
-      "hypervisor_available": true,
+      "name": "Planet Zoo (HV)",
+      "normalized_name": "planetzoohv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -3315,9 +3328,9 @@
       "store_id": "1100600"
     },
     {
-      "name": "Zombie Army 4: Dead War",
-      "normalized_name": "zombiearmy4deadwar",
-      "hypervisor_available": true,
+      "name": "Zombie Army 4: Dead War (HV)",
+      "normalized_name": "zombiearmy4deadwarhv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_dlc",
@@ -3363,8 +3376,8 @@
       "store_id": "1113000"
     },
     {
-      "name": "Total War Saga: Troy",
-      "normalized_name": "totalwarsagatroy",
+      "name": "Total War Saga: Troy (HV)",
+      "normalized_name": "totalwarsagatroyhv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -3460,9 +3473,9 @@
       "store_id": "1328660"
     },
     {
-      "name": "Assassin's Creed: Valhalla",
-      "normalized_name": "assassinscreedvalhalla",
-      "hypervisor_available": true,
+      "name": "Assassin's Creed: Valhalla (HV)",
+      "normalized_name": "assassinscreedvalhallahv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -3645,24 +3658,8 @@
   ],
   "upcoming_denuvo_games": [
     {
-      "name": "Monopoly: Star Wars Heroes vs. Villains",
-      "normalized_name": "monopolystarwarsheroesvsvillains",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-06-30T00:00:00Z"
-    },
-    {
       "name": "Assassin's Creed Black Flag Resynced",
       "normalized_name": "assassinscreedblackflagresynced",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-07-09T00:00:00Z"
-    },
-    {
-      "name": "EA Sports College Football 27",
-      "normalized_name": "easportscollegefootball27",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -3811,6 +3808,14 @@
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2027"
+    },
+    {
+      "name": "Alien Deathstorm",
+      "normalized_name": "aliendeathstorm",
+      "hypervisor_available": false,
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "TBA"
     },
     {
       "name": "Total War Warhammer 40K",
