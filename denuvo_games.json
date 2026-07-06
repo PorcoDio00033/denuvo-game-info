@@ -355,17 +355,18 @@
       "store_id": "1938010"
     },
     {
-      "name": "Atomic Heart (HV)",
-      "normalized_name": "atomichearthv",
+      "name": "Atomic Heart",
+      "normalized_name": "atomicheart",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_dlc",
-      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2023-02-21T00:00:00Z",
       "cracked": "2023-02-18T00:00:00Z",
       "cracked_by": [
-        "MrLemon"
+        "MrLemon",
+        "voices38"
       ],
       "store_link": "https://store.steampowered.com/app/668580",
       "store_id": "668580"
@@ -376,8 +377,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2023-06-01T00:00:00Z",
       "cracked": "2023-06-01T00:00:00Z",
       "cracked_by": [
@@ -392,8 +393,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2023-06-01T00:00:00Z",
       "cracked": "2023-06-01T00:00:00Z",
       "cracked_by": [
@@ -408,8 +409,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2023-06-01T00:00:00Z",
       "cracked": "2023-06-01T00:00:00Z",
       "cracked_by": [
@@ -419,9 +420,9 @@
       "store_id": "1810820"
     },
     {
-      "name": "Assassins Creed Mirage",
-      "normalized_name": "assassinscreedmirage",
-      "hypervisor_available": true,
+      "name": "Assassins Creed Mirage (HV)",
+      "normalized_name": "assassinscreedmiragehv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -437,9 +438,9 @@
       "store_id": "3035570"
     },
     {
-      "name": "Dragon's Dogma 2",
-      "normalized_name": "dragonsdogma2",
-      "hypervisor_available": true,
+      "name": "Dragon's Dogma 2 (HV)",
+      "normalized_name": "dragonsdogma2hv",
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "crack_status": "missing_updates",
