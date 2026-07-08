@@ -486,22 +486,6 @@
       "store_id": "2604480"
     },
     {
-      "name": "Doom: The Dark Ages",
-      "normalized_name": "doomthedarkages",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2025-05-15T00:00:00Z",
-      "cracked": "2026-03-13T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/3017860",
-      "store_id": "3017860"
-    },
-    {
       "name": "Stellar Blade",
       "normalized_name": "stellarblade",
       "hypervisor_available": false,
