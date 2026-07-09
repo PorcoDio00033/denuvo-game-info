@@ -1893,12 +1893,27 @@
       "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
       "released": "2026-06-30T00:00:00Z",
       "bypassed_by": [
         "Hypervisor workaround by DenuvOwO"
       ],
       "store_link": "https://store.steampowered.com/app/3936610",
       "store_id": "3936610"
+    },
+    {
+      "name": "Assassin's Creed Black Flag Resynced",
+      "normalized_name": "assassinscreedblackflagresynced",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "released": "2026-07-09T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/3751950",
+      "store_id": "3751950"
     },
     {
       "name": "Gunjack",
@@ -3350,8 +3365,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2020-06-13T00:00:00Z",
       "cracked": "2020-07-02T00:00:00Z",
       "cracked_by": [
@@ -3642,14 +3657,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Assassin's Creed Black Flag Resynced",
-      "normalized_name": "assassinscreedblackflagresynced",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-07-09T00:00:00Z"
-    },
     {
       "name": "Echoes of Aincrad",
       "normalized_name": "echoesofaincrad",
