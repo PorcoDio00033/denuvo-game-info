@@ -1691,19 +1691,6 @@
       "store_id": "1004640"
     },
     {
-      "name": "Digimon Story Time Stranger",
-      "normalized_name": "digimonstorytimestranger",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-10-03T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/1984270",
-      "store_id": "1984270"
-    },
-    {
       "name": "Jurassic World Evolution 3",
       "normalized_name": "jurassicworldevolution3",
       "hypervisor_available": true,
