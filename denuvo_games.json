@@ -486,6 +486,23 @@
       "store_id": "2604480"
     },
     {
+      "name": "Assassins Creed Shadows",
+      "normalized_name": "assassinscreedshadows",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2025-03-20T00:00:00Z",
+      "cracked": "2026-07-17T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/3159330",
+      "store_id": "3159330"
+    },
+    {
       "name": "Stellar Blade",
       "normalized_name": "stellarblade",
       "hypervisor_available": false,
@@ -1520,20 +1537,6 @@
       "store_id": "2185060"
     },
     {
-      "name": "Assassins Creed Shadows",
-      "normalized_name": "assassinscreedshadows",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2025-03-20T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/3159330",
-      "store_id": "3159330"
-    },
-    {
       "name": "Atomfall",
       "normalized_name": "atomfall",
       "hypervisor_available": true,
@@ -1780,7 +1783,7 @@
       "bypassed_by": [
         "Hypervisor workaround by DenuvOwO"
       ],
-      "store_link": "https://store.steampowered.com/app/2833580/",
+      "store_link": "https://store.steampowered.com/app/2833580",
       "store_id": "2833580"
     },
     {
@@ -1914,6 +1917,19 @@
       ],
       "store_link": "https://store.steampowered.com/app/2244210",
       "store_id": "2244210"
+    },
+    {
+      "name": "eBaseball™: PRO SPIRIT",
+      "normalized_name": "ebaseballprospirit",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-07-15T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/app/4128400",
+      "store_id": "4128400"
     },
     {
       "name": "Gunjack",
@@ -3034,7 +3050,7 @@
       "store_link": "Unavailable"
     },
     {
-      "name": "Assassin's Creed: Odyssey HV)",
+      "name": "Assassin's Creed: Odyssey (HV)",
       "normalized_name": "assassinscreedodysseyhv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
@@ -3679,7 +3695,7 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-09-25T00:00:00Z"
+      "release": "2026-09-04T00:00:00Z"
     },
     {
       "name": "Rayman Legends Retold",
