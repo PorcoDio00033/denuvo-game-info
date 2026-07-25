@@ -503,6 +503,22 @@
       "store_id": "3159330"
     },
     {
+      "name": "The First Berserker: Khazan",
+      "normalized_name": "thefirstberserkerkhazan",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2025-03-27T00:00:00Z",
+      "cracked": "2026-07-24T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2680010",
+      "store_id": "2680010"
+    },
+    {
       "name": "Stellar Blade",
       "normalized_name": "stellarblade",
       "hypervisor_available": false,
@@ -551,8 +567,8 @@
       "store_id": "3764200"
     },
     {
-      "name": "Pragmata",
-      "normalized_name": "pragmata",
+      "name": "Pragmata (HV)",
+      "normalized_name": "pragmatahv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -567,8 +583,8 @@
       "store_id": "3357650"
     },
     {
-      "name": "LEGO Batman Legacy of the Dark Knight",
-      "normalized_name": "legobatmanlegacyofthedarkknight",
+      "name": "LEGO Batman Legacy of the Dark Knight (HV)",
+      "normalized_name": "legobatmanlegacyofthedarkknighthv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -581,22 +597,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/2215200",
       "store_id": "2215200"
-    },
-    {
-      "name": "007 First Light (HV)",
-      "normalized_name": "007firstlighthv",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2026-05-27T00:00:00Z",
-      "cracked": "2026-06-09T00:00:00Z",
-      "cracked_by": [
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/3768760/",
-      "store_id": "3768760"
     }
   ],
   "bypassed_denuvo_games": [
@@ -1548,19 +1548,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/801800",
       "store_id": "801800"
-    },
-    {
-      "name": "The First Berserker: Khazan",
-      "normalized_name": "thefirstberserkerkhazan",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-03-27T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/2680010",
-      "store_id": "2680010"
     },
     {
       "name": "F1 2025",
@@ -2742,8 +2729,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2017-11-28T00:00:00Z",
       "cracked": "2018-01-27T00:00:00Z",
       "cracked_by": [
@@ -3023,8 +3010,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2018-09-27T00:00:00Z",
       "cracked": "2019-01-16T00:00:00Z",
       "cracked_by": [
@@ -3376,8 +3363,8 @@
       "store_id": "629820"
     },
     {
-      "name": "Persona 4 Golden (32 bit)",
-      "normalized_name": "persona4golden32bit",
+      "name": "Persona 4 Golden (32 bit) (HV)",
+      "normalized_name": "persona4golden32bithv",
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
@@ -3696,6 +3683,14 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "release": "2026-09-04T00:00:00Z"
+    },
+    {
+      "name": "EA FC 27",
+      "normalized_name": "eafc27",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2026-09-27T00:00:00Z"
     },
     {
       "name": "Rayman Legends Retold",
