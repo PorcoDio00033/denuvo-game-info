@@ -604,7 +604,7 @@ def parse_name_cell(cell):
     
     # Check for hypervisor tag and extract it
     hypervisor_available = False
-    hypervisor_match = re.search(r'\s*\(Hypervisor also available\)\s*$', full_name)
+    hypervisor_match = re.search(r'\s*\(Hypervisor also available\)\s*$|\s*\(HV\)\s*$', full_name)
     if hypervisor_match:
         hypervisor_available = True
         full_name = full_name[:hypervisor_match.start()].strip()
