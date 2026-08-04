@@ -355,23 +355,6 @@
       "store_id": "1938010"
     },
     {
-      "name": "Atomic Heart",
-      "normalized_name": "atomicheart",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2023-02-21T00:00:00Z",
-      "cracked": "2023-02-18T00:00:00Z",
-      "cracked_by": [
-        "MrLemon",
-        "voices38"
-      ],
-      "store_link": "https://store.steampowered.com/app/668580",
-      "store_id": "668580"
-    },
-    {
       "name": "Etrian Odyssey HD",
       "normalized_name": "etrianodysseyhd",
       "hypervisor_available": false,
