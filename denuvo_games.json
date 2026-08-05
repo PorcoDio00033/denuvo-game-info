@@ -421,6 +421,23 @@
       "store_id": "3035570"
     },
     {
+      "name": "Avatar: Frontiers of Pandora",
+      "normalized_name": "avatarfrontiersofpandora",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2023-12-07T00:00:00Z",
+      "cracked": "2026-08-03T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2840770",
+      "store_id": "2840770"
+    },
+    {
       "name": "Dragon's Dogma 2",
       "normalized_name": "dragonsdogma2",
       "hypervisor_available": true,
@@ -548,6 +565,22 @@
       ],
       "store_link": "https://store.steampowered.com/app/3764200/",
       "store_id": "3764200"
+    },
+    {
+      "name": "Crimson Desert",
+      "normalized_name": "crimsondesert",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "released": "2026-03-19T00:00:00Z",
+      "cracked": "2026-08-04T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/3321460/",
+      "store_id": "3321460"
     },
     {
       "name": "Pragmata",
@@ -1144,20 +1177,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/1849250",
       "store_id": "1849250"
-    },
-    {
-      "name": "Avatar: Frontiers of Pandora",
-      "normalized_name": "avatarfrontiersofpandora",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "released": "2023-12-07T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/2840770",
-      "store_id": "2840770"
     },
     {
       "name": "Prince of Persia: The Lost Crown",
@@ -1767,19 +1786,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/3717070",
       "store_id": "3717070"
-    },
-    {
-      "name": "Crimson Desert",
-      "normalized_name": "crimsondesert",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-03-19T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/agecheck/app/3321460/",
-      "store_id": "3321460"
     },
     {
       "name": "Life is Strange: Reunion",
