@@ -3636,14 +3636,6 @@
   ],
   "upcoming_denuvo_games": [
     {
-      "name": "EA Sports Madden NFL 27",
-      "normalized_name": "easportsmaddennfl27",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-08-13T00:00:00Z"
-    },
-    {
       "name": "Star Wars Zero Company",
       "normalized_name": "starwarszerocompany",
       "hypervisor_available": false,
