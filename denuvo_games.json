@@ -3322,22 +3322,6 @@
       "store_id": "694280"
     },
     {
-      "name": "Maneater",
-      "normalized_name": "maneater",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
-      "released": "2020-05-22T00:00:00Z",
-      "cracked": "2022-10-14T00:00:00Z",
-      "cracked_by": [
-        "EMPRESS"
-      ],
-      "store_link": "https://store.steampowered.com/agecheck/app/629820/",
-      "store_id": "629820"
-    },
-    {
       "name": "Persona 4 Golden (32 bit)",
       "normalized_name": "persona4golden32bit",
       "hypervisor_available": true,
