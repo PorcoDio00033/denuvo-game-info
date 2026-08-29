@@ -3610,14 +3610,6 @@
   ],
   "upcoming_denuvo_games": [
     {
-      "name": "Star Wars Zero Company",
-      "normalized_name": "starwarszerocompany",
-      "hypervisor_available": false,
-      "denuvo_assumption": true,
-      "denuvo_assumption_desc": "Assumption",
-      "release": "2026-08-27T00:00:00Z"
-    },
-    {
       "name": "Onimusha - Way of the Sword",
       "normalized_name": "onimushawayofthesword",
       "hypervisor_available": false,
