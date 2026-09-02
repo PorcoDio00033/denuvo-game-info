@@ -572,8 +572,8 @@
       "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "crack_status": "missing_dlc",
+      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2026-03-19T00:00:00Z",
       "cracked": "2026-08-04T00:00:00Z",
       "cracked_by": [
@@ -617,12 +617,12 @@
     {
       "name": "Assassin's Creed Black Flag Resynced",
       "normalized_name": "assassinscreedblackflagresynced",
-      "hypervisor_available": false,
+      "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2026-07-09T00:00:00Z",
       "cracked": "2026-08-15T00:00:00Z",
       "cracked_by": [
@@ -2367,8 +2367,8 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_dlc",
+      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2017-03-07T00:00:00Z",
       "cracked": "2017-07-24T00:00:00Z",
       "cracked_by": [
@@ -3706,6 +3706,22 @@
       "release": "2027-02-18T00:00:00Z"
     },
     {
+      "name": "Metro 2039",
+      "normalized_name": "metro2039",
+      "hypervisor_available": false,
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "TBA February 2027"
+    },
+    {
+      "name": "Tom Clancy's Rainbow Six Tactics",
+      "normalized_name": "tomclancysrainbowsixtactics",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "TBA 2027"
+    },
+    {
       "name": "Resident Evil Veronica",
       "normalized_name": "residentevilveronica",
       "hypervisor_available": false,
@@ -3744,6 +3760,14 @@
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2027"
+    },
+    {
+      "name": "Heroes of Might and Magic III Remake",
+      "normalized_name": "heroesofmightandmagiciiiremake",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "TBA"
     },
     {
       "name": "Alien Deathstorm",
