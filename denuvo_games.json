@@ -73,7 +73,7 @@
       "released": "2021-03-30T00:00:00Z",
       "cracked": "2022-06-16T00:00:00Z",
       "cracked_by": [
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/700600",
       "store_id": "700600"
@@ -170,7 +170,7 @@
       "released": "2021-10-07T00:00:00Z",
       "cracked": "2022-06-02T00:00:00Z",
       "cracked_by": [
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/2369390/",
       "store_id": "2369390"
@@ -186,7 +186,7 @@
       "released": "2021-10-26T00:00:00Z",
       "cracked": "2022-06-30T00:00:00Z",
       "cracked_by": [
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/1088850",
       "store_id": "1088850"
@@ -436,22 +436,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/2840770",
       "store_id": "2840770"
-    },
-    {
-      "name": "Dragon's Dogma 2",
-      "normalized_name": "dragonsdogma2",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
-      "released": "2024-03-22T00:00:00Z",
-      "cracked": "2024-11-16T00:00:00Z",
-      "cracked_by": [
-        "rain0x06"
-      ],
-      "store_link": "https://store.steampowered.com/app/2054970",
-      "store_id": "2054970"
     },
     {
       "name": "Black Myth Wukong",
@@ -1962,7 +1946,8 @@
       "released": "2014-09-23T00:00:00Z",
       "cracked": "2015-02-01T00:00:00Z",
       "cracked_by": [
-        "3DM (Fixed by CPY)"
+        "3DM",
+        "CPY"
       ],
       "store_link": "Unavailable"
     },
@@ -1977,7 +1962,8 @@
       "released": "2014-11-18T00:00:00Z",
       "cracked": "2014-12-18T00:00:00Z",
       "cracked_by": [
-        "3DM (Fixed by CPY)",
+        "3DM",
+        "CPY",
         "merumeru"
       ],
       "store_link": "https://store.steampowered.com/app/1222690",
@@ -2010,8 +1996,9 @@
       "released": "2015-09-01T00:00:00Z",
       "cracked": "2015-09-10T00:00:00Z",
       "cracked_by": [
-        "3DM (Fixed by CPY)",
-        "CODEX"
+        "3DM",
+        "CPY",
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/287700",
       "store_id": "287700"
@@ -2374,7 +2361,7 @@
       "cracked_by": [
         "STEAMPUNKS (Fixed by CPY)",
         "DeltaT",
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/460930",
       "store_id": "460930"
@@ -2568,7 +2555,7 @@
         "DeltaT",
         "c000005",
         "PARADOX",
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/594570",
       "store_id": "594570"
@@ -2619,7 +2606,7 @@
       "cracked": "2018-02-03T00:00:00Z",
       "cracked_by": [
         "CPY",
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/582160",
       "store_id": "582160"
@@ -2683,7 +2670,7 @@
       "cracked": "2019-06-28T00:00:00Z",
       "cracked_by": [
         "CODEX",
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/1237950",
       "store_id": "1237950"
@@ -2769,7 +2756,7 @@
       "cracked": "2018-04-15T00:00:00Z",
       "cracked_by": [
         "CPY",
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/552520",
       "store_id": "552520"
@@ -2785,7 +2772,7 @@
       "released": "2018-06-09T00:00:00Z",
       "cracked": "2018-09-11T00:00:00Z",
       "cracked_by": [
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/1225570",
       "store_id": "1225570"
@@ -2802,7 +2789,7 @@
       "cracked": "2018-09-25T00:00:00Z",
       "cracked_by": [
         "CODEX",
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/648350",
       "store_id": "648350"
@@ -2932,7 +2919,7 @@
       "released": "2018-09-04T00:00:00Z",
       "cracked": "2019-06-26T00:00:00Z",
       "cracked_by": [
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/650510",
       "store_id": "650510"
@@ -2964,7 +2951,7 @@
       "released": "2018-09-25T00:00:00Z",
       "cracked": "2019-01-25T00:00:00Z",
       "cracked_by": [
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/790820",
       "store_id": "790820"
@@ -3095,7 +3082,7 @@
       "released": "2019-02-15T00:00:00Z",
       "cracked": "2019-02-22T00:00:00Z",
       "cracked_by": [
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://steampowered.com/app/939960",
       "store_id": "939960"
@@ -3195,7 +3182,7 @@
       "released": "2019-07-05T00:00:00Z",
       "cracked": "2019-09-14T00:00:00Z",
       "cracked_by": [
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/1225590",
       "store_id": "1225590"
@@ -3211,7 +3198,7 @@
       "released": "2019-08-02T00:00:00Z",
       "cracked": "2019-08-28T00:00:00Z",
       "cracked_by": [
-        "CODEX"
+        "CODEX (Fixed by 0xZeOn)"
       ],
       "store_link": "Unavailable"
     },
@@ -3257,7 +3244,7 @@
       "released": "2019-11-05T00:00:00Z",
       "cracked": "2020-09-23T00:00:00Z",
       "cracked_by": [
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/703080",
       "store_id": "703080"
@@ -3306,7 +3293,7 @@
       "released": "2020-02-04T00:00:00Z",
       "cracked": "2020-12-11T00:00:00Z",
       "cracked_by": [
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/694280",
       "store_id": "694280"
@@ -3403,7 +3390,7 @@
       "released": "2020-10-29T00:00:00Z",
       "cracked": "2022-01-05T00:00:00Z",
       "cracked_by": [
-        "EMPRESS"
+        "EMPRESS (Fixed by skystar)"
       ],
       "store_link": "https://store.steampowered.com/app/2239550",
       "store_id": "2239550"
@@ -3436,7 +3423,7 @@
       "released": "2020-11-10T00:00:00Z",
       "cracked": "2021-03-24T00:00:00Z",
       "cracked_by": [
-        "EMPRESS"
+        "EMPRESS (Fixed by 0xZeOn)"
       ],
       "store_link": "https://store.steampowered.com/app/2208920l",
       "store_id": "2208920"
