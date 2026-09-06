@@ -403,6 +403,22 @@
       "store_id": "1810820"
     },
     {
+      "name": "Mortal Kombat 1",
+      "normalized_name": "mortalkombat1",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2023-09-19T00:00:00Z",
+      "cracked": "2026-09-05T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/1971870",
+      "store_id": "1971870"
+    },
+    {
       "name": "Assassins Creed Mirage",
       "normalized_name": "assassinscreedmirage",
       "hypervisor_available": true,
@@ -438,6 +454,23 @@
       "store_id": "2840770"
     },
     {
+      "name": "Prince of Persia: The Lost Crown",
+      "normalized_name": "princeofpersiathelostcrown",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2024-01-15T00:00:00Z",
+      "cracked": "2026-09-05T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2751000",
+      "store_id": "2751000"
+    },
+    {
       "name": "Black Myth Wukong",
       "normalized_name": "blackmythwukong",
       "hypervisor_available": false,
@@ -452,6 +485,23 @@
       ],
       "store_link": "https://store.steampowered.com/app/2358720",
       "store_id": "2358720"
+    },
+    {
+      "name": "Star Wars Outlaws",
+      "normalized_name": "starwarsoutlaws",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "drm_protection": "Uplay/Ubisoft Connect",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2024-08-30T00:00:00Z",
+      "cracked": "2026-09-06T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2842040",
+      "store_id": "2842040"
     },
     {
       "name": "City Transport Simulator",
@@ -1063,19 +1113,6 @@
       "store_id": "2338770"
     },
     {
-      "name": "Mortal Kombat 1",
-      "normalized_name": "mortalkombat1",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2023-09-19T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/1971870",
-      "store_id": "1971870"
-    },
-    {
       "name": "EA FC 24",
       "normalized_name": "eafc24",
       "hypervisor_available": true,
@@ -1165,21 +1202,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/1849250",
       "store_id": "1849250"
-    },
-    {
-      "name": "Prince of Persia: The Lost Crown",
-      "normalized_name": "princeofpersiathelostcrown",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "store_exclusive": "Epic Games Store",
-      "released": "2024-01-15T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.epicgames.com/en-US/p/prince-of-persia-the-lost-crown",
-      "store_id": "prince-of-persia-the-lost-crown"
     },
     {
       "name": "Like A Dragon Infinite Wealth",
@@ -1313,21 +1335,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/2582560",
       "store_id": "2582560"
-    },
-    {
-      "name": "Star Wars Outlaws",
-      "normalized_name": "starwarsoutlaws",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "drm_protection": "Uplay/Ubisoft Connect",
-      "store_exclusive": "Epic Games Store",
-      "released": "2024-08-30T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.epicgames.com/en-US/p/star-wars-outlaws",
-      "store_id": "star-wars-outlaws"
     },
     {
       "name": "NBA 2K25",
@@ -1868,6 +1875,19 @@
       "store_id": "4128400"
     },
     {
+      "name": "Onimusha - Way of the Sword",
+      "normalized_name": "onimushawayofthesword",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-09-04T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by DenuvOwO"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/2638890/",
+      "store_id": "2638890"
+    },
+    {
       "name": "Gunjack",
       "normalized_name": "gunjack",
       "hypervisor_available": true,
@@ -1988,17 +2008,18 @@
     {
       "name": "Metal Gear Solid V: The Phantom Pain",
       "normalized_name": "metalgearsolidvthephantompain",
-      "hypervisor_available": true,
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2015-09-01T00:00:00Z",
       "cracked": "2015-09-10T00:00:00Z",
       "cracked_by": [
         "3DM",
         "CPY",
-        "CODEX (Fixed by 0xZeOn)"
+        "CODEX",
+        "voices38"
       ],
       "store_link": "https://steampowered.com/app/287700",
       "store_id": "287700"
@@ -2359,7 +2380,8 @@
       "released": "2017-03-07T00:00:00Z",
       "cracked": "2017-07-24T00:00:00Z",
       "cracked_by": [
-        "STEAMPUNKS (Fixed by CPY)",
+        "STEAMPUNKS",
+        "CPY",
         "DeltaT",
         "EMPRESS (Fixed by 0xZeOn)"
       ],
@@ -3597,14 +3619,6 @@
   ],
   "upcoming_denuvo_games": [
     {
-      "name": "Onimusha - Way of the Sword",
-      "normalized_name": "onimushawayofthesword",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-09-04T00:00:00Z"
-    },
-    {
       "name": "EA FC 27",
       "normalized_name": "eafc27",
       "hypervisor_available": false,
@@ -3677,6 +3691,14 @@
       "release": "2027-01-15T00:00:00Z"
     },
     {
+      "name": "Metro 2039",
+      "normalized_name": "metro2039",
+      "hypervisor_available": false,
+      "denuvo_assumption": true,
+      "denuvo_assumption_desc": "Assumption",
+      "release": "2027-02-04T00:00:00Z"
+    },
+    {
       "name": "Tomb Raider Legacy of Atlantis",
       "normalized_name": "tombraiderlegacyofatlantis",
       "hypervisor_available": false,
@@ -3693,12 +3715,28 @@
       "release": "2027-02-18T00:00:00Z"
     },
     {
-      "name": "Metro 2039",
-      "normalized_name": "metro2039",
+      "name": "Gundam Rogue Orbit",
+      "normalized_name": "gundamrogueorbit",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2027-03-05T00:00:00Z"
+    },
+    {
+      "name": "Final Fantasy VII Revelation",
+      "normalized_name": "finalfantasyviirevelation",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2027-04-08T00:00:00Z"
+    },
+    {
+      "name": "Maneater 2",
+      "normalized_name": "maneater2",
       "hypervisor_available": false,
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
-      "release": "TBA February 2027"
+      "release": "TBA 2027"
     },
     {
       "name": "Tom Clancy's Rainbow Six Tactics",
