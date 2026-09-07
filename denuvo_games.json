@@ -471,6 +471,22 @@
       "store_id": "2751000"
     },
     {
+      "name": "Persona 3 Reload",
+      "normalized_name": "persona3reload",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2024-02-02T00:00:00Z",
+      "cracked": "2026-09-06T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2161700",
+      "store_id": "2161700"
+    },
+    {
       "name": "Black Myth Wukong",
       "normalized_name": "blackmythwukong",
       "hypervisor_available": false,
@@ -1215,20 +1231,6 @@
       ],
       "store_link": "https://store.steampowered.com/agecheck/app/2072450/",
       "store_id": "2072450"
-    },
-    {
-      "name": "Persona 3 Reload",
-      "normalized_name": "persona3reload",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2024-02-02T00:00:00Z",
-      "bypassed_by": [
-        "Demo Bypass by RikuKH3",
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/2161700",
-      "store_id": "2161700"
     },
     {
       "name": "Valiant Hearts: Coming Home",
@@ -2768,17 +2770,18 @@
     {
       "name": "Far Cry 5",
       "normalized_name": "farcry5",
-      "hypervisor_available": true,
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-03-27T00:00:00Z",
       "cracked": "2018-04-15T00:00:00Z",
       "cracked_by": [
         "CPY",
-        "CODEX (Fixed by 0xZeOn)"
+        "CODEX",
+        "0xZeOn"
       ],
       "store_link": "https://steampowered.com/app/552520",
       "store_id": "552520"
