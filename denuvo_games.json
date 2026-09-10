@@ -1720,19 +1720,6 @@
       "store_id": "3274580"
     },
     {
-      "name": "Code Vein 2",
-      "normalized_name": "codevein2",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-01-30T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/2362060",
-      "store_id": "2362060"
-    },
-    {
       "name": "Yakuza Kiwami 3 & Dark Ties",
       "normalized_name": "yakuzakiwami3darkties",
       "hypervisor_available": true,
@@ -1783,19 +1770,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/2624870/",
       "store_id": "2624870"
-    },
-    {
-      "name": "Mega Man Star Force Legacy Collection",
-      "normalized_name": "megamanstarforcelegacycollection",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-03-27T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/3500390",
-      "store_id": "3500390"
     },
     {
       "name": "City Transport Simulator 2026",
