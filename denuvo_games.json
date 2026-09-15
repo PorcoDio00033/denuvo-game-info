@@ -3671,6 +3671,14 @@
       "release": "2027-02-12T00:00:00Z"
     },
     {
+      "name": "Romancing SaGa 3: Destinies United",
+      "normalized_name": "romancingsaga3destiniesunited",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "2027-02-16T00:00:00Z"
+    },
+    {
       "name": "Persona 4 Revival",
       "normalized_name": "persona4revival",
       "hypervisor_available": false,
@@ -3749,6 +3757,14 @@
       "denuvo_assumption": true,
       "denuvo_assumption_desc": "Assumption",
       "release": "TBA 2027"
+    },
+    {
+      "name": "Ondeh Ondeh Kaya's Tasty Tale",
+      "normalized_name": "ondehondehkayastastytale",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "release": "TBA"
     },
     {
       "name": "Heroes of Might and Magic III Remake",
