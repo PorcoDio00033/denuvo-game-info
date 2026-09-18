@@ -1667,19 +1667,6 @@
       "store_id": "3405690"
     },
     {
-      "name": "Final Fantasy Tactics - The Ivalice Chronicles",
-      "normalized_name": "finalfantasytacticstheivalicechronicles",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-09-30T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/1004640",
-      "store_id": "1004640"
-    },
-    {
       "name": "Jurassic World Evolution 3",
       "normalized_name": "jurassicworldevolution3",
       "hypervisor_available": true,
