@@ -421,7 +421,7 @@
     {
       "name": "Assassins Creed Mirage",
       "normalized_name": "assassinscreedmirage",
-      "hypervisor_available": true,
+      "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
@@ -431,7 +431,8 @@
       "cracked": "2024-11-15T00:00:00Z",
       "cracked_by": [
         "Anonymous user",
-        "voices38"
+        "voices38",
+        "RUNE"
       ],
       "store_link": "https://store.steampowered.com/app/3035570",
       "store_id": "3035570"
@@ -654,8 +655,8 @@
       "hypervisor_available": true,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "crack_status": "missing_dlc",
+      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2026-05-22T00:00:00Z",
       "cracked": "2026-05-22T00:00:00Z",
       "cracked_by": [
