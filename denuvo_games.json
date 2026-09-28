@@ -13,6 +13,18 @@
   "notes": [
     "UWP version has no Denuvo. It uses UWP DRM instead. Steam version still has Denuvo."
   ],
+  "uncracked/unbypassed_denuvo_games": [
+    {
+      "name": "EA FC 27",
+      "normalized_name": "eafc27",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-09-25T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/4080220",
+      "store_id": "4080220"
+    }
+  ],
   "cracked_denuvo_games_(2021-present)": [
     {
       "name": "Scott Pilgrim vs. The World: The Game",
@@ -575,8 +587,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "fully_cracked",
-      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "crack_status": "missing_updates",
+      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
       "released": "2025-06-11T00:00:00Z",
       "cracked": "2026-05-08T00:00:00Z",
       "cracked_by": [
@@ -2936,8 +2948,8 @@
       "hypervisor_available": false,
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
       "released": "2018-09-27T00:00:00Z",
       "cracked": "2019-01-16T00:00:00Z",
       "cracked_by": [
@@ -3570,14 +3582,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "EA FC 27",
-      "normalized_name": "eafc27",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-09-25T00:00:00Z"
-    },
     {
       "name": "Rayman Legends Retold",
       "normalized_name": "raymanlegendsretold",
