@@ -3833,14 +3833,6 @@
       "release": "TBA"
     },
     {
-      "name": "Judas",
-      "normalized_name": "judas",
-      "hypervisor_available": false,
-      "denuvo_assumption": true,
-      "denuvo_assumption_desc": "Assumption",
-      "release": "TBA"
-    },
-    {
       "name": "Beyond Good & Evil 2",
       "normalized_name": "beyondgoodevil2",
       "hypervisor_available": false,
