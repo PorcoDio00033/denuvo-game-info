@@ -1853,6 +1853,19 @@
       "store_id": "4080220"
     },
     {
+      "name": "Ace Combat 8: Wings of Theve",
+      "normalized_name": "acecombat8wingsoftheve",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-10-02T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by ARTIFACT"
+      ],
+      "store_link": "https://store.steampowered.com/app/2288340",
+      "store_id": "2288340"
+    },
+    {
       "name": "Gunjack",
       "normalized_name": "gunjack",
       "hypervisor_available": true,
@@ -3584,14 +3597,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Ace Combat 8: Wings of Theve",
-      "normalized_name": "acecombat8wingsoftheve",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-10-02T00:00:00Z"
-    },
     {
       "name": "Star Wars: Galactic Racer",
       "normalized_name": "starwarsgalacticracer",
