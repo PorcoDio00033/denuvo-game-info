@@ -23,6 +23,16 @@
       "released": "2026-10-06T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/4078430",
       "store_id": "4078430"
+    },
+    {
+      "name": "Planet Zoo 2",
+      "normalized_name": "planetzoo2",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-10-13T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/3219030",
+      "store_id": "3219030"
     }
   ],
   "cracked_denuvo_games_(2021-present)": [
@@ -3601,14 +3611,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Planet Zoo 2",
-      "normalized_name": "planetzoo2",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-10-13T00:00:00Z"
-    },
     {
       "name": "Final Fantasy Resonance",
       "normalized_name": "finalfantasyresonance",
