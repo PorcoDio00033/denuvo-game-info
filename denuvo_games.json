@@ -198,6 +198,22 @@
       "store_id": "2369390"
     },
     {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2021-10-15T00:00:00Z",
+      "cracked": "2026-10-18T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/1490890/",
+      "store_id": "1490890"
+    },
+    {
       "name": "Marvel's Guardians of the Galaxy",
       "normalized_name": "marvelsguardiansofthegalaxy",
       "hypervisor_available": false,
@@ -640,6 +656,22 @@
       "store_id": "1941540"
     },
     {
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles2",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2025-08-08T00:00:00Z",
+      "cracked": "2026-10-18T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/app/2928600",
+      "store_id": "2928600"
+    },
+    {
       "name": "Resident Evil Requiem",
       "normalized_name": "residentevilrequiem",
       "hypervisor_available": true,
@@ -803,19 +835,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/2383760",
       "store_id": "2383760"
-    },
-    {
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2021-10-15T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/1490890/",
-      "store_id": "1490890"
     },
     {
       "name": "Football Manager 2022",
@@ -1603,19 +1622,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/2288350/",
       "store_id": "2288350"
-    },
-    {
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-      "normalized_name": "demonslayerkimetsunoyaibathehinokamichronicles2",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2025-08-08T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/app/2928600",
-      "store_id": "2928600"
     },
     {
       "name": "Madden NFL 2026",
