@@ -33,6 +33,16 @@
       "released": "2026-10-13T00:00:00Z",
       "store_link": "https://store.steampowered.com/app/3219030",
       "store_id": "3219030"
+    },
+    {
+      "name": "Final Fantasy Resonance",
+      "normalized_name": "finalfantasyresonance",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-10-22T00:00:00Z",
+      "store_link": "https://store.steampowered.com/app/3259780",
+      "store_id": "3259780"
     }
   ],
   "cracked_denuvo_games_(2021-present)": [
@@ -3617,14 +3627,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Final Fantasy Resonance",
-      "normalized_name": "finalfantasyresonance",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-10-22T00:00:00Z"
-    },
     {
       "name": "Phantom Blade Zero",
       "normalized_name": "phantombladezero",
