@@ -1,7 +1,6 @@
 name,section,bypassed_by,crack_status,crack_status_desc,cracked,cracked_by,denuvo_assumption,denuvo_assumption_desc,drm_protection,hypervisor_available,normalized_name,release,released,store_id,store_link
 Star Wars: Galactic Racer,uncracked/unbypassed_denuvo_games,,,,,,False,Confirmed,,False,starwarsgalacticracer,,2026-10-06T00:00:00Z,4078430,https://store.steampowered.com/app/4078430
 Planet Zoo 2,uncracked/unbypassed_denuvo_games,,,,,,False,Confirmed,,False,planetzoo2,,2026-10-13T00:00:00Z,3219030,https://store.steampowered.com/app/3219030
-Final Fantasy Resonance,uncracked/unbypassed_denuvo_games,,,,,,False,Confirmed,,False,finalfantasyresonance,,2026-10-22T00:00:00Z,3259780,https://store.steampowered.com/app/3259780
 Scott Pilgrim vs. The World: The Game,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2025-12-06T00:00:00Z,voices38,False,Confirmed,Uplay/Ubisoft Connect,False,scottpilgrimvstheworldthegame,,2021-01-14T00:00:00Z,2215260,https://store.steampowered.com/app/2215260
 Persona 5 Strikers,cracked_denuvo_games_(2021-present),,missing_updates,"all DLC's are cracked, but the latest patch is uncracked",2021-02-19T00:00:00Z,whiteee,False,Confirmed,,True,persona5strikers,,2021-02-23T00:00:00Z,1382330,https://store.steampowered.com/app/1382330
 Megasuki: Love Through Lenses with Ayumu Sakura,cracked_denuvo_games_(2021-present),,fully_cracked,latest update is cracked with all the DLC's,2021-04-01T00:00:00Z,sst311212,False,Confirmed,,False,megasukilovethroughlenseswithayumusakura,,2021-03-19T00:00:00Z,,https://vndb.org/v28260
@@ -131,6 +130,7 @@ eBaseball™: PRO SPIRIT,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO
 Onimusha - Way of the Sword,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,True,onimushawayofthesword,,2026-09-04T00:00:00Z,2638890,https://store.steampowered.com/agecheck/app/2638890/
 EA FC 27,bypassed_denuvo_games,Hypervisor workaround by ARTIFACT,,,,,False,Confirmed,,True,eafc27,,2026-09-25T00:00:00Z,4080220,https://store.steampowered.com/app/4080220
 Ace Combat 8: Wings of Theve,bypassed_denuvo_games,Hypervisor workaround by ARTIFACT,,,,,False,Confirmed,,True,acecombat8wingsoftheve,,2026-10-02T00:00:00Z,2288340,https://store.steampowered.com/app/2288340
+Final Fantasy Resonance,bypassed_denuvo_games,Hypervisor workaround by ARTIFACT,,,,,False,Confirmed,,True,finalfantasyresonance,,2026-10-22T00:00:00Z,3259780,https://store.steampowered.com/app/3259780
 Gunjack,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,True,gunjack,,2016-03-28T00:00:00Z,,
 Edge of Nowhere,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,True,edgeofnowhere,,2016-06-06T00:00:00Z,,
 Damaged core,bypassed_denuvo_games,Hypervisor workaround by DenuvOwO,,,,,False,Confirmed,,True,damagedcore,,2016-08-30T00:00:00Z,,
