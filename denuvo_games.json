@@ -13,28 +13,7 @@
   "notes": [
     "UWP version has no Denuvo. It uses UWP DRM instead. Steam version still has Denuvo."
   ],
-  "uncracked/unbypassed_denuvo_games": [
-    {
-      "name": "Star Wars: Galactic Racer",
-      "normalized_name": "starwarsgalacticracer",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-10-06T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/4078430",
-      "store_id": "4078430"
-    },
-    {
-      "name": "Planet Zoo 2",
-      "normalized_name": "planetzoo2",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-10-13T00:00:00Z",
-      "store_link": "https://store.steampowered.com/app/3219030",
-      "store_id": "3219030"
-    }
-  ],
+  "uncracked/unbypassed_denuvo_games": [],
   "cracked_denuvo_games_(2021-present)": [
     {
       "name": "Scott Pilgrim vs. The World: The Game",
@@ -1873,6 +1852,32 @@
       "store_id": "2288340"
     },
     {
+      "name": "Star Wars: Galactic Racer",
+      "normalized_name": "starwarsgalacticracer",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-10-06T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by ARTIFACT"
+      ],
+      "store_link": "https://store.steampowered.com/app/4078430",
+      "store_id": "4078430"
+    },
+    {
+      "name": "Planet Zoo 2",
+      "normalized_name": "planetzoo2",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-10-13T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by ARTIFACT"
+      ],
+      "store_link": "https://store.steampowered.com/app/3219030",
+      "store_id": "3219030"
+    },
+    {
       "name": "Final Fantasy Resonance",
       "normalized_name": "finalfantasyresonance",
       "hypervisor_available": true,
@@ -1884,6 +1889,19 @@
       ],
       "store_link": "https://store.steampowered.com/app/3259780",
       "store_id": "3259780"
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "normalized_name": "phantombladezero",
+      "hypervisor_available": true,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "released": "2026-10-29T00:00:00Z",
+      "bypassed_by": [
+        "Hypervisor workaround by ARTIFACT"
+      ],
+      "store_link": "https://store.steampowered.com/app/4115450",
+      "store_id": "4115450"
     },
     {
       "name": "Gunjack",
@@ -3617,14 +3635,6 @@
     }
   ],
   "upcoming_denuvo_games": [
-    {
-      "name": "Phantom Blade Zero",
-      "normalized_name": "phantombladezero",
-      "hypervisor_available": false,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "release": "2026-10-29T00:00:00Z"
-    },
     {
       "name": "Dragon Quest Monsters - The Withered World",
       "normalized_name": "dragonquestmonstersthewitheredworld",
