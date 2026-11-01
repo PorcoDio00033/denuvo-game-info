@@ -737,8 +737,8 @@
       "denuvo_assumption": false,
       "denuvo_assumption_desc": "Confirmed",
       "drm_protection": "Uplay/Ubisoft Connect",
-      "crack_status": "missing_updates",
-      "crack_status_desc": "all DLC's are cracked, but the latest patch is uncracked",
+      "crack_status": "missing_dlc",
+      "crack_status_desc": "the latest DLC or multiple ones are uncracked",
       "released": "2026-07-09T00:00:00Z",
       "cracked": "2026-08-15T00:00:00Z",
       "cracked_by": [
@@ -746,6 +746,22 @@
       ],
       "store_link": "https://store.steampowered.com/app/3751950",
       "store_id": "3751950"
+    },
+    {
+      "name": "Onimusha - Way of the Sword",
+      "normalized_name": "onimushawayofthesword",
+      "hypervisor_available": false,
+      "denuvo_assumption": false,
+      "denuvo_assumption_desc": "Confirmed",
+      "crack_status": "fully_cracked",
+      "crack_status_desc": "latest update is cracked with all the DLC's",
+      "released": "2026-09-04T00:00:00Z",
+      "cracked": "2026-10-31T00:00:00Z",
+      "cracked_by": [
+        "voices38"
+      ],
+      "store_link": "https://store.steampowered.com/agecheck/app/2638890/",
+      "store_id": "2638890"
     }
   ],
   "bypassed_denuvo_games": [
@@ -1811,19 +1827,6 @@
       ],
       "store_link": "https://store.steampowered.com/app/4128400",
       "store_id": "4128400"
-    },
-    {
-      "name": "Onimusha - Way of the Sword",
-      "normalized_name": "onimushawayofthesword",
-      "hypervisor_available": true,
-      "denuvo_assumption": false,
-      "denuvo_assumption_desc": "Confirmed",
-      "released": "2026-09-04T00:00:00Z",
-      "bypassed_by": [
-        "Hypervisor workaround by DenuvOwO"
-      ],
-      "store_link": "https://store.steampowered.com/agecheck/app/2638890/",
-      "store_id": "2638890"
     },
     {
       "name": "EA FC 27",
