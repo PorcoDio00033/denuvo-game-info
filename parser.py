@@ -39,7 +39,7 @@ OUTPUT_CSV = "denuvo_games.csv"
 class RedditClient:
     """Unified Reddit API client with OAuth, proxy rotation, and retry logic."""
 
-    IMPERSONATE = "safari18_4_ios"
+    IMPERSONATE = "safari_ios"
     TIMEOUT = 30
     MAX_RETRIES = 10
     TOKEN_BUFFER_SECONDS = 60
